@@ -18,5 +18,5 @@ license = { text = "GPLv3" }
 keywords = ["countries", "dictionary", "united nations", "states", "russia", "vietnam"]
 
 [project.urls]
-"Homepage" = "https://github.com/ThienFakeVN/countries_dictionary",
+"Homepage" = "https://github.com/ThienFakeVN/countries_dictionary"
 "Repository" = "https://github.com/ThienFakeVN/countries_dictionary"
