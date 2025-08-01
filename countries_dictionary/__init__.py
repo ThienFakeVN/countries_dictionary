@@ -56,7 +56,7 @@ countries = {
         "area": 442.0,
         "land area": 442.0,
         "population": 103603,
-        "official languages": [None],
+        "official languages": [],
         "nominal GDP": 2033000000,
         "HDI": 0.851,
     },
@@ -66,7 +66,7 @@ countries = {
         "area": 2780400.0,
         "land area": 2736690.0,
         "population": 47067641,
-        "official languages": [None],
+        "official languages": [],
         "nominal GDP": 646075000000,
         "HDI": 0.865,
     },
@@ -86,7 +86,7 @@ countries = {
         "area": 7741220.0,
         "land area": 7682300.0,
         "population": 27400013,
-        "official languages": [None],
+        "official languages": [],
         "nominal GDP": 1775628000000,
         "HDI": 0.958,
     },
@@ -217,7 +217,7 @@ countries = {
         "area": 51209.0,
         "land area": 51200.0,
         "population": 3422000,
-        "official languages": [None],
+        "official languages": [],
         "nominal GDP": 27515000000,
         "HDI": 0.804,
     },
@@ -845,7 +845,7 @@ countries = {
         "area": 377915.0,
         "land area": 364485.0,
         "population": 123360000,
-        "official languages": [None],
+        "official languages": [],
         "nominal GDP": 4204495000000,
         "HDI": 0.925,
     },
@@ -1088,7 +1088,7 @@ countries = {
         "area": 2096.0,
         "land area": 2086.0,
         "population": 1244477,
-        "official languages": [None],
+        "official languages": [],
         "nominal GDP": 14397000000,
         "HDI": 0.806,
     },
@@ -1098,7 +1098,7 @@ countries = {
         "area": 1964375.0,
         "land area": 1943950.0,
         "population": 130417144,
-        "official languages": [None],
+        "official languages": [],
         "nominal GDP": 1793799000000,
         "HDI": 0.789,
     },
@@ -1865,7 +1865,7 @@ countries = {
         "area": 244376.0,
         "land area": 242741.0,
         "population": 68265209,
-        "official languages": [None],
+        "official languages": [],
         "nominal GDP": 3380855000000,
         "HDI": 0.946,
     },
@@ -1875,7 +1875,7 @@ countries = {
         "area": 9525067.0,
         "land area": 9147593.0,
         "population": 340110988,
-        "official languages": [None],
+        "official languages": [],
         "nominal GDP": 27720700000000,
         "HDI": 0.938,
     },
@@ -1972,7 +1972,7 @@ countries = {
 }
 """A dictionary contains all members and observer states of the United Nations and information about them:
 - Formal name
-- Continent (of the countries' mainland), order: Asia, Europe, Africa, North America, South America, Oceania
+- Continent (of the country's mainland), order: Asia, Europe, Africa, North America, South America, Oceania
 - Area and land area (in square kilometre), source: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area
 - Population, source: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
 - Official languages, source: https://en.wikipedia.org/wiki/List_of_official_languages_by_country_and_territory

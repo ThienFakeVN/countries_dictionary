@@ -1,21 +1,21 @@
 Countries Dictionary provides: 
 - A dictionary contains all members and observer states of the United Nations and information about them:
-  - Formal name
-  - Continent(s) of the countries' mainland
-  - Area in square kilometre
-  - Population
-  - Official languages
-  - Nominal GDP in dollar
-  - Human Development Index
+    - Formal name
+    - Continent(s) of the country's mainland
+    - Area in square kilometre
+    - Population
+    - Official languages
+    - Nominal GDP in dollar
+    - Human Development Index
 - Another dictionary contains all federal subjects of the Russian Federation (including occupied zones in Ukraine) and information about them:
-  - Federal district
-  - Economic region
-  - Area
-  - Population
+    - Federal district
+    - Economic region
+    - Area
+    - Population
 - Another one contains all provinces and municipalities of the Socialist Republic of Vietnam and information about them:
-  - Region
-  - Area
-  - Population
+    - Region
+    - Area
+    - Population
  - Some variables you might find helpful
 
 After importing them:
@@ -43,3 +43,5 @@ qv.countries_france_censored
 ```
 
 I created this module as a source of countries' information that is easy to access and use by coders.
+
+See [CHANGELOG.md](./CHANGELOG.md) for changes of releases.

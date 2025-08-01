@@ -21,7 +21,19 @@ countries_france_censored = dict(sorted(countries_france_censored.items()))
 (This is only a joke, I don't support hate against France and French)"""
 
 countries_area_sorted = dict(sorted(countries.items(), key=lambda item: item[1]["area"], reverse=True))
-"""The countries dictionary sorted by area"""
+"""The countries dictionary sorted by area (from most to least)"""
 
 countries_population_sorted = dict(sorted(countries.items(), key=lambda item: item[1]["population"], reverse=True))
-"""The countries dictionary sorted by population"""
+"""The countries dictionary sorted by population (from most to least)"""
+
+russia_subjects_area_sorted = dict(sorted(russia.items(), key=lambda item: item[1]["area"], reverse=True))
+"""The Russia dictionary sorted by area (from most to least)"""
+
+russia_subjects_population_sorted = dict(sorted(russia.items(), key=lambda item: item[1]["population"], reverse=True))
+"""The Russia dictionary sorted by area (from most to least)"""
+
+vietnam_provinces_area_sorted = dict(sorted(vietnam.items(), key=lambda item: item[1]["area"], reverse=True))
+"""The Vietnam dictionary sorted by area (from most to least)"""
+
+vietnam_provinces_population_sorted = dict(sorted(vietnam.items(), key=lambda item: item[1]["population"], reverse=True))
+"""The Vietnam dictionary sorted by area (from most to least)"""
