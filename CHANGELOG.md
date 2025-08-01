@@ -36,9 +36,15 @@ First release of Countries Dictionary.
 
 ## [2.2.0] 2025.08.02
 ### Added
+- Added `CHANGELOG.md`
 - Added 1 type of Russian subjects' information: `capital/administrative centre`
 - Added 1 type of Vietnamese provinces' information: `administrative centre`
 - Added 4 variables in `quick_variables.py`: `russia_subjects_area_sorted`, `russia_subjects_population_sorted`, `vietnam_provinces_area_sorted`, `vietnam_provinces_population_sorted`
 
 ### Updated
 - Replace `[None]`s in `official languages`s with `[]`, and `None`s in `federal district`s and `economic region`s with `""`
+
+## [2.2.1] 2025.08.02
+### Updated
+- Removed the link to `CHANGELOG.md` in `README.md`
+- Added a reference of the adđition of the `CHANGELOG.md` file

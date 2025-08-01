@@ -44,4 +44,4 @@ qv.countries_france_censored
 
 I created this module as a source of countries' information that is easy to access and use by coders.
 
-See [CHANGELOG.md](./CHANGELOG.md) for changes of releases.
+See `CHANGELOG.md` for changes of releases.
