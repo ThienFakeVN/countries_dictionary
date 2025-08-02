@@ -48,3 +48,8 @@ First release of Countries Dictionary.
 ### Updated
 - Removed the link to `CHANGELOG.md` in `README.md`
 - Added a reference of the adđition of the `CHANGELOG.md` file
+
+## [2.2.2] 2025.08.02
+### Updated
+- Added the link to the `CHANGELOG.md` file on GitHub in `README.md`
+- Slightly modified the `countries_dictionary`'s documentation

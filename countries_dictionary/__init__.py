@@ -1972,10 +1972,10 @@ countries = {
 }
 """A dictionary contains all members and observer states of the United Nations and information about them:
 - Formal name
-- Continent (of the country's mainland), order: Asia, Europe, Africa, North America, South America, Oceania
+- Continent(s) (of the country's mainland), order: Asia, Europe, Africa, North America, South America, Oceania
 - Area and land area (in square kilometre), source: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area
 - Population, source: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
-- Official languages, source: https://en.wikipedia.org/wiki/List_of_official_languages_by_country_and_territory
+- Official language(s), source: https://en.wikipedia.org/wiki/List_of_official_languages_by_country_and_territory
 - Nominal GDP (in dollar), source: https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal); https://en.wikipedia.org/wiki/Vatican_City
 - Human Development Index, source: https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index, excluding Monaco; North Korea and Vatican City
 
