@@ -18,32 +18,8 @@ Countries Dictionary provides:
     - Administrative centre
     - Area
     - Population
- - Some variables you might find helpful
+ - Some functions you might find helpful
 
-After importing them:
-```python
-from countries_dictionary import countries
-from countries_dictionary.russia import russia
-from countries_dictionary.vietnam import vietnam
-import countries_dictionary.quick_variables as qv
-```
-you can do many things with the dictionary, such as calculate GDP per capita of a country:
-```python
-countries["Switzerland"]["nominal GDP"] / countries["Switzerland"]["population"]
-```
-population density:
-```python
-countries["Russia"]["population"] / countries["Russia"]["area"]
-```
-percentage of a Vietnamese province's area compared to Vietnam's total area:
-```python
-vietnam["Ho Chi Minh City"]["area"] / countries["Vietnam"]["area"] * 100
-```
-or just see the dictionary when France is censored (This is only a joke, I don't support hate against France and French)
-```python
-qv.countries_france_censored
-```
-
-I created this module as a source of countries' information that is easy to access and use by coders.
+I created this module as an offline source of countries' information which is easy to access and use by coders.
 
 See [CHANGELOG.md](https://github.com/ThienFakeVN/countries_dictionary/blob/main/CHANGELOG.md) for changes of releases.

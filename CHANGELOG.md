@@ -6,15 +6,18 @@ First release of Countries Dictionary.
 ### Added
 - Added 1 module file: `__init__.py`
 - Added 4 types of countries' information: `continents`, `area`, `population`, `nominal GDP`
+
 ## [1.0.1] 2025.07.15
 ### Updated
-- Fixed the licence's name
+- Fixed the licence's name in `pyproject.toml`
 
 ## [1.0.2] 2025.07.17
 ### Updated
 - Fixed the `README.md`'s grammar
 
 ## [2.0.0] 2025.07.30
+The second major release of Countries Dictionary.
+
 ### Added
 - Added 3 module files: `quick_variables.py`, `russia.py`, `vietnam.py`
 - Added 4 types of countries' information: `formal name`, `land area`, `official languages`, `HDI`
@@ -31,10 +34,14 @@ First release of Countries Dictionary.
 - Fixed how `quick_variables.py` imports `russia.py` and `vietnam.py`
 
 ## [2.1.0] 2025.07.31
+Since this release, you can publicly see the codes, licence, etc. of this module at https://github.com/ThienFakeVN/countries_dictionary (though, if you see this `CHANGELOG.md` then you have already known that)
+
 ### Updated
 - The module can now be maintained on GitHub
 
 ## [2.2.0] 2025.08.02
+The release which introduces `CHANGELOG.md` and various more things
+
 ### Added
 - Added `CHANGELOG.md`
 - Added 1 type of Russian subjects' information: `capital/administrative centre`
@@ -53,3 +60,19 @@ First release of Countries Dictionary.
 ### Updated
 - Added the link to the `CHANGELOG.md` file on GitHub in `README.md`
 - Slightly modified the `countries_dictionary`'s documentation
+
+## [2.3.0] 2025.08.09
+A big release for `quick_variables.py` and British English (even though I've been used it since the first release), alongside adding some information for minor and major releases.
+
+### Added
+- Added 9 functions in `quick_variables.py`: `chosen_dictionary()`, `json_dictionary()`, `sorted_dictionary()`, `filtered_dictionary()`, `countries_population_density()`, `russia_population_density()`, `vietnam_population_density()`, `countries_population_density()`, `countries_france_censored()`
+
+### Removed
+- Removed the 10 previous variables in `quick_variables.py`: `json_countries`, `json_russia`, `json_vietnam`, `countries_france_censored`, `countries_area_sorted`, `countries_population_sorted`, `russia_subjects_area_sorted`, `russia_subjects_population_sorted`, `vietnam_provinces_area_sorted`, `vietnam_provinces_population_sorted`
+
+### Updated
+- Added extra information in `README.md`
+- Changed the name of `LICENSE` to `LICENCE`
+- Replaced the licence's name with the `LICENCE` file in `pyproject.toml`
+- Modified `README.md` significantly
+- Fixed the `"land area"`s of some countries
