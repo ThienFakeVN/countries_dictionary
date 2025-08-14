@@ -1,4 +1,4 @@
-countries = {
+COUNTRIES = {
     # A
     "Afghanistan": {
         "formal name": "Islamic Emirate of Afghanistan",

@@ -1,4 +1,4 @@
-vietnam = {
+VIETNAM = {
     "Hanoi": {
         "region": "Red River Delta",
         "administrative centre": "Hoàn Kiếm ward",

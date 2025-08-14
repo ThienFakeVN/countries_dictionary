@@ -1,4 +1,4 @@
-russia = {
+RUSSIA = {
     "Adygea": {
         "federal district": "Southern",
         "economic region": "North Caucasus",

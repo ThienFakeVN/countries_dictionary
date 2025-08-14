@@ -71,8 +71,13 @@ A big release for `quick_variables.py` and British English (even though I've bee
 - Removed the 10 previous variables in `quick_variables.py`: `json_countries`, `json_russia`, `json_vietnam`, `countries_france_censored`, `countries_area_sorted`, `countries_population_sorted`, `russia_subjects_area_sorted`, `russia_subjects_population_sorted`, `vietnam_provinces_area_sorted`, `vietnam_provinces_population_sorted`
 
 ### Updated
-- Added extra information in `README.md`
 - Changed the name of `LICENSE` to `LICENCE`
 - Replaced the licence's name with the `LICENCE` file in `pyproject.toml`
 - Modified `README.md` significantly
-- Fixed the `"land area"`s of some countries
+- Fixed the `land area`s of some countries
+
+## [2.3.1] 2025.08.13
+### Updated
+- Modified `README.md` slightly
+- Modified some lines in `CHANGELOG.md`
+- Changed the name of `countries`, `russia`, `vietnam` to `COUNTRIES`, `RUSSIA`, `VIETNAM` respectively in the module files
