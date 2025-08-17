@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countries_dictionary"
-version = "2.3.1"
+version = "3.0.0"
 description = "Provides a dictionary contains all members and observer states of the United Nations and information about them"
 readme = "README.md"
 requires-python = ">=3.7"
@@ -18,5 +18,5 @@ license = { file = "LICENCE" }
 keywords = ["countries", "dictionary", "united nations", "states", "russia", "vietnam"]
 
 [project.urls]
-"Homepage" = "https://github.com/ThienFakeVN/countries_dictionary"
-"Repository" = "https://github.com/ThienFakeVN/countries_dictionary"
+"Homepage" = "https://github.com/ThienFakeVN/countries_dictionary/"
+"Repository" = "https://github.com/ThienFakeVN/countries_dictionary/"

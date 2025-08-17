@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: countries_dictionary
-Version: 2.3.1
+Version: 3.0.0
 Summary: Provides a dictionary contains all members and observer states of the United Nations and information about them
 Author-email: Ngô Trần Quang Thiện <quangthienngotran@gmail.com>
 License:                     GNU GENERAL PUBLIC LICENSE
@@ -677,8 +677,8 @@ License:                     GNU GENERAL PUBLIC LICENSE
         the library.  If this is what you want to do, use the GNU Lesser General
         Public License instead of this License.  But first, please read
         <https://www.gnu.org/licenses/why-not-lgpl.html>.
-Project-URL: Homepage, https://github.com/ThienFakeVN/countries_dictionary
-Project-URL: Repository, https://github.com/ThienFakeVN/countries_dictionary
+Project-URL: Homepage, https://github.com/ThienFakeVN/countries_dictionary/
+Project-URL: Repository, https://github.com/ThienFakeVN/countries_dictionary/
 Keywords: countries,dictionary,united nations,states,russia,vietnam
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
@@ -690,23 +690,26 @@ Countries Dictionary provides:
 - A dictionary contains all members and observer states of the United Nations and information about them:
     - Formal name
     - Continent(s) of the country's mainland
-    - Area in square kilometre
+    - Area and land area (in square kilometre)
     - Population
     - Official language(s)
-    - Nominal GDP in dollar
+    - Nominal GDP (in dollar)
     - Human Development Index
+    - ISO 3166-1 codes
 - Another dictionary contains all federal subjects of the Russian Federation (including occupied zones in Ukraine) and information about them:
     - Federal district
     - Economic region
     - Capital or administrative centre
-    - Area
+    - Area (in square kilometre)
     - Population
 - Another one contains all provinces and municipalities of the Socialist Republic of Vietnam and information about them:
     - Region
     - Administrative centre
-    - Area
+    - Area (in square kilometre)
     - Population
- - Some functions you might find helpful
+ - Some functions which you might find helpful
+
+Before using, it is recommended to see the code on [GitHub](https://github.com/ThienFakeVN/countries_dictionary/) to understand how the code works
 
 I created this module as an offline source of countries' information which is easy to access and use by coders.
 

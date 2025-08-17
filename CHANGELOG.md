@@ -16,7 +16,7 @@ First release of Countries Dictionary.
 - Fixed the `README.md`'s grammar
 
 ## [2.0.0] 2025.07.30
-The second major release of Countries Dictionary.
+The second major release of Countries Dictionary, which includes new module files
 
 ### Added
 - Added 3 module files: `quick_variables.py`, `russia.py`, `vietnam.py`
@@ -81,3 +81,17 @@ A big release for `quick_variables.py` and British English (even though I've bee
 - Modified `README.md` slightly
 - Modified some lines in `CHANGELOG.md`
 - Changed the name of `countries`, `russia`, `vietnam` to `COUNTRIES`, `RUSSIA`, `VIETNAM` respectively in the module files
+
+## [3.0.0] 2025.08.17
+The third major release of Countries Dictionary, which includes ISO codes (with related things) and the United States dictionary
+
+### Added
+- Added 2 module files: `iso_finder.py`, `united_states.py`
+- Added 1 type of countries' information: `ISO 3166-1`
+- Added 3 types of ISO codes: `alpha-2`, `alpha-3`, `numeric`
+- Added 2 function of `quick_variables.py`: `united_states_population_density()`, `countries_iso_3166_2()`
+- Added 6 types of US states: `capital`, `date of ratification/establishment/acquiring`, `area`, `population`, `House Representatives`, `postal code`
+
+### Updated
+- Modified some documentaion
+- Renamed `quick_variables.py` to `quick_functions.py`

@@ -2,6 +2,7 @@
 
 from countries_dictionary import COUNTRIES
 from countries_dictionary.russia import RUSSIA
+from countries_dictionary.russia import UNITED_STATES
 from countries_dictionary.vietnam import VIETNAM
 import json
 
@@ -9,6 +10,7 @@ def chosen_dictionary(dictionary="countries"):
     """Returns one of the dictionaries depends on the parameter. Used in other functions"""
     if dictionary.casefold() == "countries": return COUNTRIES
     elif dictionary.casefold() == "russia": return RUSSIA
+    elif dictionary.casefold() == "united state": return UNITED_STATES
     elif dictionary.casefold() == "vietnam": return VIETNAM
     else: raise Exception("This dictionary does not exist (yet)")
 
@@ -44,6 +46,13 @@ def russia_population_density():
     for x in RUSSIA: new_russia[x]["population density"] = RUSSIA[x]["population"] / RUSSIA[x]["area"]
     return new_russia
 
+def united_states_population_density():
+    """Returns the United States dictionary with the `population density` key included in the countries' keys
+    - Population density (in people per square kilometre) = Population / Land area"""
+    new_united_states = UNITED_STATES
+    for x in UNITED_STATES: new_united_states[x]["population density"] = UNITED_STATES[x]["population"] / UNITED_STATES[x]["area"]
+    return new_united_states
+
 def vietnam_population_density():
     """Returns the Vietnam dictionary with the `population density` key included in the countries' keys
     - Population density (in people per square kilometre) = Population / Area"""
@@ -56,6 +65,13 @@ def countries_population_density():
     - GDP per capita (in dollars per person) = Nominal GDP / Population"""
     new_countries = COUNTRIES
     for x in COUNTRIES: new_countries[x]["GDP per capita"] = COUNTRIES[x]["nominal GDP"] / COUNTRIES[x]["population"]
+    return new_countries
+
+def countries_iso_3166_2():
+    """Returns the countries dictionary with the `ISO 3166-2` key included in the countries' keys
+    - ISO 3166-2 entry = "ISO 3166-2:" + ISO 3166-1 alpha-2"""
+    new_countries = COUNTRIES
+    for x in COUNTRIES: new_countries[x]["ISO 3166-2"] = "ISO 3166-2:" + COUNTRIES[x]["ISO 3166-1"]["alpha-2"]
     return new_countries
 
 def countries_france_censored():

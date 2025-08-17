@@ -540,7 +540,7 @@ RUSSIA = {
 - Federal district
 - Economic region
 - Capital or administrative centre
-- Area
+- Area (in square kilometre)
 - Population
 
 Note: the dictionary might contain inaccuracies"""

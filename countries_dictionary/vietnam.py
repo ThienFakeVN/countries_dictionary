@@ -174,7 +174,7 @@ VIETNAM = {
 """A dictionary contains all provinces and municipalities of Vietnam and information about them:
 - Region
 - Administrative centre
-- Area
+- Area (in square kilometre)
 - Population
 
 Note: the dictionary might contain inaccuracies"""
