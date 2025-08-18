@@ -22,7 +22,7 @@ Countries Dictionary provides:
     - Population
  - Some functions which you might find helpful
 
-Before using, it is recommended to see the code on [GitHub](https://github.com/ThienFakeVN/countries_dictionary/) to understand how the code works
+Before using, it is recommended to see the code on [GitHub](https://github.com/ThienFakeVN/countries_dictionary/) to understand how it works
 
 I created this module as an offline source of countries' information which is easy to access and use by coders.
 

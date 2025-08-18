@@ -2,7 +2,7 @@
 
 from countries_dictionary import COUNTRIES
 from countries_dictionary.russia import RUSSIA
-from countries_dictionary.russia import UNITED_STATES
+from countries_dictionary.united_states import UNITED_STATES
 from countries_dictionary.vietnam import VIETNAM
 import json
 

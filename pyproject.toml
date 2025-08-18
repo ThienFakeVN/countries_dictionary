@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countries_dictionary"
-version = "3.0.0"
+version = "3.0.1"
 description = "Provides a dictionary contains all members and observer states of the United Nations and information about them"
 readme = "README.md"
 requires-python = ">=3.7"

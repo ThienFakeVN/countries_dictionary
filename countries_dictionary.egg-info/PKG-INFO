@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: countries_dictionary
-Version: 3.0.0
+Version: 3.0.1
 Summary: Provides a dictionary contains all members and observer states of the United Nations and information about them
 Author-email: Ngô Trần Quang Thiện <quangthienngotran@gmail.com>
 License:                     GNU GENERAL PUBLIC LICENSE
@@ -709,7 +709,7 @@ Countries Dictionary provides:
     - Population
  - Some functions which you might find helpful
 
-Before using, it is recommended to see the code on [GitHub](https://github.com/ThienFakeVN/countries_dictionary/) to understand how the code works
+Before using, it is recommended to see the code on [GitHub](https://github.com/ThienFakeVN/countries_dictionary/) to understand how it works
 
 I created this module as an offline source of countries' information which is easy to access and use by coders.
 
