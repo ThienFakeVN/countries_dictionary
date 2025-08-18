@@ -95,3 +95,16 @@ The third major release of Countries Dictionary, which includes ISO codes (with 
 ### Updated
 - Modified some documentaion
 - Renamed `quick_variables.py` to `quick_functions.py`
+
+## [3.0.1] 2025.08.18
+### Updated
+- Added documentation to `iso_finder()` of `iso_finder.py`
+- Fixed the module which is imported in `quick_functions.py`
+
+## [3.0.2] 2025.08.18
+### Updated
+- Added information of the United States dictionary in `README.md`
+
+## [3.0.3] 2025.08.18
+### Updated
+- Added information of [3.0.1] and [3.0.2] releases in `CHANGELOG.md`

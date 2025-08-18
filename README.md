@@ -20,7 +20,14 @@ Countries Dictionary provides:
     - Administrative centre
     - Area (in square kilometre)
     - Population
- - Some functions which you might find helpful
+- Another one contains all states, federal district and inhabited territories of the United Nations and information about them:
+    - Capital
+    - Date of ratification/establishment/acquiring
+    - Area (in square kilometre)
+    - Population
+    - House Representatives
+    - Postal code
+- Some functions which you might find helpful
 
 Before using, it is recommended to see the code on [GitHub](https://github.com/ThienFakeVN/countries_dictionary/) to understand how it works
 
