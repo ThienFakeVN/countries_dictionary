@@ -109,9 +109,16 @@ The third major release of Countries Dictionary, which includes ISO codes (with 
 - Fixed the module which is imported in `quick_functions.py`
 
 ## [3.0.2] 2025.08.18
-### Updated
+### Updated <img src="https://raw.githubusercontent.com/ThienFakeVN/ThienFakeVN/refs/heads/main/images/changelogs/spanner.png" width="40" height="40">
 - Added information of the United States dictionary in `README.md`
 
 ## [3.0.3] 2025.08.18
-### Updated
+### Updated <img src="https://raw.githubusercontent.com/ThienFakeVN/ThienFakeVN/refs/heads/main/images/changelogs/spanner.png" width="40" height="40">
 - Added information of [3.0.1] and [3.0.2] releases in `CHANGELOG.md`
+
+## [3.1.0] 2025.08.20
+This release focuses on the `README.md` and `CHANGELOG.md`
+
+### Updated <img src="https://raw.githubusercontent.com/ThienFakeVN/ThienFakeVN/refs/heads/main/images/changelogs/spanner.png" width="40" height="40">
+- Added images for changes in `CHANGELOG.md`
+- Added information in `README.md`
