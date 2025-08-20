@@ -90,7 +90,7 @@ RUSSIA = {
 
 #### Usage example
 ```python
-from countries_dictionary.russia import RUSSIA # Remember to import the module!
+from countries_dictionary.russia import RUSSIA # Remember to import the module
 
 # Prints the administrative centre of a krai
 print(RUSSIA["Primorsky Krai"]["capital/administrative centre"])
@@ -122,7 +122,7 @@ UNITED_STATES = {
 
 #### Usage example
 ```python
-from countries_dictionary.united_states import UNITED_STATES # Remember to import the module!
+from countries_dictionary.united_states import UNITED_STATES # Remember to import the module...
 
 # Prints the postal code of a state
 print(UNITED_STATES["Ohio"]["postal code"])
@@ -153,7 +153,7 @@ VIETNAM = {
 
 #### Usage example
 ```python
-from countries_dictionary.vietnam import VIETNAM # Remember to import the module!
+from countries_dictionary.vietnam import VIETNAM # Of course...
 
 # Prints the population of a province
 print(VIETNAM["Ho Chi Minh City"]["population"])
@@ -164,4 +164,28 @@ print(VIETNAM["Nghệ An province"]["region"] == VIETNAM["Hà Tĩnh province"]["
 # Creates the list of all provinces
 list_of_provinces = list(VIETNAM.keys())
 print(list_of_provinces)
+```
+
+### Quick functions
+There are many functions in this submodule.
+```python
+import countries_dictionary.quick_functions as qf # What have you expected?
+
+# Converts the dictionary into JSON and creates/overwrites a JSON file which contains the converted dictionary
+with open("countries_dictionary.json", "w") as f:
+    f.write(qf.json_dictionary(indent=4))
+
+# Prints a ISO 3166-2 code of a country
+iso = qf.countries_iso_3166_2()
+print(iso["Russia"]["ISO 3166-2"])
+```
+
+### ISO finder
+*ISO finder* is a module which provides a function which has the same name. *ISO finder* can find a country based on the provided ISO code. Note that it does not include US states' postal codes.
+```python
+from countries_dictionary.iso_finder import iso_finder
+
+print(iso_finder("VN"))
+print(iso_finder("RUS"))
+print(iso_finder("840"))
 ```
