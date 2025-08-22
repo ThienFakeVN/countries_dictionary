@@ -122,3 +122,13 @@ This release focuses on the `README.md` and `CHANGELOG.md`
 ### Updated <img src="https://raw.githubusercontent.com/ThienFakeVN/ThienFakeVN/refs/heads/main/images/changelogs/spanner.png" width="40" height="40">
 - Added images for changes in `CHANGELOG.md`
 - Added information in `README.md`
+
+## [3.1.1] 2025.08.20
+### Updated <img src="https://raw.githubusercontent.com/ThienFakeVN/ThienFakeVN/refs/heads/main/images/changelogs/spanner.png" width="40" height="40">
+- Added some keywords in `pyproject.toml`
+
+## [3.1.2] 2025.08.22
+
+## [3.1.3] 2025.08.20
+### Updated <img src="https://raw.githubusercontent.com/ThienFakeVN/ThienFakeVN/refs/heads/main/images/changelogs/spanner.png" width="40" height="40">
+- Added information about [3.1.1] release
