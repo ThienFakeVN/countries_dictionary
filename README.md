@@ -20,7 +20,7 @@ Countries Dictionary provides:
     - Administrative centre
     - Area (in square kilometre)
     - Population
-- Another one contains all states, federal district and inhabited territories of the United Nations and information about them:
+- Another one contains all states, federal district and inhabited territories of the United States of America and information about them:
     - Capital
     - Date of ratification/establishment/acquiring
     - Area (in square kilometre)

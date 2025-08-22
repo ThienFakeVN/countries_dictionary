@@ -132,3 +132,8 @@ This release focuses on the `README.md` and `CHANGELOG.md`
 ## [3.1.3] 2025.08.20
 ### Updated <img src="https://raw.githubusercontent.com/ThienFakeVN/ThienFakeVN/refs/heads/main/images/changelogs/spanner.png" width="40" height="40">
 - Added information about [3.1.1] release
+
+## [3.1.4] 2025.08.22
+### Updated <img src="https://raw.githubusercontent.com/ThienFakeVN/ThienFakeVN/refs/heads/main/images/changelogs/spanner.png" width="40" height="40">
+- Fixed the name of the United States of America in `README.md`
+- `iso_finder()` now includes ISO 3166-2

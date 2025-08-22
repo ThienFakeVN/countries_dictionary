@@ -1,5 +1,4 @@
 COUNTRIES = {
-    # A
     "Afghanistan": {
         "formal name": "Islamic Emirate of Afghanistan",
         "continents": ["Asia"],
@@ -121,7 +120,6 @@ COUNTRIES = {
         "HDI": 0.789,
         "ISO 3166-1": {"alpha-2": "AZ", "alpha-3": "AZE", "numeric": "031"},
     },
-    # B
     "Bahamas": {
         "formal name": "Commonwealth of The Bahamas",
         "continents": ["North America"],
@@ -309,7 +307,6 @@ COUNTRIES = {
         "HDI": 0.439,
         "ISO 3166-1": {"alpha-2": "BI", "alpha-3": "BDI", "numeric": "108"},
     },
-    # C
     "Cambodia": {
         "formal name": "Kingdom of Cambodia",
         "continents": ["Asia"],
@@ -475,7 +472,6 @@ COUNTRIES = {
         "HDI": 0.915,
         "ISO 3166-1": {"alpha-2": "CZ", "alpha-3": "CZE", "numeric": "203"},
     },
-    # D
     "Democratic Republic of the Congo": {
         "formal name": "Democratic Republic of the Congo",
         "continents": ["Africa"],
@@ -531,7 +527,6 @@ COUNTRIES = {
         "HDI": 0.776,
         "ISO 3166-1": {"alpha-2": "DO", "alpha-3": "DOM", "numeric": "214"},
     },
-    # E
     "Ecuador": {
         "formal name": "Republic of Ecuador",
         "continents": ["South America"],
@@ -620,7 +615,6 @@ COUNTRIES = {
         "HDI": 0.497,
         "ISO 3166-1": {"alpha-2": "ET", "alpha-3": "ETH", "numeric": "231"},
     },
-    # F
     "Fiji": {
         "formal name": "Republic of Fiji",
         "continents": ["Oceania"],
@@ -654,7 +648,6 @@ COUNTRIES = {
         "HDI": 0.920,
         "ISO 3166-1": {"alpha-2": "FR", "alpha-3": "FRA", "numeric": "250"},
     },
-    # G
     "Gabon": {
         "formal name": "Gabonese Republic",
         "continents": ["Africa"],
@@ -776,7 +769,6 @@ COUNTRIES = {
         "HDI": 0.776,
         "ISO 3166-1": {"alpha-2": "GY", "alpha-3": "GUY", "numeric": "328"},
     },
-    # H
     "Haiti": {
         "formal name": "Republic of Haiti",
         "continents": ["North America"],
@@ -810,7 +802,6 @@ COUNTRIES = {
         "HDI": 0.870,
         "ISO 3166-1": {"alpha-2": "HU", "alpha-3": "HUN", "numeric": "348"},
     },
-    # I
     "Iceland": {
         "formal name": "Iceland",
         "continents": ["Europe"],
@@ -910,7 +901,6 @@ COUNTRIES = {
         "HDI": 0.582,
         "ISO 3166-1": {"alpha-2": "CI", "alpha-3": "CIV", "numeric": "384"},
     },
-    # J
     "Jamaica": {
         "formal name": "Jamaica",
         "continents": ["North America"],
@@ -944,7 +934,6 @@ COUNTRIES = {
         "HDI": 0.754,
         "ISO 3166-1": {"alpha-2": "JO", "alpha-3": "JOR", "numeric": "400"},
     },
-    # K
     "Kazakhstan": {
         "formal name": "Republic of Kazakhstan",
         "continents": ["Asia"],
@@ -1000,7 +989,6 @@ COUNTRIES = {
         "HDI": 0.720,
         "ISO 3166-1": {"alpha-2": "KG", "alpha-3": "KGZ", "numeric": "417"},
     },
-    # L
     "Laos": {
         "formal name": "Lao People's Democratic Republic",
         "continents": ["Asia"],
@@ -1100,7 +1088,6 @@ COUNTRIES = {
         "HDI": 0.922,
         "ISO 3166-1": {"alpha-2": "LU", "alpha-3": "LUX", "numeric": "442"},
     },
-    # M
     "Madagascar": {
         "formal name": "Republic of Madagascar",
         "continents": ["Africa"],
@@ -1299,7 +1286,6 @@ COUNTRIES = {
         "HDI": 0.609,
         "ISO 3166-1": {"alpha-2": "MM", "alpha-3": "MMR", "numeric": "104"},
     },
-    # N
     "Namibia": {
         "formal name": "Republic of Namibia",
         "continents": ["Africa"],
@@ -1421,7 +1407,6 @@ COUNTRIES = {
         "HDI": 0.970,
         "ISO 3166-1": {"alpha-2": "NO", "alpha-3": "NOR", "numeric": "578"},
     },
-    # O
     "Oman": {
         "formal name": "Sultanate of Oman",
         "continents": ["Asia"],
@@ -1433,7 +1418,6 @@ COUNTRIES = {
         "HDI": 0.858,
         "ISO 3166-1": {"alpha-2": "OM", "alpha-3": "OMN", "numeric": "512"},
     },
-    # P
     "Pakistan": {
         "formal name": "Islamic Republic of Pakistan",
         "continents": ["Asia"],
@@ -1544,7 +1528,6 @@ COUNTRIES = {
         "HDI": 0.890,
         "ISO 3166-1": {"alpha-2": "PT", "alpha-3": "PRT", "numeric": "620"},
     },
-    # Q
     "Qatar": {
         "formal name": "State of Qatar",
         "continents": ["Asia"],
@@ -1556,7 +1539,6 @@ COUNTRIES = {
         "HDI": 0.886,
         "ISO 3166-1": {"alpha-2": "QA", "alpha-3": "QAT", "numeric": "634"},
     },
-    # R
     "Republic of the Congo": {
         "formal name": "",
         "continents": ["Africa"],
@@ -1601,7 +1583,6 @@ COUNTRIES = {
         "HDI": 0.578,
         "ISO 3166-1": {"alpha-2": "RW", "alpha-3": "RWA", "numeric": "646"},
     },
-    # S
     "Saint Kitts and Nevis": {
         "formal name": "Federation of Saint Christopher and Nevis",
         "continents": ["North America"],
@@ -1888,7 +1869,6 @@ COUNTRIES = {
         "HDI": 0.637,
         "ISO 3166-1": {"alpha-2": "ST", "alpha-3": "STP", "numeric": "678"},
     },
-    # T
     "Tajikistan": {
         "formal name": "Republic of Tajikistan",
         "continents": ["Asia"],
