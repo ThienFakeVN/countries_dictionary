@@ -2,6 +2,7 @@ COUNTRIES = {
     "Afghanistan": {
         "formal name": "Islamic Emirate of Afghanistan",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 652864.0,
         "land area": 652230.0,
         "population": 42045000,
@@ -13,17 +14,19 @@ COUNTRIES = {
     "Albania": {
         "formal name": "Republic of Albania",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 28748.0,
         "land area": 27400.0,
         "population": 2363314,
         "official languages": ["Albanian"],
         "nominal GDP": 22978000000,
-        "HDI": 0.810,
+        "HDI": 0.81,
         "ISO 3166-1": {"alpha-2": "AL", "alpha-3": "ALB", "numeric": "008"},
     },
     "Algeria": {
         "formal name": "People's Democratic Republic of Algeria",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 2381741.0,
         "land area": 2381741.0,
         "population": 47400000,
@@ -35,6 +38,7 @@ COUNTRIES = {
     "Andorra": {
         "formal name": "Principality of Andorra",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 468.0,
         "land area": 468.0,
         "population": 87682,
@@ -46,6 +50,7 @@ COUNTRIES = {
     "Angola": {
         "formal name": "Republic of Angola",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 1246700.0,
         "land area": 1246700.0,
         "population": 36170961,
@@ -57,6 +62,7 @@ COUNTRIES = {
     "Antigua and Barbuda": {
         "formal name": "Antigua and Barbuda",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 442.0,
         "land area": 442.0,
         "population": 103603,
@@ -68,6 +74,7 @@ COUNTRIES = {
     "Argentina": {
         "formal name": "Argentine Republic",
         "continents": ["South America"],
+        "landlocked": False,
         "area": 2780400.0,
         "land area": 2736690.0,
         "population": 47067641,
@@ -79,6 +86,7 @@ COUNTRIES = {
     "Armenia": {
         "formal name": "Republic of Armenia",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 29743.0,
         "land area": 28470.0,
         "population": 3081100,
@@ -90,6 +98,7 @@ COUNTRIES = {
     "Australia": {
         "formal name": "Commonwealth of Australia",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 7741220.0,
         "land area": 7682300.0,
         "population": 27400013,
@@ -101,17 +110,19 @@ COUNTRIES = {
     "Austria": {
         "formal name": "Republic of Austria",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 83878.0,
         "land area": 82520.0,
         "population": 9202428,
         "official languages": ["German"],
         "nominal GDP": 511685000000,
-        "HDI": 0.930,
+        "HDI": 0.93,
         "ISO 3166-1": {"alpha-2": "AT", "alpha-3": "AUT", "numeric": "040"},
     },
     "Azerbaijan": {
         "formal name": "Republic of Azerbaijan",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 86600.0,
         "land area": 82650.0,
         "population": 10236227,
@@ -123,17 +134,19 @@ COUNTRIES = {
     "Bahamas": {
         "formal name": "Commonwealth of The Bahamas",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 13880.0,
         "land area": 10010.0,
         "population": 398165,
         "official languages": ["English"],
         "nominal GDP": 14338000000,
-        "HDI": 0.820,
+        "HDI": 0.82,
         "ISO 3166-1": {"alpha-2": "BS", "alpha-3": "BHS", "numeric": "044"},
     },
     "Bahrain": {
         "formal name": "Kingdom of Bahrain",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 778.0,
         "land area": 778.0,
         "population": 1594654,
@@ -145,6 +158,7 @@ COUNTRIES = {
     "Bangladesh": {
         "formal name": "People's Republic of Bangladesh",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 148460.0,
         "land area": 130170.0,
         "population": 169828911,
@@ -156,6 +170,7 @@ COUNTRIES = {
     "Barbados": {
         "formal name": "Barbados",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 431.0,
         "land area": 431.0,
         "population": 267800,
@@ -167,6 +182,7 @@ COUNTRIES = {
     "Belarus": {
         "formal name": "Republic of Belarus",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 207600.0,
         "land area": 202900.0,
         "population": 9109280,
@@ -178,6 +194,7 @@ COUNTRIES = {
     "Belgium": {
         "formal name": "Kingdom of Belgium",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 30528.0,
         "land area": 30280.0,
         "population": 11825551,
@@ -189,6 +206,7 @@ COUNTRIES = {
     "Belize": {
         "formal name": "Belize",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 22965.0,
         "land area": 22810.0,
         "population": 410919,
@@ -200,6 +218,7 @@ COUNTRIES = {
     "Benin": {
         "formal name": "Republic of Benin",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 114763.0,
         "land area": 112760.0,
         "population": 13224860,
@@ -211,6 +230,7 @@ COUNTRIES = {
     "Bhutan": {
         "formal name": "Kingdom of Bhutan",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 38394.0,
         "land area": 38140.0,
         "population": 777224,
@@ -222,6 +242,7 @@ COUNTRIES = {
     "Bolivia": {
         "formal name": "Plurinational State of Bolivia",
         "continents": ["South America"],
+        "landlocked": True,
         "area": 1098581.0,
         "land area": 1083300.0,
         "population": 11312620,
@@ -233,6 +254,7 @@ COUNTRIES = {
     "Bosnia and Herzegovina": {
         "formal name": "Bosnia and Herzegovina",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 51209.0,
         "land area": 51200.0,
         "population": 3422000,
@@ -244,6 +266,7 @@ COUNTRIES = {
     "Botswana": {
         "formal name": "Republic of Botswana",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 582000.0,
         "land area": 566730.0,
         "population": 2359609,
@@ -255,6 +278,7 @@ COUNTRIES = {
     "Brazil": {
         "formal name": "Federative Republic of Brazil",
         "continents": ["South America"],
+        "landlocked": False,
         "area": 8510346.0,
         "land area": 8460415.0,
         "population": 212583750,
@@ -266,6 +290,7 @@ COUNTRIES = {
     "Brunei": {
         "formal name": "Nation of Brunei, the Abode of Peace",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 5765.0,
         "land area": 5270.0,
         "population": 455500,
@@ -277,6 +302,7 @@ COUNTRIES = {
     "Bulgaria": {
         "formal name": "Republic of Bulgaria",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 110879.0,
         "land area": 108489.0,
         "population": 6437360,
@@ -288,6 +314,7 @@ COUNTRIES = {
     "Burkina Faso": {
         "formal name": "Burkina Faso",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 274200.0,
         "land area": 273800.0,
         "population": 24070553,
@@ -299,6 +326,7 @@ COUNTRIES = {
     "Burundi": {
         "formal name": "Republic of Burundi",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 27834.0,
         "land area": 25680.0,
         "population": 12332788,
@@ -310,6 +338,7 @@ COUNTRIES = {
     "Cambodia": {
         "formal name": "Kingdom of Cambodia",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 181035.0,
         "land area": 176520.0,
         "population": 17577760,
@@ -321,6 +350,7 @@ COUNTRIES = {
     "Cameroon": {
         "formal name": "Republic of Cameroon",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 475650.0,
         "land area": 472710.0,
         "population": 29442327,
@@ -332,6 +362,7 @@ COUNTRIES = {
     "Canada": {
         "formal name": "Canada",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 9984670.0,
         "land area": 9093507.0,
         "population": 41548787,
@@ -343,6 +374,7 @@ COUNTRIES = {
     "Cape Verde": {
         "formal name": "Republic of Cabo Verde",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 4033.0,
         "land area": 4033.0,
         "population": 491233,
@@ -354,6 +386,7 @@ COUNTRIES = {
     "Central African Republic": {
         "formal name": "Central African Republic",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 622984.0,
         "land area": 622984.0,
         "population": 6470307,
@@ -365,6 +398,7 @@ COUNTRIES = {
     "Chad": {
         "formal name": "Republic of Chad",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 1284000.0,
         "land area": 1259200.0,
         "population": 19340757,
@@ -376,6 +410,7 @@ COUNTRIES = {
     "Chile": {
         "formal name": "Republic of Chile",
         "continents": ["South America"],
+        "landlocked": False,
         "area": 756102.0,
         "land area": 743812.0,
         "population": 20206953,
@@ -387,6 +422,7 @@ COUNTRIES = {
     "China": {
         "formal name": "People's Republic of China",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 9596960.0,
         "land area": 9326410.0,
         "population": 1408280000,
@@ -398,6 +434,7 @@ COUNTRIES = {
     "Colombia": {
         "formal name": "Republic of Colombia",
         "continents": ["South America"],
+        "landlocked": False,
         "area": 1138910.0,
         "land area": 1038700.0,
         "population": 52695952,
@@ -409,6 +446,7 @@ COUNTRIES = {
     "Comoros": {
         "formal name": "Union of the Comoros",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 1861.0,
         "land area": 1861.0,
         "population": 870038,
@@ -420,6 +458,7 @@ COUNTRIES = {
     "Costa Rica": {
         "formal name": "Republic of Costa Rica",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 51100.0,
         "land area": 51060.0,
         "population": 5309625,
@@ -431,6 +470,7 @@ COUNTRIES = {
     "Croatia": {
         "formal name": "Republic of Croatia",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 56594.0,
         "land area": 55974.0,
         "population": 3859686,
@@ -442,6 +482,7 @@ COUNTRIES = {
     "Cuba": {
         "formal name": "Republic of Cuba",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 109884.0,
         "land area": 103800.0,
         "population": 9748007,
@@ -453,6 +494,7 @@ COUNTRIES = {
     "Cyprus": {
         "formal name": "Republic of Cyprus",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 9251.0,
         "land area": 9241.0,
         "population": 966400,
@@ -464,6 +506,7 @@ COUNTRIES = {
     "Czech Republic": {
         "formal name": "Czech Republic",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 78871.0,
         "land area": 77187.0,
         "population": 10876875,
@@ -475,6 +518,7 @@ COUNTRIES = {
     "Democratic Republic of the Congo": {
         "formal name": "Democratic Republic of the Congo",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 2344858.0,
         "land area": 2267048.0,
         "population": 109276000,
@@ -486,6 +530,7 @@ COUNTRIES = {
     "Denmark": {
         "formal name": "Kingdom of Denmark",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 42947.0,
         "land area": 42434.0,
         "population": 6001008,
@@ -497,6 +542,7 @@ COUNTRIES = {
     "Djibouti": {
         "formal name": "Republic of Djibouti",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 23200.0,
         "land area": 23180.0,
         "population": 1066809,
@@ -508,6 +554,7 @@ COUNTRIES = {
     "Dominica": {
         "formal name": "Commonwealth of Dominica",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 750.0,
         "land area": 750.0,
         "population": 67408,
@@ -519,6 +566,7 @@ COUNTRIES = {
     "Dominican Republic": {
         "formal name": "Dominican Republic",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 48670.0,
         "land area": 48320.0,
         "population": 10771504,
@@ -530,6 +578,7 @@ COUNTRIES = {
     "Ecuador": {
         "formal name": "Republic of Ecuador",
         "continents": ["South America"],
+        "landlocked": False,
         "area": 283561.0,
         "land area": 276841.0,
         "population": 16938986,
@@ -541,6 +590,7 @@ COUNTRIES = {
     "Egypt": {
         "formal name": "Arab Republic of Egypt",
         "continents": ["Asia", "Africa"],
+        "landlocked": False,
         "area": 1001450.0,
         "land area": 995450.0,
         "population": 107271260,
@@ -552,6 +602,7 @@ COUNTRIES = {
     "El Salvador": {
         "formal name": "Republic of El Salvador",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 21041.0,
         "land area": 20720.0,
         "population": 6029976,
@@ -563,6 +614,7 @@ COUNTRIES = {
     "Equatorial Guinea": {
         "formal name": "Republic of Equatorial Guinea",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 28051.0,
         "land area": 28051.0,
         "population": 1558160,
@@ -574,6 +626,7 @@ COUNTRIES = {
     "Eritrea": {
         "formal name": "State of Eritrea",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 117600.0,
         "land area": 101000.0,
         "population": 3535603,
@@ -585,6 +638,7 @@ COUNTRIES = {
     "Estonia": {
         "formal name": "Republic of Estonia",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 45339.0,
         "land area": 42388.0,
         "population": 1369995,
@@ -596,6 +650,7 @@ COUNTRIES = {
     "Eswatini": {
         "formal name": "Kingdom of Eswatini",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 17363.0,
         "land area": 17200.0,
         "population": 1235549,
@@ -607,6 +662,7 @@ COUNTRIES = {
     "Ethiopia": {
         "formal name": "Federal Democratic Republic of Ethiopia",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 1104300.0,
         "land area": 1096570.0,
         "population": 111652998,
@@ -618,6 +674,7 @@ COUNTRIES = {
     "Fiji": {
         "formal name": "Republic of Fiji",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 18272.0,
         "land area": 18272.0,
         "population": 900869,
@@ -629,6 +686,7 @@ COUNTRIES = {
     "Finland": {
         "formal name": "Republic of Finland",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 338145.0,
         "land area": 303815.0,
         "population": 5641532,
@@ -640,17 +698,19 @@ COUNTRIES = {
     "France": {
         "formal name": "French Republic",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 643801.0,
         "land area": 640427.0,
         "population": 68649000,
         "official languages": ["French"],
         "nominal GDP": 3051832000000,
-        "HDI": 0.920,
+        "HDI": 0.92,
         "ISO 3166-1": {"alpha-2": "FR", "alpha-3": "FRA", "numeric": "250"},
     },
     "Gabon": {
         "formal name": "Gabonese Republic",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 267668.0,
         "land area": 257670.0,
         "population": 2408586,
@@ -662,6 +722,7 @@ COUNTRIES = {
     "Gambia": {
         "formal name": "Republic of The Gambia",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 11295.0,
         "land area": 10120.0,
         "population": 2417471,
@@ -673,6 +734,7 @@ COUNTRIES = {
     "Georgia": {
         "formal name": "Republic of Georgia",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 69700.0,
         "land area": 69490.0,
         "population": 3704500,
@@ -684,6 +746,7 @@ COUNTRIES = {
     "Germany": {
         "formal name": "Federal Republic of Germany",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 357581.0,
         "land area": 349390.0,
         "population": 83577140,
@@ -695,6 +758,7 @@ COUNTRIES = {
     "Ghana": {
         "formal name": "Republic of Ghana",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 238537.0,
         "land area": 227533.0,
         "population": 33742380,
@@ -706,6 +770,7 @@ COUNTRIES = {
     "Greece": {
         "formal name": "Hellenic Republic",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 131957.0,
         "land area": 128900.0,
         "population": 10400720,
@@ -717,6 +782,7 @@ COUNTRIES = {
     "Grenada": {
         "formal name": "Grenada",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 345.0,
         "land area": 340.0,
         "population": 112579,
@@ -728,6 +794,7 @@ COUNTRIES = {
     "Guatemala": {
         "formal name": "Republic of Guatemala",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 108889.0,
         "land area": 107160.0,
         "population": 18079810,
@@ -739,17 +806,19 @@ COUNTRIES = {
     "Guinea": {
         "formal name": "Republic of Guinea",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 245857.0,
         "land area": 245717.0,
         "population": 14363931,
         "official languages": ["French"],
         "nominal GDP": 23006000000,
-        "HDI": 0.500,
+        "HDI": 0.5,
         "ISO 3166-1": {"alpha-2": "GN", "alpha-3": "GIN", "numeric": "324"},
     },
     "Guinea-Bissau": {
         "formal name": "Republic of Guinea-Bissau",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 36125.0,
         "land area": 28120.0,
         "population": 1781308,
@@ -761,6 +830,7 @@ COUNTRIES = {
     "Guyana": {
         "formal name": "Co-operative Republic of Guyana",
         "continents": ["South America"],
+        "landlocked": False,
         "area": 214969.0,
         "land area": 196850.0,
         "population": 772975,
@@ -772,6 +842,7 @@ COUNTRIES = {
     "Haiti": {
         "formal name": "Republic of Haiti",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 27750.0,
         "land area": 27560.0,
         "population": 11867032,
@@ -783,6 +854,7 @@ COUNTRIES = {
     "Honduras": {
         "formal name": "Republic of Honduras",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 112492.0,
         "land area": 111890.0,
         "population": 9892632,
@@ -794,17 +866,19 @@ COUNTRIES = {
     "Hungary": {
         "formal name": "Hungary",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 93025.0,
         "land area": 91260.0,
         "population": 9539502,
         "official languages": ["Hungarian"],
         "nominal GDP": 212657000000,
-        "HDI": 0.870,
+        "HDI": 0.87,
         "ISO 3166-1": {"alpha-2": "HU", "alpha-3": "HUN", "numeric": "348"},
     },
     "Iceland": {
         "formal name": "Iceland",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 103000.0,
         "land area": 100830.0,
         "population": 389990,
@@ -816,6 +890,7 @@ COUNTRIES = {
     "India": {
         "formal name": "Republic of India",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 3163751.0,
         "land area": 2973190.0,
         "population": 1413324000,
@@ -827,6 +902,7 @@ COUNTRIES = {
     "Indonesia": {
         "formal name": "Republic of Indonesia",
         "continents": ["Asia", "Oceania"],
+        "landlocked": False,
         "area": 1904569.0,
         "land area": 1811569.0,
         "population": 282477584,
@@ -838,6 +914,7 @@ COUNTRIES = {
     "Iran": {
         "formal name": "Islamic Republic of Iran",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 1648195.0,
         "land area": 1531595.0,
         "population": 85961000,
@@ -849,6 +926,7 @@ COUNTRIES = {
     "Iraq": {
         "formal name": "Republic of Iraq",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 438317.0,
         "land area": 437367.0,
         "population": 46118793,
@@ -860,6 +938,7 @@ COUNTRIES = {
     "Ireland": {
         "formal name": "Ireland",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 70273.0,
         "land area": 68883.0,
         "population": 5380300,
@@ -871,6 +950,7 @@ COUNTRIES = {
     "Israel": {
         "formal name": "State of Israel",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 21937.0,
         "land area": 21497.0,
         "population": 10098200,
@@ -882,6 +962,7 @@ COUNTRIES = {
     "Italy": {
         "formal name": "Italian Republic",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 302068.0,
         "land area": 295717.0,
         "population": 58921111,
@@ -893,6 +974,7 @@ COUNTRIES = {
     "Ivory Coast": {
         "formal name": "Republic of Côte d'Ivoire",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 322462.0,
         "land area": 318000.0,
         "population": 29389150,
@@ -904,17 +986,19 @@ COUNTRIES = {
     "Jamaica": {
         "formal name": "Jamaica",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 10991.0,
         "land area": 10830.0,
         "population": 2825544,
         "official languages": ["English"],
         "nominal GDP": 19423000000,
-        "HDI": 0.720,
+        "HDI": 0.72,
         "ISO 3166-1": {"alpha-2": "JM", "alpha-3": "JAM", "numeric": "388"},
     },
     "Japan": {
         "formal name": "Japan",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 377915.0,
         "land area": 364485.0,
         "population": 123360000,
@@ -926,6 +1010,7 @@ COUNTRIES = {
     "Jordan": {
         "formal name": "Hashemite Kingdom of Jordan",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 89318.0,
         "land area": 88794.0,
         "population": 11734000,
@@ -937,6 +1022,7 @@ COUNTRIES = {
     "Kazakhstan": {
         "formal name": "Republic of Kazakhstan",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 2724910.0,
         "land area": 2699700.0,
         "population": 20370672,
@@ -948,6 +1034,7 @@ COUNTRIES = {
     "Kenya": {
         "formal name": "Republic of Kenya",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 580367.0,
         "land area": 569140.0,
         "population": 53330978,
@@ -959,6 +1046,7 @@ COUNTRIES = {
     "Kiribati": {
         "formal name": "Republic of Kiribati",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 811.0,
         "land area": 811.0,
         "population": 120740,
@@ -970,6 +1058,7 @@ COUNTRIES = {
     "Kuwait": {
         "formal name": "State of Kuwait",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 17818.0,
         "land area": 17818.0,
         "population": 4913271,
@@ -981,17 +1070,19 @@ COUNTRIES = {
     "Kyrgyzstan": {
         "formal name": "Kyrgyz Republic",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 199949.0,
         "land area": 191800.0,
         "population": 7161900,
         "official languages": ["Kyrgyz", "Russian"],
         "nominal GDP": 13988000000,
-        "HDI": 0.720,
+        "HDI": 0.72,
         "ISO 3166-1": {"alpha-2": "KG", "alpha-3": "KGZ", "numeric": "417"},
     },
     "Laos": {
         "formal name": "Lao People's Democratic Republic",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 236800.0,
         "land area": 230800.0,
         "population": 7546000,
@@ -1003,6 +1094,7 @@ COUNTRIES = {
     "Latvia": {
         "formal name": "Republic of Latvia",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 64594.0,
         "land area": 62230.0,
         "population": 1852100,
@@ -1014,6 +1106,7 @@ COUNTRIES = {
     "Lebanon": {
         "formal name": "Republic of Lebanon",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 10452.0,
         "land area": 10230.0,
         "population": 5490000,
@@ -1025,28 +1118,31 @@ COUNTRIES = {
     "Lesotho": {
         "formal name": "Kingdom of Lesotho",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 30355.0,
         "land area": 30355.0,
         "population": 2306000,
         "official languages": ["Sotho", "English"],
         "nominal GDP": 2118000000,
-        "HDI": 0.550,
+        "HDI": 0.55,
         "ISO 3166-1": {"alpha-2": "LS", "alpha-3": "LSO", "numeric": "426"},
     },
     "Liberia": {
         "formal name": "Republic of Liberia",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 111369.0,
         "land area": 96320.0,
         "population": 5248621,
         "official languages": ["English"],
         "nominal GDP": 5039000000,
-        "HDI": 0.510,
+        "HDI": 0.51,
         "ISO 3166-1": {"alpha-2": "LR", "alpha-3": "LBR", "numeric": "430"},
     },
     "Libya": {
         "formal name": "State of Libya",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 1759540.0,
         "land area": 1759540.0,
         "population": 7381023,
@@ -1058,6 +1154,7 @@ COUNTRIES = {
     "Liechtenstein": {
         "formal name": "Principality of Liechtenstein",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 160.0,
         "land area": 160.0,
         "population": 40900,
@@ -1069,6 +1166,7 @@ COUNTRIES = {
     "Lithuania": {
         "formal name": "Republic of Lithuania",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 65286.0,
         "land area": 62610.0,
         "population": 2892177,
@@ -1080,6 +1178,7 @@ COUNTRIES = {
     "Luxembourg": {
         "formal name": "Grand Duchy of Luxembourg",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 2586.0,
         "land area": 2574.0,
         "population": 681973,
@@ -1091,6 +1190,7 @@ COUNTRIES = {
     "Madagascar": {
         "formal name": "Republic of Madagascar",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 587041.0,
         "land area": 581540.0,
         "population": 31727042,
@@ -1102,6 +1202,7 @@ COUNTRIES = {
     "Malawi": {
         "formal name": "Republic of Malawi",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 118484.0,
         "land area": 94080.0,
         "population": 20734262,
@@ -1113,6 +1214,7 @@ COUNTRIES = {
     "Malaysia": {
         "formal name": "Malaysia",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 330621.0,
         "land area": 329432.0,
         "population": 34192800,
@@ -1124,6 +1226,7 @@ COUNTRIES = {
     "Maldives": {
         "formal name": "Republic of Maldives",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 300.0,
         "land area": 300.0,
         "population": 515132,
@@ -1135,6 +1238,7 @@ COUNTRIES = {
     "Mali": {
         "formal name": "Republic of Mali",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 1240192.0,
         "land area": 1220190.0,
         "population": 22395489,
@@ -1146,6 +1250,7 @@ COUNTRIES = {
     "Malta": {
         "formal name": "Republic of Malta",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 315.0,
         "land area": 315.0,
         "population": 563443,
@@ -1157,6 +1262,7 @@ COUNTRIES = {
     "Marshall Islands": {
         "formal name": "Republic of the Marshall Islands",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 181.0,
         "land area": 180.0,
         "population": 42418,
@@ -1168,6 +1274,7 @@ COUNTRIES = {
     "Mauritania": {
         "formal name": "Islamic Republic of Mauritania",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 1030700.0,
         "land area": 1030700.0,
         "population": 4927532,
@@ -1179,6 +1286,7 @@ COUNTRIES = {
     "Mauritius": {
         "formal name": "Republic of Mauritius",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 2096.0,
         "land area": 2086.0,
         "population": 1244477,
@@ -1190,6 +1298,7 @@ COUNTRIES = {
     "Mexico": {
         "formal name": "United Mexican States",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 1964375.0,
         "land area": 1943950.0,
         "population": 130417144,
@@ -1201,6 +1310,7 @@ COUNTRIES = {
     "Micronesia": {
         "formal name": "Federated States of Micronesia",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 702.0,
         "land area": 700.0,
         "population": 105754,
@@ -1212,6 +1322,7 @@ COUNTRIES = {
     "Moldova": {
         "formal name": "Republic of Moldova",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 33847.0,
         "land area": 32970.0,
         "population": 2381300,
@@ -1223,6 +1334,7 @@ COUNTRIES = {
     "Monaco": {
         "formal name": "Principality of Monaco",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 2.0,
         "land area": 2.0,
         "population": 38423,
@@ -1234,6 +1346,7 @@ COUNTRIES = {
     "Mongolia": {
         "formal name": "Mongolia",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 1564116.0,
         "land area": 1557507.0,
         "population": 3544835,
@@ -1245,6 +1358,7 @@ COUNTRIES = {
     "Montenegro": {
         "formal name": "Montenegro",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 13812.0,
         "land area": 13452.0,
         "population": 623327,
@@ -1256,17 +1370,19 @@ COUNTRIES = {
     "Morocco": {
         "formal name": "Kingdom of Morocco",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 446550.0,
         "land area": 446300.0,
         "population": 36828330,
         "official languages": ["Arabic", "Berber languages"],
         "nominal GDP": 144438000000,
-        "HDI": 0.710,
+        "HDI": 0.71,
         "ISO 3166-1": {"alpha-2": "MA", "alpha-3": "MAR", "numeric": "504"},
     },
     "Mozambique": {
         "formal name": "Republic of Mozambique",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 799380.0,
         "land area": 786380.0,
         "population": 33244414,
@@ -1278,6 +1394,7 @@ COUNTRIES = {
     "Myanmar": {
         "formal name": "Republic of the Union of Myanmar",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 676578.0,
         "land area": 653508.0,
         "population": 51316756,
@@ -1289,6 +1406,7 @@ COUNTRIES = {
     "Namibia": {
         "formal name": "Republic of Namibia",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 824292.0,
         "land area": 823290.0,
         "population": 3022401,
@@ -1300,6 +1418,7 @@ COUNTRIES = {
     "Nauru": {
         "formal name": "Republic of Nauru",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 21.0,
         "land area": 20.0,
         "population": 11680,
@@ -1311,6 +1430,7 @@ COUNTRIES = {
     "Nepal": {
         "formal name": "Federal Democratic Republic of Nepal",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 147181.0,
         "land area": 143350.0,
         "population": 29164578,
@@ -1322,6 +1442,7 @@ COUNTRIES = {
     "Netherlands": {
         "formal name": "Kingdom of the Netherlands",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 41865.0,
         "land area": 33893.0,
         "population": 18077662,
@@ -1333,6 +1454,7 @@ COUNTRIES = {
     "New Zealand": {
         "formal name": "New Zealand",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 268838.0,
         "land area": 264537.0,
         "population": 5330600,
@@ -1344,6 +1466,7 @@ COUNTRIES = {
     "Nicaragua": {
         "formal name": "Republic of Nicaragua",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 130373.0,
         "land area": 120340.0,
         "population": 6803886,
@@ -1355,6 +1478,7 @@ COUNTRIES = {
     "Niger": {
         "formal name": "Republic of the Niger",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 1267000.0,
         "land area": 1266700.0,
         "population": 26312034,
@@ -1366,17 +1490,19 @@ COUNTRIES = {
     "Nigeria": {
         "formal name": "Federal Republic of Nigeria",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 923768.0,
         "land area": 910770.0,
         "population": 223800000,
         "official languages": ["English"],
         "nominal GDP": 374984000000,
-        "HDI": 0.560,
+        "HDI": 0.56,
         "ISO 3166-1": {"alpha-2": "NG", "alpha-3": "NGA", "numeric": "566"},
     },
     "North Korea": {
         "formal name": "Democratic People's Republic of Korea",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 120538.0,
         "land area": 120410.0,
         "population": 25950000,
@@ -1388,6 +1514,7 @@ COUNTRIES = {
     "North Macedonia": {
         "formal name": "Republic of North Macedonia",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 25713.0,
         "land area": 25220.0,
         "population": 1826247,
@@ -1399,17 +1526,19 @@ COUNTRIES = {
     "Norway": {
         "formal name": "Kingdom of Norway",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 386224.0,
         "land area": 366704.0,
         "population": 5601049,
         "official languages": ["Norwegian", "Sámi languages"],
         "nominal GDP": 485311000000,
-        "HDI": 0.970,
+        "HDI": 0.97,
         "ISO 3166-1": {"alpha-2": "NO", "alpha-3": "NOR", "numeric": "578"},
     },
     "Oman": {
         "formal name": "Sultanate of Oman",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 309500.0,
         "land area": 309500.0,
         "population": 5286172,
@@ -1421,6 +1550,7 @@ COUNTRIES = {
     "Pakistan": {
         "formal name": "Islamic Republic of Pakistan",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 882363.0,
         "land area": 857143.0,
         "population": 241499431,
@@ -1432,6 +1562,7 @@ COUNTRIES = {
     "Palau": {
         "formal name": "Republic of Palau",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 459.0,
         "land area": 459.0,
         "population": 16733,
@@ -1443,6 +1574,7 @@ COUNTRIES = {
     "Palestine": {
         "formal name": "State of Palestine",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 6020.0,
         "land area": 6025.0,
         "population": 5483450,
@@ -1454,6 +1586,7 @@ COUNTRIES = {
     "Panama": {
         "formal name": "Republic of Panama",
         "continents": ["North America", "South America"],
+        "landlocked": False,
         "area": 75320.0,
         "land area": 74180.0,
         "population": 4064780,
@@ -1465,6 +1598,7 @@ COUNTRIES = {
     "Papua New Guinea": {
         "formal name": "Independent State of Papua New Guinea",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 462840.0,
         "land area": 452860.0,
         "population": 11781559,
@@ -1476,6 +1610,7 @@ COUNTRIES = {
     "Paraguay": {
         "formal name": "Republic of Paraguay",
         "continents": ["South America"],
+        "landlocked": True,
         "area": 406752.0,
         "land area": 397300.0,
         "population": 6109644,
@@ -1487,6 +1622,7 @@ COUNTRIES = {
     "Peru": {
         "formal name": "Republic of Peru",
         "continents": ["South America"],
+        "landlocked": False,
         "area": 1285216.0,
         "land area": 1279996.0,
         "population": 34350244,
@@ -1498,17 +1634,19 @@ COUNTRIES = {
     "Philippines": {
         "formal name": "Republic of the Philippines",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 300000.0,
         "land area": 298170.0,
         "population": 114123600,
         "official languages": ["Filipino", "English"],
         "nominal GDP": 437146000000,
-        "HDI": 0.720,
+        "HDI": 0.72,
         "ISO 3166-1": {"alpha-2": "PH", "alpha-3": "PHL", "numeric": "608"},
     },
     "Poland": {
         "formal name": "Republic of Poland",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 312685.0,
         "land area": 304255.0,
         "population": 37423000,
@@ -1520,17 +1658,19 @@ COUNTRIES = {
     "Portugal": {
         "formal name": "Portuguese Republic",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 92225.0,
         "land area": 91606.0,
         "population": 10749635,
         "official languages": ["Portuguese"],
         "nominal GDP": 289114000000,
-        "HDI": 0.890,
+        "HDI": 0.89,
         "ISO 3166-1": {"alpha-2": "PT", "alpha-3": "PRT", "numeric": "620"},
     },
     "Qatar": {
         "formal name": "State of Qatar",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 11586.0,
         "land area": 11586.0,
         "population": 2857822,
@@ -1542,17 +1682,19 @@ COUNTRIES = {
     "Republic of the Congo": {
         "formal name": "",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 342000.0,
         "land area": 341500.0,
         "population": 6142180,
         "official languages": ["French"],
         "nominal GDP": 14167000000,
-        "HDI": 0.,
+        "HDI": 0.0,
         "ISO 3166-1": {"alpha-2": "CG", "alpha-3": "COG", "numeric": "178"},
     },
     "Romania": {
         "formal name": "Romania",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 238398.0,
         "land area": 230080.0,
         "population": 19064409,
@@ -1564,6 +1706,7 @@ COUNTRIES = {
     "Russia": {
         "formal name": "Russian Federation",
         "continents": ["Asia", "Europe"],
+        "landlocked": False,
         "area": 17098246.0,
         "land area": 16376870.0,
         "population": 146028325,
@@ -1575,6 +1718,7 @@ COUNTRIES = {
     "Rwanda": {
         "formal name": "Republic of Rwanda",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 26338.0,
         "land area": 24670.0,
         "population": 14104969,
@@ -1586,17 +1730,19 @@ COUNTRIES = {
     "Saint Kitts and Nevis": {
         "formal name": "Federation of Saint Christopher and Nevis",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 261.0,
         "land area": 261.0,
         "population": 51320,
         "official languages": ["English"],
         "nominal GDP": 1058000000,
-        "HDI": 0.840,
+        "HDI": 0.84,
         "ISO 3166-1": {"alpha-2": "KN", "alpha-3": "KNA", "numeric": "659"},
     },
     "Saint Lucia": {
         "formal name": "Saint Lucia",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 616.0,
         "land area": 610.0,
         "population": 184100,
@@ -1608,6 +1754,7 @@ COUNTRIES = {
     "Saint Vincent and the Grenadines": {
         "formal name": "Saint Vincent and the Grenadines",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 389.0,
         "land area": 389.0,
         "population": 110872,
@@ -1619,6 +1766,7 @@ COUNTRIES = {
     "Samoa": {
         "formal name": "Independent State of Samoa",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 2842.0,
         "land area": 2780.0,
         "population": 205557,
@@ -1630,6 +1778,7 @@ COUNTRIES = {
     "San Marino": {
         "formal name": "Republic of San Marino",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 61.0,
         "land area": 61.0,
         "population": 34062,
@@ -1641,28 +1790,31 @@ COUNTRIES = {
     "Saudi Arabia": {
         "formal name": "Kingdom of Saudi Arabia",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 2149690.0,
         "land area": 2149690.0,
         "population": 35300280,
         "official languages": ["Arabic"],
         "nominal GDP": 1067583000000,
-        "HDI": 0.900,
+        "HDI": 0.9,
         "ISO 3166-1": {"alpha-2": "SA", "alpha-3": "SAU", "numeric": "682"},
     },
     "Senegal": {
         "formal name": "Republic of Senegal",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 196712.0,
         "land area": 192530.0,
         "population": 18126390,
         "official languages": ["French"],
         "nominal GDP": 30408000000,
-        "HDI": 0.530,
+        "HDI": 0.53,
         "ISO 3166-1": {"alpha-2": "SN", "alpha-3": "SEN", "numeric": "686"},
     },
     "Serbia": {
         "formal name": "Republic of Serbia",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 88499.0,
         "land area": 88499.0,
         "population": 6567783,
@@ -1674,6 +1826,7 @@ COUNTRIES = {
     "Seychelles": {
         "formal name": "Republic of Seychelles",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 457.0,
         "land area": 457.0,
         "population": 122038,
@@ -1685,6 +1838,7 @@ COUNTRIES = {
     "Sierra Leone": {
         "formal name": "Republic of Sierra Leone",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 72300.0,
         "land area": 72180.0,
         "population": 8884032,
@@ -1696,6 +1850,7 @@ COUNTRIES = {
     "Singapore": {
         "formal name": "Republic of Singapore",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 736.0,
         "land area": 726.0,
         "population": 6036900,
@@ -1707,17 +1862,19 @@ COUNTRIES = {
     "Slovakia": {
         "formal name": "Slovak Republic",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 49035.0,
         "land area": 48080.0,
         "population": 5415978,
         "official languages": ["Slovak"],
         "nominal GDP": 132908000000,
-        "HDI": 0.880,
+        "HDI": 0.88,
         "ISO 3166-1": {"alpha-2": "SK", "alpha-3": "SVK", "numeric": "703"},
     },
     "Slovenia": {
         "formal name": "Republic of Slovenia",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 20273.0,
         "land area": 20151.0,
         "population": 2130850,
@@ -1729,6 +1886,7 @@ COUNTRIES = {
     "Solomon Islands": {
         "formal name": "Solomon Islands",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 28896.0,
         "land area": 27990.0,
         "population": 750325,
@@ -1740,6 +1898,7 @@ COUNTRIES = {
     "Somalia": {
         "formal name": "Federal Republic of Somalia",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 637657.0,
         "land area": 627340.0,
         "population": 19009151,
@@ -1751,6 +1910,7 @@ COUNTRIES = {
     "South Africa": {
         "formal name": "Republic of South Africa",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 1219090.0,
         "land area": 1214470.0,
         "population": 63015904,
@@ -1762,6 +1922,7 @@ COUNTRIES = {
     "South Korea": {
         "formal name": "Republic of Korea",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 100432.0,
         "land area": 97600.0,
         "population": 51164582,
@@ -1773,6 +1934,7 @@ COUNTRIES = {
     "South Sudan": {
         "formal name": "Republic of South Sudan",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 644329.0,
         "land area": 631930.0,
         "population": 15786898,
@@ -1784,6 +1946,7 @@ COUNTRIES = {
     "Spain": {
         "formal name": "Kingdom of Spain",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 505370.0,
         "land area": 498980.0,
         "population": 49153849,
@@ -1795,6 +1958,7 @@ COUNTRIES = {
     "Sri Lanka": {
         "formal name": "Democratic Socialist Republic of Sri Lanka",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 65610.0,
         "land area": 61860.0,
         "population": 21763170,
@@ -1806,6 +1970,7 @@ COUNTRIES = {
     "Sudan": {
         "formal name": "Republic of the Sudan",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 1861484.0,
         "land area": 1731671.0,
         "population": 50448963,
@@ -1817,6 +1982,7 @@ COUNTRIES = {
     "Suriname": {
         "formal name": "Republic of Suriname",
         "continents": ["South America"],
+        "landlocked": False,
         "area": 163820.0,
         "land area": 156000.0,
         "population": 616500,
@@ -1828,6 +1994,7 @@ COUNTRIES = {
     "Sweden": {
         "formal name": "Kingdom of Sweden",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 450295.0,
         "land area": 407284.0,
         "population": 10588818,
@@ -1839,17 +2006,19 @@ COUNTRIES = {
     "Switzerland": {
         "formal name": "Swiss Confederation",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 41291.0,
         "land area": 39510.0,
         "population": 9067144,
         "official languages": ["French", "German", "Italian", "Romansh"],
         "nominal GDP": 894425000000,
-        "HDI": 0.970,
+        "HDI": 0.97,
         "ISO 3166-1": {"alpha-2": "CH", "alpha-3": "CHE", "numeric": "756"},
     },
     "Syria": {
         "formal name": "Syrian Arab Republic",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 185180.0,
         "land area": 183630.0,
         "population": 24672760,
@@ -1861,6 +2030,7 @@ COUNTRIES = {
     "São Tomé and Príncipe": {
         "formal name": "Democratic Republic of São Tomé and Príncipe",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 964.0,
         "land area": 964.0,
         "population": 228319,
@@ -1872,6 +2042,7 @@ COUNTRIES = {
     "Tajikistan": {
         "formal name": "Republic of Tajikistan",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 144100.0,
         "land area": 141510.0,
         "population": 10499000,
@@ -1883,6 +2054,7 @@ COUNTRIES = {
     "Tanzania": {
         "formal name": "United Republic of Tanzania",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 947303.0,
         "land area": 885800.0,
         "population": 68153004,
@@ -1894,6 +2066,7 @@ COUNTRIES = {
     "Thailand": {
         "formal name": "Kingdom of Thailand",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 513120.0,
         "land area": 510890.0,
         "population": 65870610,
@@ -1905,6 +2078,7 @@ COUNTRIES = {
     "Timor-Leste": {
         "formal name": "Democratic Republic of Timor-Leste",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 14874.0,
         "land area": 14874.0,
         "population": 1373024,
@@ -1916,6 +2090,7 @@ COUNTRIES = {
     "Togo": {
         "formal name": "Togolese Republic",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 56785.0,
         "land area": 54390.0,
         "population": 8095498,
@@ -1927,6 +2102,7 @@ COUNTRIES = {
     "Tonga": {
         "formal name": "Kingdom of Tonga",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 747.0,
         "land area": 720.0,
         "population": 100179,
@@ -1938,6 +2114,7 @@ COUNTRIES = {
     "Trinidad and Tobago": {
         "formal name": "Republic of Trinidad and Tobago",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 5127.0,
         "land area": 5127.0,
         "population": 1368333,
@@ -1949,6 +2126,7 @@ COUNTRIES = {
     "Tunisia": {
         "formal name": "Republic of Tunisia",
         "continents": ["Africa"],
+        "landlocked": False,
         "area": 163610.0,
         "land area": 155360.0,
         "population": 11972169,
@@ -1960,6 +2138,7 @@ COUNTRIES = {
     "Turkey": {
         "formal name": "Republic of Türkiye",
         "continents": ["Asia", "Europe"],
+        "landlocked": False,
         "area": 783562.0,
         "land area": 769632.0,
         "population": 85664944,
@@ -1971,6 +2150,7 @@ COUNTRIES = {
     "Turkmenistan": {
         "formal name": "Turkmenistan",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 488100.0,
         "land area": 469930.0,
         "population": 7057841,
@@ -1982,6 +2162,7 @@ COUNTRIES = {
     "Tuvalu": {
         "formal name": "Tuvalu",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 25.0,
         "land area": 25.0,
         "population": 10643,
@@ -1993,6 +2174,7 @@ COUNTRIES = {
     "Uganda": {
         "formal name": "Republic of Uganda",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 241550.0,
         "land area": 200520.0,
         "population": 45905417,
@@ -2004,6 +2186,7 @@ COUNTRIES = {
     "Ukraine": {
         "formal name": "Ukraine",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 603550.0,
         "land area": 579330.0,
         "population": 32862000,
@@ -2015,17 +2198,19 @@ COUNTRIES = {
     "United Arab Emirates": {
         "formal name": "United Arab Emirates",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 83600.0,
         "land area": 82880.0,
         "population": 10678556,
         "official languages": ["Arabic"],
         "nominal GDP": 514130000000,
-        "HDI": 0.940,
+        "HDI": 0.94,
         "ISO 3166-1": {"alpha-2": "AE", "alpha-3": "ARE", "numeric": "784"},
     },
     "United Kingdom": {
         "formal name": "United Kingdom of Great Britain and Northern Ireland",
         "continents": ["Europe"],
+        "landlocked": False,
         "area": 244376.0,
         "land area": 242741.0,
         "population": 68265209,
@@ -2037,6 +2222,7 @@ COUNTRIES = {
     "United States": {
         "formal name": "United States of America",
         "continents": ["North America"],
+        "landlocked": False,
         "area": 9525067.0,
         "land area": 9147593.0,
         "population": 340110988,
@@ -2048,6 +2234,7 @@ COUNTRIES = {
     "Uruguay": {
         "formal name": "Oriental Republic of Uruguay",
         "continents": ["South America"],
+        "landlocked": False,
         "area": 176215.0,
         "land area": 175015.0,
         "population": 3499451,
@@ -2059,17 +2246,19 @@ COUNTRIES = {
     "Uzbekistan": {
         "formal name": "Republic of Uzbekistan",
         "continents": ["Asia"],
+        "landlocked": True,
         "area": 447400.0,
         "land area": 425400.0,
         "population": 37860975,
         "official languages": ["Uzbek"],
         "nominal GDP": 90889000000,
-        "HDI": 0.740,
+        "HDI": 0.74,
         "ISO 3166-1": {"alpha-2": "UZ", "alpha-3": "UZB", "numeric": "860"},
     },
     "Vanuatu": {
         "formal name": "Republic of Vanuatu",
         "continents": ["Oceania"],
+        "landlocked": False,
         "area": 12189.0,
         "land area": 12189.0,
         "population": 321409,
@@ -2081,6 +2270,7 @@ COUNTRIES = {
     "Vatican City": {
         "formal name": "Vatican City State",
         "continents": ["Europe"],
+        "landlocked": True,
         "area": 0.49,
         "land area": 0.49,
         "population": 882,
@@ -2092,6 +2282,7 @@ COUNTRIES = {
     "Venezuela": {
         "formal name": "Bolivarian Republic of Venezuela",
         "continents": ["South America"],
+        "landlocked": False,
         "area": 912050.0,
         "land area": 882050.0,
         "population": 28405543,
@@ -2103,6 +2294,7 @@ COUNTRIES = {
     "Vietnam": {
         "formal name": "Socialist Republic of Vietnam",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 331340.0,
         "land area": 313429.0,
         "population": 101343800,
@@ -2114,17 +2306,19 @@ COUNTRIES = {
     "Yemen": {
         "formal name": "Republic of Yemen",
         "continents": ["Asia"],
+        "landlocked": False,
         "area": 455503.0,
         "land area": 455503.0,
         "population": 32684503,
         "official languages": ["Arabic"],
         "nominal GDP": 8758000000,
-        "HDI": 0.470,
+        "HDI": 0.47,
         "ISO 3166-1": {"alpha-2": "YE", "alpha-3": "YEM", "numeric": "887"},
     },
     "Zambia": {
         "formal name": "Republic of Zambia",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 752612.0,
         "land area": 743390.0,
         "population": 19693423,
@@ -2136,6 +2330,7 @@ COUNTRIES = {
     "Zimbabwe": {
         "formal name": "Republic of Zimbabwe",
         "continents": ["Africa"],
+        "landlocked": True,
         "area": 390757.0,
         "land area": 386850.0,
         "population": 16751469,
@@ -2148,6 +2343,7 @@ COUNTRIES = {
 """A dictionary contains all members and observer states of the United Nations and information about them:
 - Formal name
 - Continent(s) of the country's mainland, order: Asia, Europe, Africa, North America, South America, Oceania
+- Landlocked or not
 - Area and land area (in square kilometre), source: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area
 - Population, source: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
 - Official language(s), source: https://en.wikipedia.org/wiki/List_of_official_languages_by_country_and_territory
