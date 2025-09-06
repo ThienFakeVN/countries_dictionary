@@ -1,5 +1,7 @@
 # Countries Dictionary
-Countries Dictionary provides: 
+Countries Dictionary is a data-oriented module.
+
+It provides: 
 - A dictionary contains all members and observer states of the United Nations and information about them:
     - Formal name
     - Continent(s) of the country's mainland
@@ -183,7 +185,7 @@ print(iso["Russia"]["ISO 3166-2"])
 ### ISO finder
 *ISO finder* is a module which provides a function which has the same name. *ISO finder* can find a country based on the provided ISO code. Note that it does not include US states' postal codes.
 ```python
-from countries_dictionary.iso_finder import iso_finder
+from countries_dictionary.iso_finder import iso_finder # 🥀
 
 print(iso_finder("VN"))
 print(iso_finder("RUS"))
