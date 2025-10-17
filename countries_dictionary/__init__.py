@@ -1,6 +1,7 @@
 COUNTRIES = {
     "Afghanistan": {
         "formal name": "Islamic Emirate of Afghanistan",
+        "motto": "There is no god but God; Muhammad is the messenger of God",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 652864.0,
@@ -13,6 +14,7 @@ COUNTRIES = {
     },
     "Albania": {
         "formal name": "Republic of Albania",
+        "motto": "You Albania, you give me honour, you give me the name Albanian",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 28748.0,
@@ -25,6 +27,7 @@ COUNTRIES = {
     },
     "Algeria": {
         "formal name": "People's Democratic Republic of Algeria",
+        "motto": "By the people and for the people",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 2381741.0,
@@ -37,6 +40,7 @@ COUNTRIES = {
     },
     "Andorra": {
         "formal name": "Principality of Andorra",
+        "motto": "United virtue is stronger",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 468.0,
@@ -49,6 +53,7 @@ COUNTRIES = {
     },
     "Angola": {
         "formal name": "Republic of Angola",
+        "motto": "Virtue is stronger when united",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 1246700.0,
@@ -61,6 +66,7 @@ COUNTRIES = {
     },
     "Antigua and Barbuda": {
         "formal name": "Antigua and Barbuda",
+        "motto": "Each endeavouring, all achieving",
         "continents": ["North America"],
         "landlocked": False,
         "area": 442.0,
@@ -73,6 +79,7 @@ COUNTRIES = {
     },
     "Argentina": {
         "formal name": "Argentine Republic",
+        "motto": "In Unity and Freedom",
         "continents": ["South America"],
         "landlocked": False,
         "area": 2780400.0,
@@ -85,6 +92,7 @@ COUNTRIES = {
     },
     "Armenia": {
         "formal name": "Republic of Armenia",
+        "motto": "One Nation, One Culture",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 29743.0,
@@ -97,6 +105,7 @@ COUNTRIES = {
     },
     "Australia": {
         "formal name": "Commonwealth of Australia",
+        "motto": "",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 7741220.0,
@@ -109,6 +118,7 @@ COUNTRIES = {
     },
     "Austria": {
         "formal name": "Republic of Austria",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 83878.0,
@@ -121,6 +131,7 @@ COUNTRIES = {
     },
     "Azerbaijan": {
         "formal name": "Republic of Azerbaijan",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 86600.0,
@@ -133,6 +144,7 @@ COUNTRIES = {
     },
     "Bahamas": {
         "formal name": "Commonwealth of The Bahamas",
+        "motto": "Forward, Upward, Onward, Together",
         "continents": ["North America"],
         "landlocked": False,
         "area": 13880.0,
@@ -145,6 +157,7 @@ COUNTRIES = {
     },
     "Bahrain": {
         "formal name": "Kingdom of Bahrain",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 778.0,
@@ -157,6 +170,7 @@ COUNTRIES = {
     },
     "Bangladesh": {
         "formal name": "People's Republic of Bangladesh",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 148460.0,
@@ -169,6 +183,7 @@ COUNTRIES = {
     },
     "Barbados": {
         "formal name": "Barbados",
+        "motto": "Pride and Industry",
         "continents": ["North America"],
         "landlocked": False,
         "area": 431.0,
@@ -181,6 +196,7 @@ COUNTRIES = {
     },
     "Belarus": {
         "formal name": "Republic of Belarus",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 207600.0,
@@ -193,6 +209,7 @@ COUNTRIES = {
     },
     "Belgium": {
         "formal name": "Kingdom of Belgium",
+        "motto": "Unity makes strength", # Unity makes strength
         "continents": ["Europe"],
         "landlocked": False,
         "area": 30528.0,
@@ -205,6 +222,7 @@ COUNTRIES = {
     },
     "Belize": {
         "formal name": "Belize",
+        "motto": "Under the shade I flourish",
         "continents": ["North America"],
         "landlocked": False,
         "area": 22965.0,
@@ -217,6 +235,7 @@ COUNTRIES = {
     },
     "Benin": {
         "formal name": "Republic of Benin",
+        "motto": "Fraternity, Justice, Labour",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 114763.0,
@@ -229,6 +248,7 @@ COUNTRIES = {
     },
     "Bhutan": {
         "formal name": "Kingdom of Bhutan",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 38394.0,
@@ -241,6 +261,7 @@ COUNTRIES = {
     },
     "Bolivia": {
         "formal name": "Plurinational State of Bolivia",
+        "motto": "Unity makes strength",
         "continents": ["South America"],
         "landlocked": True,
         "area": 1098581.0,
@@ -253,6 +274,7 @@ COUNTRIES = {
     },
     "Bosnia and Herzegovina": {
         "formal name": "Bosnia and Herzegovina",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 51209.0,
@@ -265,6 +287,7 @@ COUNTRIES = {
     },
     "Botswana": {
         "formal name": "Republic of Botswana",
+        "motto": "Rain",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 582000.0,
@@ -277,6 +300,7 @@ COUNTRIES = {
     },
     "Brazil": {
         "formal name": "Federative Republic of Brazil",
+        "motto": "Order and progress",
         "continents": ["South America"],
         "landlocked": False,
         "area": 8510346.0,
@@ -289,6 +313,7 @@ COUNTRIES = {
     },
     "Brunei": {
         "formal name": "Nation of Brunei, the Abode of Peace",
+        "motto": "Always in service with God's guidance",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 5765.0,
@@ -301,6 +326,7 @@ COUNTRIES = {
     },
     "Bulgaria": {
         "formal name": "Republic of Bulgaria",
+        "motto": "Unity makes strength",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 110879.0,
@@ -313,6 +339,7 @@ COUNTRIES = {
     },
     "Burkina Faso": {
         "formal name": "Burkina Faso",
+        "motto": "Homeland or death, we shall overcome!",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 274200.0,
@@ -325,6 +352,7 @@ COUNTRIES = {
     },
     "Burundi": {
         "formal name": "Republic of Burundi",
+        "motto": "Unity, Work, Progress", # Unity, Work, Progress
         "continents": ["Africa"],
         "landlocked": True,
         "area": 27834.0,
@@ -337,6 +365,7 @@ COUNTRIES = {
     },
     "Cambodia": {
         "formal name": "Kingdom of Cambodia",
+        "motto": "Nation, Religion, King",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 181035.0,
@@ -349,6 +378,7 @@ COUNTRIES = {
     },
     "Cameroon": {
         "formal name": "Republic of Cameroon",
+        "motto": "Peace, Work, Fatherland",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 475650.0,
@@ -361,6 +391,7 @@ COUNTRIES = {
     },
     "Canada": {
         "formal name": "Canada",
+        "motto": "From sea to sea",
         "continents": ["North America"],
         "landlocked": False,
         "area": 9984670.0,
@@ -373,6 +404,7 @@ COUNTRIES = {
     },
     "Cape Verde": {
         "formal name": "Republic of Cabo Verde",
+        "motto": "Unity, Work, Progress",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 4033.0,
@@ -385,6 +417,7 @@ COUNTRIES = {
     },
     "Central African Republic": {
         "formal name": "Central African Republic",
+        "motto": "Unity, Dignity, Work",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 622984.0,
@@ -397,6 +430,7 @@ COUNTRIES = {
     },
     "Chad": {
         "formal name": "Republic of Chad",
+        "motto": "Unity, Work, Progress",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 1284000.0,
@@ -409,6 +443,7 @@ COUNTRIES = {
     },
     "Chile": {
         "formal name": "Republic of Chile",
+        "motto": "Through reason or by force",
         "continents": ["South America"],
         "landlocked": False,
         "area": 756102.0,
@@ -421,6 +456,7 @@ COUNTRIES = {
     },
     "China": {
         "formal name": "People's Republic of China",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 9596960.0,
@@ -433,6 +469,7 @@ COUNTRIES = {
     },
     "Colombia": {
         "formal name": "Republic of Colombia",
+        "motto": "Freedom and order",
         "continents": ["South America"],
         "landlocked": False,
         "area": 1138910.0,
@@ -445,6 +482,7 @@ COUNTRIES = {
     },
     "Comoros": {
         "formal name": "Union of the Comoros",
+        "motto": "Unity, Solidarity, Development",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 1861.0,
@@ -457,6 +495,7 @@ COUNTRIES = {
     },
     "Costa Rica": {
         "formal name": "Republic of Costa Rica",
+        "motto": "",
         "continents": ["North America"],
         "landlocked": False,
         "area": 51100.0,
@@ -469,6 +508,7 @@ COUNTRIES = {
     },
     "Croatia": {
         "formal name": "Republic of Croatia",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 56594.0,
@@ -481,6 +521,7 @@ COUNTRIES = {
     },
     "Cuba": {
         "formal name": "Republic of Cuba",
+        "motto": "Homeland or death, we shall overcome!",
         "continents": ["North America"],
         "landlocked": False,
         "area": 109884.0,
@@ -493,6 +534,7 @@ COUNTRIES = {
     },
     "Cyprus": {
         "formal name": "Republic of Cyprus",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 9251.0,
@@ -505,6 +547,7 @@ COUNTRIES = {
     },
     "Czech Republic": {
         "formal name": "Czech Republic",
+        "motto": "Truth prevails",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 78871.0,
@@ -517,6 +560,7 @@ COUNTRIES = {
     },
     "Democratic Republic of the Congo": {
         "formal name": "Democratic Republic of the Congo",
+        "motto": "Justice, Peace, Work",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 2344858.0,
@@ -529,6 +573,7 @@ COUNTRIES = {
     },
     "Denmark": {
         "formal name": "Kingdom of Denmark",
+        "motto": "United, committed, for the Kingdom of Denmark",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 42947.0,
@@ -541,6 +586,7 @@ COUNTRIES = {
     },
     "Djibouti": {
         "formal name": "Republic of Djibouti",
+        "motto": "Unity, Equality, Peace",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 23200.0,
@@ -553,6 +599,7 @@ COUNTRIES = {
     },
     "Dominica": {
         "formal name": "Commonwealth of Dominica",
+        "motto": "After God, the Earth",
         "continents": ["North America"],
         "landlocked": False,
         "area": 750.0,
@@ -565,6 +612,7 @@ COUNTRIES = {
     },
     "Dominican Republic": {
         "formal name": "Dominican Republic",
+        "motto": "God, Fatherland, Liberty",
         "continents": ["North America"],
         "landlocked": False,
         "area": 48670.0,
@@ -577,6 +625,7 @@ COUNTRIES = {
     },
     "Ecuador": {
         "formal name": "Republic of Ecuador",
+        "motto": "God, homeland, and freedom",
         "continents": ["South America"],
         "landlocked": False,
         "area": 283561.0,
@@ -589,6 +638,7 @@ COUNTRIES = {
     },
     "Egypt": {
         "formal name": "Arab Republic of Egypt",
+        "motto": "",
         "continents": ["Asia", "Africa"],
         "landlocked": False,
         "area": 1001450.0,
@@ -601,6 +651,7 @@ COUNTRIES = {
     },
     "El Salvador": {
         "formal name": "Republic of El Salvador",
+        "motto": "God, Union, Liberty",
         "continents": ["North America"],
         "landlocked": False,
         "area": 21041.0,
@@ -613,6 +664,7 @@ COUNTRIES = {
     },
     "Equatorial Guinea": {
         "formal name": "Republic of Equatorial Guinea",
+        "motto": "Unity, Peace, Justice",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 28051.0,
@@ -625,6 +677,7 @@ COUNTRIES = {
     },
     "Eritrea": {
         "formal name": "State of Eritrea",
+        "motto": "Victory to the Masses!",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 117600.0,
@@ -637,6 +690,7 @@ COUNTRIES = {
     },
     "Estonia": {
         "formal name": "Republic of Estonia",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 45339.0,
@@ -649,6 +703,7 @@ COUNTRIES = {
     },
     "Eswatini": {
         "formal name": "Kingdom of Eswatini",
+        "motto": "We are the fortress",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 17363.0,
@@ -661,6 +716,7 @@ COUNTRIES = {
     },
     "Ethiopia": {
         "formal name": "Federal Democratic Republic of Ethiopia",
+        "motto": "",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 1104300.0,
@@ -673,6 +729,7 @@ COUNTRIES = {
     },
     "Fiji": {
         "formal name": "Republic of Fiji",
+        "motto": "Fear God and honour the King",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 18272.0,
@@ -685,6 +742,7 @@ COUNTRIES = {
     },
     "Finland": {
         "formal name": "Republic of Finland",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 338145.0,
@@ -697,6 +755,7 @@ COUNTRIES = {
     },
     "France": {
         "formal name": "French Republic",
+        "motto": "Liberty, equality, fraternity",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 643801.0,
@@ -709,6 +768,7 @@ COUNTRIES = {
     },
     "Gabon": {
         "formal name": "Gabonese Republic",
+        "motto": "Union, Work, Justice",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 267668.0,
@@ -721,6 +781,7 @@ COUNTRIES = {
     },
     "Gambia": {
         "formal name": "Republic of The Gambia",
+        "motto": "Progress, Peace, Prosperity",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 11295.0,
@@ -733,6 +794,7 @@ COUNTRIES = {
     },
     "Georgia": {
         "formal name": "Republic of Georgia",
+        "motto": "Strength is in Unity!",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 69700.0,
@@ -745,6 +807,7 @@ COUNTRIES = {
     },
     "Germany": {
         "formal name": "Federal Republic of Germany",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 357581.0,
@@ -757,6 +820,7 @@ COUNTRIES = {
     },
     "Ghana": {
         "formal name": "Republic of Ghana",
+        "motto": "Freedom and Justice",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 238537.0,
@@ -769,6 +833,7 @@ COUNTRIES = {
     },
     "Greece": {
         "formal name": "Hellenic Republic",
+        "motto": "Freedom or Death",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 131957.0,
@@ -781,6 +846,7 @@ COUNTRIES = {
     },
     "Grenada": {
         "formal name": "Grenada",
+        "motto": "Ever Conscious of God We Aspire, Build and Advance as One People",
         "continents": ["North America"],
         "landlocked": False,
         "area": 345.0,
@@ -793,6 +859,7 @@ COUNTRIES = {
     },
     "Guatemala": {
         "formal name": "Republic of Guatemala",
+        "motto": "Grow Free and Fertile",
         "continents": ["North America"],
         "landlocked": False,
         "area": 108889.0,
@@ -805,6 +872,7 @@ COUNTRIES = {
     },
     "Guinea": {
         "formal name": "Republic of Guinea",
+        "motto": "Work, Justice, Solidarity",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 245857.0,
@@ -817,6 +885,7 @@ COUNTRIES = {
     },
     "Guinea-Bissau": {
         "formal name": "Republic of Guinea-Bissau",
+        "motto": "Unity, Struggle, Progress",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 36125.0,
@@ -829,6 +898,7 @@ COUNTRIES = {
     },
     "Guyana": {
         "formal name": "Co-operative Republic of Guyana",
+        "motto": "One People, One Nation, One Destiny",
         "continents": ["South America"],
         "landlocked": False,
         "area": 214969.0,
@@ -841,6 +911,7 @@ COUNTRIES = {
     },
     "Haiti": {
         "formal name": "Republic of Haiti",
+        "motto": "Liberty, equality, fraternity",
         "continents": ["North America"],
         "landlocked": False,
         "area": 27750.0,
@@ -853,6 +924,7 @@ COUNTRIES = {
     },
     "Honduras": {
         "formal name": "Republic of Honduras",
+        "motto": "Free, sovereign and independent",
         "continents": ["North America"],
         "landlocked": False,
         "area": 112492.0,
@@ -865,6 +937,7 @@ COUNTRIES = {
     },
     "Hungary": {
         "formal name": "Hungary",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 93025.0,
@@ -877,6 +950,7 @@ COUNTRIES = {
     },
     "Iceland": {
         "formal name": "Iceland",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 103000.0,
@@ -889,6 +963,7 @@ COUNTRIES = {
     },
     "India": {
         "formal name": "Republic of India",
+        "motto": "Truth alone triumphs",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 3163751.0,
@@ -901,6 +976,7 @@ COUNTRIES = {
     },
     "Indonesia": {
         "formal name": "Republic of Indonesia",
+        "motto": "Unity in diversity",
         "continents": ["Asia", "Oceania"],
         "landlocked": False,
         "area": 1904569.0,
@@ -913,6 +989,7 @@ COUNTRIES = {
     },
     "Iran": {
         "formal name": "Islamic Republic of Iran",
+        "motto": "God is the Greatest",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 1648195.0,
@@ -925,6 +1002,7 @@ COUNTRIES = {
     },
     "Iraq": {
         "formal name": "Republic of Iraq",
+        "motto": "God is the Greatest",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 438317.0,
@@ -937,6 +1015,7 @@ COUNTRIES = {
     },
     "Ireland": {
         "formal name": "Ireland",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 70273.0,
@@ -949,6 +1028,7 @@ COUNTRIES = {
     },
     "Israel": {
         "formal name": "State of Israel",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 21937.0,
@@ -961,6 +1041,7 @@ COUNTRIES = {
     },
     "Italy": {
         "formal name": "Italian Republic",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 302068.0,
@@ -973,6 +1054,7 @@ COUNTRIES = {
     },
     "Ivory Coast": {
         "formal name": "Republic of Côte d'Ivoire",
+        "motto": "Unity, Discipline, Labor",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 322462.0,
@@ -985,6 +1067,7 @@ COUNTRIES = {
     },
     "Jamaica": {
         "formal name": "Jamaica",
+        "motto": "Out of many, One People",
         "continents": ["North America"],
         "landlocked": False,
         "area": 10991.0,
@@ -997,6 +1080,7 @@ COUNTRIES = {
     },
     "Japan": {
         "formal name": "Japan",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 377915.0,
@@ -1009,6 +1093,7 @@ COUNTRIES = {
     },
     "Jordan": {
         "formal name": "Hashemite Kingdom of Jordan",
+        "motto": "God, Homeland, King",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 89318.0,
@@ -1021,6 +1106,7 @@ COUNTRIES = {
     },
     "Kazakhstan": {
         "formal name": "Republic of Kazakhstan",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 2724910.0,
@@ -1033,6 +1119,7 @@ COUNTRIES = {
     },
     "Kenya": {
         "formal name": "Republic of Kenya",
+        "motto": "All pull together",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 580367.0,
@@ -1045,6 +1132,7 @@ COUNTRIES = {
     },
     "Kiribati": {
         "formal name": "Republic of Kiribati",
+        "motto": "Health, Peace and Prosperity",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 811.0,
@@ -1057,6 +1145,7 @@ COUNTRIES = {
     },
     "Kuwait": {
         "formal name": "State of Kuwait",
+        "motto": "God, The Nation, The Emir",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 17818.0,
@@ -1069,6 +1158,7 @@ COUNTRIES = {
     },
     "Kyrgyzstan": {
         "formal name": "Kyrgyz Republic",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 199949.0,
@@ -1081,6 +1171,7 @@ COUNTRIES = {
     },
     "Laos": {
         "formal name": "Lao People's Democratic Republic",
+        "motto": "Peace, independence, democracy, unity and prosperity",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 236800.0,
@@ -1093,6 +1184,7 @@ COUNTRIES = {
     },
     "Latvia": {
         "formal name": "Republic of Latvia",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 64594.0,
@@ -1105,6 +1197,7 @@ COUNTRIES = {
     },
     "Lebanon": {
         "formal name": "Republic of Lebanon",
+        "motto": "We are all for the Country, the Sublime and the Flag",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 10452.0,
@@ -1117,6 +1210,7 @@ COUNTRIES = {
     },
     "Lesotho": {
         "formal name": "Kingdom of Lesotho",
+        "motto": "Peace, Rain, Prosperity",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 30355.0,
@@ -1129,6 +1223,7 @@ COUNTRIES = {
     },
     "Liberia": {
         "formal name": "Republic of Liberia",
+        "motto": "The love of liberty brought us here",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 111369.0,
@@ -1141,6 +1236,7 @@ COUNTRIES = {
     },
     "Libya": {
         "formal name": "State of Libya",
+        "motto": "",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 1759540.0,
@@ -1153,6 +1249,7 @@ COUNTRIES = {
     },
     "Liechtenstein": {
         "formal name": "Principality of Liechtenstein",
+        "motto": "For God, Prince and Fatherland",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 160.0,
@@ -1165,6 +1262,7 @@ COUNTRIES = {
     },
     "Lithuania": {
         "formal name": "Republic of Lithuania",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 65286.0,
@@ -1177,6 +1275,7 @@ COUNTRIES = {
     },
     "Luxembourg": {
         "formal name": "Grand Duchy of Luxembourg",
+        "motto": "We want to remain what we are",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 2586.0,
@@ -1189,6 +1288,7 @@ COUNTRIES = {
     },
     "Madagascar": {
         "formal name": "Republic of Madagascar",
+        "motto": "Love, Ancestral-land, Progress",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 587041.0,
@@ -1201,6 +1301,7 @@ COUNTRIES = {
     },
     "Malawi": {
         "formal name": "Republic of Malawi",
+        "motto": "Unity and Freedom",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 118484.0,
@@ -1213,6 +1314,7 @@ COUNTRIES = {
     },
     "Malaysia": {
         "formal name": "Malaysia",
+        "motto": "Unity is strength",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 330621.0,
@@ -1225,6 +1327,7 @@ COUNTRIES = {
     },
     "Maldives": {
         "formal name": "Republic of Maldives",
+        "motto": "State of the Mahal Dibiyat",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 300.0,
@@ -1237,6 +1340,7 @@ COUNTRIES = {
     },
     "Mali": {
         "formal name": "Republic of Mali",
+        "motto": "One people, one goal, one faith",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 1240192.0,
@@ -1249,6 +1353,7 @@ COUNTRIES = {
     },
     "Malta": {
         "formal name": "Republic of Malta",
+        "motto": "Virtuous strength and consistency",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 315.0,
@@ -1261,6 +1366,7 @@ COUNTRIES = {
     },
     "Marshall Islands": {
         "formal name": "Republic of the Marshall Islands",
+        "motto": "Accomplishment through joint effort",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 181.0,
@@ -1273,6 +1379,7 @@ COUNTRIES = {
     },
     "Mauritania": {
         "formal name": "Islamic Republic of Mauritania",
+        "motto": "Honor, Fraternity, Justice",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 1030700.0,
@@ -1285,6 +1392,7 @@ COUNTRIES = {
     },
     "Mauritius": {
         "formal name": "Republic of Mauritius",
+        "motto": "Star and key of the Indian Ocean",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 2096.0,
@@ -1297,6 +1405,7 @@ COUNTRIES = {
     },
     "Mexico": {
         "formal name": "United Mexican States",
+        "motto": "",
         "continents": ["North America"],
         "landlocked": False,
         "area": 1964375.0,
@@ -1309,6 +1418,7 @@ COUNTRIES = {
     },
     "Micronesia": {
         "formal name": "Federated States of Micronesia",
+        "motto": "Peace, Unity, Liberty",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 702.0,
@@ -1321,6 +1431,7 @@ COUNTRIES = {
     },
     "Moldova": {
         "formal name": "Republic of Moldova",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 33847.0,
@@ -1333,6 +1444,7 @@ COUNTRIES = {
     },
     "Monaco": {
         "formal name": "Principality of Monaco",
+        "motto": "With God's help",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 2.0,
@@ -1345,6 +1457,7 @@ COUNTRIES = {
     },
     "Mongolia": {
         "formal name": "Mongolia",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 1564116.0,
@@ -1357,6 +1470,7 @@ COUNTRIES = {
     },
     "Montenegro": {
         "formal name": "Montenegro",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 13812.0,
@@ -1369,6 +1483,7 @@ COUNTRIES = {
     },
     "Morocco": {
         "formal name": "Kingdom of Morocco",
+        "motto": "God, the Country, the King",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 446550.0,
@@ -1381,6 +1496,7 @@ COUNTRIES = {
     },
     "Mozambique": {
         "formal name": "Republic of Mozambique",
+        "motto": "",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 799380.0,
@@ -1393,6 +1509,7 @@ COUNTRIES = {
     },
     "Myanmar": {
         "formal name": "Republic of the Union of Myanmar",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 676578.0,
@@ -1405,6 +1522,7 @@ COUNTRIES = {
     },
     "Namibia": {
         "formal name": "Republic of Namibia",
+        "motto": "Unity, liberty, justice",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 824292.0,
@@ -1417,6 +1535,7 @@ COUNTRIES = {
     },
     "Nauru": {
         "formal name": "Republic of Nauru",
+        "motto": "God's will first",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 21.0,
@@ -1429,6 +1548,7 @@ COUNTRIES = {
     },
     "Nepal": {
         "formal name": "Federal Democratic Republic of Nepal",
+        "motto": "Mother and motherland are greater than heaven",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 147181.0,
@@ -1441,6 +1561,7 @@ COUNTRIES = {
     },
     "Netherlands": {
         "formal name": "Kingdom of the Netherlands",
+        "motto": "I will maintain",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 41865.0,
@@ -1453,6 +1574,7 @@ COUNTRIES = {
     },
     "New Zealand": {
         "formal name": "New Zealand",
+        "motto": "",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 268838.0,
@@ -1465,6 +1587,7 @@ COUNTRIES = {
     },
     "Nicaragua": {
         "formal name": "Republic of Nicaragua",
+        "motto": "In God We Trust",
         "continents": ["North America"],
         "landlocked": False,
         "area": 130373.0,
@@ -1477,6 +1600,7 @@ COUNTRIES = {
     },
     "Niger": {
         "formal name": "Republic of the Niger",
+        "motto": "Fraternity, Work, Progress",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 1267000.0,
@@ -1489,6 +1613,7 @@ COUNTRIES = {
     },
     "Nigeria": {
         "formal name": "Federal Republic of Nigeria",
+        "motto": "Unity and Faith, Peace and Progress",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 923768.0,
@@ -1501,6 +1626,7 @@ COUNTRIES = {
     },
     "North Korea": {
         "formal name": "Democratic People's Republic of Korea",
+        "motto": "Strong and Prosperous Nation",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 120538.0,
@@ -1513,6 +1639,7 @@ COUNTRIES = {
     },
     "North Macedonia": {
         "formal name": "Republic of North Macedonia",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 25713.0,
@@ -1525,6 +1652,7 @@ COUNTRIES = {
     },
     "Norway": {
         "formal name": "Kingdom of Norway",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 386224.0,
@@ -1537,6 +1665,7 @@ COUNTRIES = {
     },
     "Oman": {
         "formal name": "Sultanate of Oman",
+        "motto": "God, The Nation, The Sultan",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 309500.0,
@@ -1549,6 +1678,7 @@ COUNTRIES = {
     },
     "Pakistan": {
         "formal name": "Islamic Republic of Pakistan",
+        "motto": "Faith, Unity, Discipline",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 882363.0,
@@ -1561,6 +1691,7 @@ COUNTRIES = {
     },
     "Palau": {
         "formal name": "Republic of Palau",
+        "motto": "",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 459.0,
@@ -1573,6 +1704,7 @@ COUNTRIES = {
     },
     "Palestine": {
         "formal name": "State of Palestine",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 6020.0,
@@ -1585,6 +1717,7 @@ COUNTRIES = {
     },
     "Panama": {
         "formal name": "Republic of Panama",
+        "motto": "For the benefit of the world",
         "continents": ["North America", "South America"],
         "landlocked": False,
         "area": 75320.0,
@@ -1597,6 +1730,7 @@ COUNTRIES = {
     },
     "Papua New Guinea": {
         "formal name": "Independent State of Papua New Guinea",
+        "motto": "Unity in Diversity",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 462840.0,
@@ -1609,6 +1743,7 @@ COUNTRIES = {
     },
     "Paraguay": {
         "formal name": "Republic of Paraguay",
+        "motto": "Peace and justice",
         "continents": ["South America"],
         "landlocked": True,
         "area": 406752.0,
@@ -1621,6 +1756,7 @@ COUNTRIES = {
     },
     "Peru": {
         "formal name": "Republic of Peru",
+        "motto": "Firm and happy for the union",
         "continents": ["South America"],
         "landlocked": False,
         "area": 1285216.0,
@@ -1633,6 +1769,7 @@ COUNTRIES = {
     },
     "Philippines": {
         "formal name": "Republic of the Philippines",
+        "motto": "For God, for the people, for nature and for the country",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 300000.0,
@@ -1645,6 +1782,7 @@ COUNTRIES = {
     },
     "Poland": {
         "formal name": "Republic of Poland",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 312685.0,
@@ -1657,6 +1795,7 @@ COUNTRIES = {
     },
     "Portugal": {
         "formal name": "Portuguese Republic",
+        "motto": "This is my blissful beloved homeland",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 92225.0,
@@ -1669,6 +1808,7 @@ COUNTRIES = {
     },
     "Qatar": {
         "formal name": "State of Qatar",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 11586.0,
@@ -1680,7 +1820,8 @@ COUNTRIES = {
         "ISO 3166-1": {"alpha-2": "QA", "alpha-3": "QAT", "numeric": "634"},
     },
     "Republic of the Congo": {
-        "formal name": "",
+        "formal name": "Republic of the Congo",
+        "motto": "Unity, Work, Progress",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 342000.0,
@@ -1693,6 +1834,7 @@ COUNTRIES = {
     },
     "Romania": {
         "formal name": "Romania",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 238398.0,
@@ -1705,6 +1847,7 @@ COUNTRIES = {
     },
     "Russia": {
         "formal name": "Russian Federation",
+        "motto": "",
         "continents": ["Asia", "Europe"],
         "landlocked": False,
         "area": 17098246.0,
@@ -1717,6 +1860,7 @@ COUNTRIES = {
     },
     "Rwanda": {
         "formal name": "Republic of Rwanda",
+        "motto": "Unity, Work, Patriotism",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 26338.0,
@@ -1729,6 +1873,7 @@ COUNTRIES = {
     },
     "Saint Kitts and Nevis": {
         "formal name": "Federation of Saint Christopher and Nevis",
+        "motto": "Country Above Self",
         "continents": ["North America"],
         "landlocked": False,
         "area": 261.0,
@@ -1741,6 +1886,7 @@ COUNTRIES = {
     },
     "Saint Lucia": {
         "formal name": "Saint Lucia",
+        "motto": "The land, the people, the light",
         "continents": ["North America"],
         "landlocked": False,
         "area": 616.0,
@@ -1753,6 +1899,7 @@ COUNTRIES = {
     },
     "Saint Vincent and the Grenadines": {
         "formal name": "Saint Vincent and the Grenadines",
+        "motto": "Peace and justice",
         "continents": ["North America"],
         "landlocked": False,
         "area": 389.0,
@@ -1765,6 +1912,7 @@ COUNTRIES = {
     },
     "Samoa": {
         "formal name": "Independent State of Samoa",
+        "motto": "God be the Foundation of Samoa",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 2842.0,
@@ -1777,6 +1925,7 @@ COUNTRIES = {
     },
     "San Marino": {
         "formal name": "Republic of San Marino",
+        "motto": "Liberty",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 61.0,
@@ -1789,6 +1938,7 @@ COUNTRIES = {
     },
     "Saudi Arabia": {
         "formal name": "Kingdom of Saudi Arabia",
+        "motto": "There is no God other than God and Muhammad is the Messenger of God",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 2149690.0,
@@ -1801,6 +1951,7 @@ COUNTRIES = {
     },
     "Senegal": {
         "formal name": "Republic of Senegal",
+        "motto": "One people, one goal, one faith",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 196712.0,
@@ -1813,6 +1964,7 @@ COUNTRIES = {
     },
     "Serbia": {
         "formal name": "Republic of Serbia",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 88499.0,
@@ -1825,6 +1977,7 @@ COUNTRIES = {
     },
     "Seychelles": {
         "formal name": "Republic of Seychelles",
+        "motto": "The end crowns the work",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 457.0,
@@ -1837,6 +1990,7 @@ COUNTRIES = {
     },
     "Sierra Leone": {
         "formal name": "Republic of Sierra Leone",
+        "motto": "Unity, freedom, justice",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 72300.0,
@@ -1849,6 +2003,7 @@ COUNTRIES = {
     },
     "Singapore": {
         "formal name": "Republic of Singapore",
+        "motto": "Onward Singapore",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 736.0,
@@ -1861,6 +2016,7 @@ COUNTRIES = {
     },
     "Slovakia": {
         "formal name": "Slovak Republic",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 49035.0,
@@ -1873,6 +2029,7 @@ COUNTRIES = {
     },
     "Slovenia": {
         "formal name": "Republic of Slovenia",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 20273.0,
@@ -1885,6 +2042,7 @@ COUNTRIES = {
     },
     "Solomon Islands": {
         "formal name": "Solomon Islands",
+        "motto": "To lead is to serve",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 28896.0,
@@ -1897,6 +2055,7 @@ COUNTRIES = {
     },
     "Somalia": {
         "formal name": "Federal Republic of Somalia",
+        "motto": "",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 637657.0,
@@ -1909,6 +2068,7 @@ COUNTRIES = {
     },
     "South Africa": {
         "formal name": "Republic of South Africa",
+        "motto": "Unity in Diversity",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 1219090.0,
@@ -1921,6 +2081,7 @@ COUNTRIES = {
     },
     "South Korea": {
         "formal name": "Republic of Korea",
+        "motto": "To broadly benefit the human world",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 100432.0,
@@ -1933,6 +2094,7 @@ COUNTRIES = {
     },
     "South Sudan": {
         "formal name": "Republic of South Sudan",
+        "motto": "Justice, Liberty, Prosperity",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 644329.0,
@@ -1945,6 +2107,7 @@ COUNTRIES = {
     },
     "Spain": {
         "formal name": "Kingdom of Spain",
+        "motto": "Further beyond",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 505370.0,
@@ -1957,6 +2120,7 @@ COUNTRIES = {
     },
     "Sri Lanka": {
         "formal name": "Democratic Socialist Republic of Sri Lanka",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 65610.0,
@@ -1969,6 +2133,7 @@ COUNTRIES = {
     },
     "Sudan": {
         "formal name": "Republic of the Sudan",
+        "motto": "Victory is Ours",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 1861484.0,
@@ -1981,6 +2146,7 @@ COUNTRIES = {
     },
     "Suriname": {
         "formal name": "Republic of Suriname",
+        "motto": "Justice, piety, loyalty",
         "continents": ["South America"],
         "landlocked": False,
         "area": 163820.0,
@@ -1993,6 +2159,7 @@ COUNTRIES = {
     },
     "Sweden": {
         "formal name": "Kingdom of Sweden",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 450295.0,
@@ -2005,6 +2172,7 @@ COUNTRIES = {
     },
     "Switzerland": {
         "formal name": "Swiss Confederation",
+        "motto": "One for all, all for one",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 41291.0,
@@ -2017,6 +2185,7 @@ COUNTRIES = {
     },
     "Syria": {
         "formal name": "Syrian Arab Republic",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 185180.0,
@@ -2029,6 +2198,7 @@ COUNTRIES = {
     },
     "São Tomé and Príncipe": {
         "formal name": "Democratic Republic of São Tomé and Príncipe",
+        "motto": "Unity, Discipline, Work",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 964.0,
@@ -2041,6 +2211,7 @@ COUNTRIES = {
     },
     "Tajikistan": {
         "formal name": "Republic of Tajikistan",
+        "motto": "Independence, Freedom, Homeland!",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 144100.0,
@@ -2053,6 +2224,7 @@ COUNTRIES = {
     },
     "Tanzania": {
         "formal name": "United Republic of Tanzania",
+        "motto": "Freedom and Unity",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 947303.0,
@@ -2065,6 +2237,7 @@ COUNTRIES = {
     },
     "Thailand": {
         "formal name": "Kingdom of Thailand",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 513120.0,
@@ -2077,6 +2250,7 @@ COUNTRIES = {
     },
     "Timor-Leste": {
         "formal name": "Democratic Republic of Timor-Leste",
+        "motto": "Unity, Action, and Progress",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 14874.0,
@@ -2089,6 +2263,7 @@ COUNTRIES = {
     },
     "Togo": {
         "formal name": "Togolese Republic",
+        "motto": "Work, liberty, homeland",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 56785.0,
@@ -2101,6 +2276,7 @@ COUNTRIES = {
     },
     "Tonga": {
         "formal name": "Kingdom of Tonga",
+        "motto": "God and Tonga are my Inheritance",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 747.0,
@@ -2113,6 +2289,7 @@ COUNTRIES = {
     },
     "Trinidad and Tobago": {
         "formal name": "Republic of Trinidad and Tobago",
+        "motto": "Together we aspire, together we achieve",
         "continents": ["North America"],
         "landlocked": False,
         "area": 5127.0,
@@ -2125,6 +2302,7 @@ COUNTRIES = {
     },
     "Tunisia": {
         "formal name": "Republic of Tunisia",
+        "motto": "Freedom, Order, Justice",
         "continents": ["Africa"],
         "landlocked": False,
         "area": 163610.0,
@@ -2137,6 +2315,7 @@ COUNTRIES = {
     },
     "Turkey": {
         "formal name": "Republic of Türkiye",
+        "motto": "",
         "continents": ["Asia", "Europe"],
         "landlocked": False,
         "area": 783562.0,
@@ -2149,6 +2328,7 @@ COUNTRIES = {
     },
     "Turkmenistan": {
         "formal name": "Turkmenistan",
+        "motto": "Turkmenistan is the motherland of Neutrality",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 488100.0,
@@ -2161,6 +2341,7 @@ COUNTRIES = {
     },
     "Tuvalu": {
         "formal name": "Tuvalu",
+        "motto": "Tuvalu for the Almighty",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 25.0,
@@ -2173,6 +2354,7 @@ COUNTRIES = {
     },
     "Uganda": {
         "formal name": "Republic of Uganda",
+        "motto": "For God and My Country",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 241550.0,
@@ -2185,6 +2367,7 @@ COUNTRIES = {
     },
     "Ukraine": {
         "formal name": "Ukraine",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 603550.0,
@@ -2197,6 +2380,7 @@ COUNTRIES = {
     },
     "United Arab Emirates": {
         "formal name": "United Arab Emirates",
+        "motto": "",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 83600.0,
@@ -2209,6 +2393,7 @@ COUNTRIES = {
     },
     "United Kingdom": {
         "formal name": "United Kingdom of Great Britain and Northern Ireland",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": False,
         "area": 244376.0,
@@ -2221,6 +2406,7 @@ COUNTRIES = {
     },
     "United States": {
         "formal name": "United States of America",
+        "motto": "In God We Trust",
         "continents": ["North America"],
         "landlocked": False,
         "area": 9525067.0,
@@ -2233,6 +2419,7 @@ COUNTRIES = {
     },
     "Uruguay": {
         "formal name": "Oriental Republic of Uruguay",
+        "motto": "Liberty or Death",
         "continents": ["South America"],
         "landlocked": False,
         "area": 176215.0,
@@ -2245,6 +2432,7 @@ COUNTRIES = {
     },
     "Uzbekistan": {
         "formal name": "Republic of Uzbekistan",
+        "motto": "The Strength is in The Justice!",
         "continents": ["Asia"],
         "landlocked": True,
         "area": 447400.0,
@@ -2257,6 +2445,7 @@ COUNTRIES = {
     },
     "Vanuatu": {
         "formal name": "Republic of Vanuatu",
+        "motto": "In God we stand",
         "continents": ["Oceania"],
         "landlocked": False,
         "area": 12189.0,
@@ -2269,6 +2458,7 @@ COUNTRIES = {
     },
     "Vatican City": {
         "formal name": "Vatican City State",
+        "motto": "",
         "continents": ["Europe"],
         "landlocked": True,
         "area": 0.49,
@@ -2281,6 +2471,7 @@ COUNTRIES = {
     },
     "Venezuela": {
         "formal name": "Bolivarian Republic of Venezuela",
+        "motto": "God and Federation",
         "continents": ["South America"],
         "landlocked": False,
         "area": 912050.0,
@@ -2293,6 +2484,7 @@ COUNTRIES = {
     },
     "Vietnam": {
         "formal name": "Socialist Republic of Vietnam",
+        "motto": "Independence, Liberty, Happiness",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 331340.0,
@@ -2305,6 +2497,7 @@ COUNTRIES = {
     },
     "Yemen": {
         "formal name": "Republic of Yemen",
+        "motto": "God, Homeland, Revolution, Unity",
         "continents": ["Asia"],
         "landlocked": False,
         "area": 455503.0,
@@ -2317,6 +2510,7 @@ COUNTRIES = {
     },
     "Zambia": {
         "formal name": "Republic of Zambia",
+        "motto": "One Zambia, One Nation",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 752612.0,
@@ -2329,6 +2523,7 @@ COUNTRIES = {
     },
     "Zimbabwe": {
         "formal name": "Republic of Zimbabwe",
+        "motto": "Unity, Freedom, Work",
         "continents": ["Africa"],
         "landlocked": True,
         "area": 390757.0,
@@ -2342,6 +2537,7 @@ COUNTRIES = {
 }
 """A dictionary contains all members and observer states of the United Nations and information about them:
 - Formal name
+- Motto (in English), source: https://en.wikipedia.org/wiki/List_of_national_mottos
 - Continent(s) of the country's mainland, order: Asia, Europe, Africa, North America, South America, Oceania
 - Landlocked or not
 - Area and land area (in square kilometre), source: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area

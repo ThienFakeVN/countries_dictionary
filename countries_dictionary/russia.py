@@ -6,7 +6,7 @@ RUSSIA = {
         "capital/administrative centre": "Maykop",
         "area": 7792.0,
         "population": 501038,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-AD",
     },
     "Bashkortostan": {
         "federal district": "Volga",
@@ -15,7 +15,7 @@ RUSSIA = {
         "capital/administrative centre": "Ufa",
         "area": 142947.0,
         "population": 4046094,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-BA",
     },
     "Buryatia": {
         "federal district": "Far Eastern",
@@ -24,7 +24,7 @@ RUSSIA = {
         "capital/administrative centre": "Ulan-Ude",
         "area": 351334.0,
         "population": 970679,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-BU",
     },
     "Altai Republic": {
         "federal district": "Siberian",
@@ -33,7 +33,7 @@ RUSSIA = {
         "capital/administrative centre": "Gorno-Altaysk",
         "area": 92903.0,
         "population": 210099,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-AL",
     },
     "Dagestan": {
         "federal district": "North Caucasian",
@@ -42,7 +42,7 @@ RUSSIA = {
         "capital/administrative centre": "Makhachkala",
         "area": 50270.0,
         "population": 3258993,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-DA",
     },
     "Ingushetia": {
         "federal district": "North Caucasian",
@@ -51,7 +51,7 @@ RUSSIA = {
         "capital/administrative centre": "Magas",
         "area": 3628.0,
         "population": 534219,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-IN",
     },
     "Kabardino-Balkaria": {
         "federal district": "North Caucasian",
@@ -60,7 +60,7 @@ RUSSIA = {
         "capital/administrative centre": "Nalchik",
         "area": 12470.0,
         "population": 908090,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KB",
     },
     "Kalmykia": {
         "federal district": "Southern",
@@ -69,7 +69,7 @@ RUSSIA = {
         "capital/administrative centre": "Elista",
         "area": 74731.0,
         "population": 267376,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KL",
     },
     "Karachay-Cherkessia": {
         "federal district": "North Caucasian",
@@ -78,7 +78,7 @@ RUSSIA = {
         "capital/administrative centre": "Cherkessk",
         "area": 14277.0,
         "population": 468531,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KC",
     },
     "Karelia": {
         "federal district": "Northwestern",
@@ -87,7 +87,7 @@ RUSSIA = {
         "capital/administrative centre": "Petrozavodsk",
         "area": 180520.0,
         "population": 518644,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KR",
     },
     "Komi Republic": {
         "federal district": "Northwestern",
@@ -96,7 +96,7 @@ RUSSIA = {
         "capital/administrative centre": "Syktyvkar",
         "area": 416774.0,
         "population": 714391,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KO",
     },
     "Mari El": {
         "federal district": "Volga",
@@ -105,7 +105,7 @@ RUSSIA = {
         "capital/administrative centre": "Yoshkar-Ola",
         "area": 23375.0,
         "population": 665983,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-ME",
     },
     "Mordovia": {
         "federal district": "Volga",
@@ -114,7 +114,7 @@ RUSSIA = {
         "capital/administrative centre": "Saransk",
         "area": 26128.0,
         "population": 758390,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-MO",
     },
     "Sakha": {
         "federal district": "Far Eastern",
@@ -123,7 +123,7 @@ RUSSIA = {
         "capital/administrative centre": "Yakutsk",
         "area": 3083523.0,
         "population": 1007058,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-SA",
     },
     "North Ossetia–Alania": {
         "federal district": "North Caucasian",
@@ -132,7 +132,7 @@ RUSSIA = {
         "capital/administrative centre": "Vladikavkaz",
         "area": 7987.0,
         "population": 678454,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-SE",
     },
     "Tatarstan": {
         "federal district": "Volga",
@@ -141,7 +141,7 @@ RUSSIA = {
         "capital/administrative centre": "Kazan",
         "area": 67847.0,
         "population": 4016571,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-TA",
     },
     "Tuva": {
         "federal district": "Siberian",
@@ -150,7 +150,7 @@ RUSSIA = {
         "capital/administrative centre": "Kyzyl",
         "area": 168604.0,
         "population": 338341,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-TY",
     },
     "Udmurtia": {
         "federal district": "Volga",
@@ -159,7 +159,7 @@ RUSSIA = {
         "capital/administrative centre": "Izhevsk",
         "area": 42061.0,
         "population": 1427018,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-UD",
     },
     "Khakassia": {
         "federal district": "Siberian",
@@ -168,7 +168,7 @@ RUSSIA = {
         "capital/administrative centre": "Abakan",
         "area": 61569.0,
         "population": 534795,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KK",
     },
     "Chechnya": {
         "federal district": "North Caucasian",
@@ -177,7 +177,7 @@ RUSSIA = {
         "capital/administrative centre": "Grozny",
         "area": 16165.0,
         "population": 1575819,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-CE",
     },
     "Chuvashia": {
         "federal district": "Volga",
@@ -186,7 +186,7 @@ RUSSIA = {
         "capital/administrative centre": "Cheboksary",
         "area": 18343.0,
         "population": 1159757,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-CU",
     },
     "Altai Krai": {
         "federal district": "Siberian",
@@ -195,7 +195,7 @@ RUSSIA = {
         "capital/administrative centre": "Barnaul",
         "area": 167996.0,
         "population": 2098979,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-ALT",
     },
     "Krasnodar Krai": {
         "federal district": "Southern",
@@ -204,7 +204,7 @@ RUSSIA = {
         "capital/administrative centre": "Krasnodar",
         "area": 75485.0,
         "population": 5841846,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KDA",
     },
     "Krasnoyarsk Krai": {
         "federal district": "Siberian",
@@ -213,7 +213,7 @@ RUSSIA = {
         "capital/administrative centre": "Krasnoyarsk",
         "area": 2366797.0,
         "population": 2837374,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KYA",
     },
     "Primorsky Krai": {
         "federal district": "Far Eastern",
@@ -222,7 +222,7 @@ RUSSIA = {
         "capital/administrative centre": "Vladivostok",
         "area": 164673.0,
         "population": 1798047,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-PRI",
     },
     "Stavropol Krai": {
         "federal district": "North Caucasian",
@@ -231,7 +231,7 @@ RUSSIA = {
         "capital/administrative centre": "Stavropol",
         "area": 66160.0,
         "population": 2883494,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-STA",
     },
     "Khabarovsk Krai": {
         "federal district": "Far Eastern",
@@ -240,7 +240,7 @@ RUSSIA = {
         "capital/administrative centre": "Khabarovsk",
         "area": 787633.0,
         "population": 1273093,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KHA",
     },
     "Amur Oblast": {
         "federal district": "Far Eastern",
@@ -249,7 +249,7 @@ RUSSIA = {
         "capital/administrative centre": "Blagoveshchensk",
         "area": 361908.0,
         "population": 750870,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-AMU",
     },
     "Arkhangelsk Oblast": {
         "federal district": "Northwestern",
@@ -258,7 +258,7 @@ RUSSIA = {
         "capital/administrative centre": "Arkhangelsk",
         "area": 413103.0,
         "population": 947192,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-ARK",
     },
     "Astrakhan Oblast": {
         "federal district": "Southern",
@@ -267,7 +267,7 @@ RUSSIA = {
         "capital/administrative centre": "Astrakhan",
         "area": 49024.0,
         "population": 945991,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-AST",
     },
     "Belgorod Oblast": {
         "federal district": "Central",
@@ -276,7 +276,7 @@ RUSSIA = {
         "capital/administrative centre": "Belgorod",
         "area": 27134.0,
         "population": 1481098,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-BEL",
     },
     "Bryansk Oblast": {
         "federal district": "Central",
@@ -285,7 +285,7 @@ RUSSIA = {
         "capital/administrative centre": "Bryansk",
         "area": 34857.0,
         "population": 1132475,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-BRY",
     },
     "Vladimir Oblast": {
         "federal district": "Central",
@@ -294,7 +294,7 @@ RUSSIA = {
         "capital/administrative centre": "Vladimir",
         "area": 29084.0,
         "population": 1295930,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-VLA",
     },
     "Volgograd Oblast": {
         "federal district": "Southern",
@@ -303,7 +303,7 @@ RUSSIA = {
         "capital/administrative centre": "Volgograd",
         "area": 112877.0,
         "population": 2435355,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-VGG",
     },
     "Vologda Oblast": {
         "federal district": "Northwestern",
@@ -312,7 +312,7 @@ RUSSIA = {
         "capital/administrative centre": "Vologda",
         "area": 144527.0,
         "population": 1114639,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-VLG",
     },
     "Voronezh Oblast": {
         "federal district": "Central",
@@ -321,7 +321,7 @@ RUSSIA = {
         "capital/administrative centre": "Voronezh",
         "area": 52216.0,
         "population": 2259610,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-VOR",
     },
     "Ivanovo Oblast": {
         "federal district": "Central",
@@ -330,7 +330,7 @@ RUSSIA = {
         "capital/administrative centre": "Ivanovo",
         "area": 21437.0,
         "population": 897869,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-IVA",
     },
     "Irkutsk Oblast": {
         "federal district": "Siberian",
@@ -339,7 +339,7 @@ RUSSIA = {
         "capital/administrative centre": "Irkutsk",
         "area": 774846.0,
         "population": 2316571,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-ỈKR",
     },
     "Kaliningrad Oblast": {
         "federal district": "Northwestern",
@@ -348,7 +348,7 @@ RUSSIA = {
         "capital/administrative centre": "Kaliningrad",
         "area": 15125.0,
         "population": 1064747,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KGD",
     },
     "Kaluga Oblast": {
         "federal district": "Central",
@@ -357,7 +357,7 @@ RUSSIA = {
         "capital/administrative centre": "Kaluga",
         "area": 29777.0,
         "population": 1064747,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KLU",
     },
     "Kamchatka Krai": {
         "federal district": "Far Eastern",
@@ -366,7 +366,7 @@ RUSSIA = {
         "capital/administrative centre": "Petropavlovsk-Kamchatsky",
         "area": 464275.0,
         "population": 287949,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KAM",
     },
     "Kemerovo Oblast": {
         "federal district": "Siberian",
@@ -375,7 +375,7 @@ RUSSIA = {
         "capital/administrative centre": "Kemerovo",
         "area": 95725.0,
         "population": 2526384,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KEM",
     },
     "Kirov Oblast": {
         "federal district": "Volga",
@@ -384,7 +384,7 @@ RUSSIA = {
         "capital/administrative centre": "Kirov",
         "area": 120374.0,
         "population": 1120178,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KIR",
     },
     "Kostroma Oblast": {
         "federal district": "Central",
@@ -393,7 +393,7 @@ RUSSIA = {
         "capital/administrative centre": "Kostroma",
         "area": 60211.0,
         "population": 560758,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KOS",
     },
     "Kurgan Oblast": {
         "federal district": "Ural",
@@ -402,7 +402,7 @@ RUSSIA = {
         "capital/administrative centre": "Kurgan",
         "area": 71488.0,
         "population": 744197,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KGN",
     },
     "Kursk Oblast": {
         "federal district": "Central",
@@ -411,7 +411,7 @@ RUSSIA = {
         "capital/administrative centre": "Kursk",
         "area": 29997.0,
         "population": 1050134,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KRS",
     },
     "Leningrad Oblast": {
         "federal district": "Northwestern",
@@ -420,7 +420,7 @@ RUSSIA = {
         "capital/administrative centre": "",
         "area": 83908.0,
         "population": 2057708,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-LEN",
     },
     "Lipetsk Oblast": {
         "federal district": "Central",
@@ -429,7 +429,7 @@ RUSSIA = {
         "capital/administrative centre": "Lipetsk",
         "area": 24047.0,
         "population": 1107812,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-LIP",
     },
     "Magadan Oblast": {
         "federal district": "Far Eastern",
@@ -438,7 +438,7 @@ RUSSIA = {
         "capital/administrative centre": "Magadan",
         "area": 462464.0,
         "population": 134202,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-MAG",
     },
     "Moscow Oblast": {
         "federal district": "Central",
@@ -447,7 +447,7 @@ RUSSIA = {
         "capital/administrative centre": "",
         "area": 44329.0,
         "population": 8766594,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-MOS",
     },
     "Murmansk Oblast": {
         "federal district": "Northwestern",
@@ -456,7 +456,7 @@ RUSSIA = {
         "capital/administrative centre": "Murmansk",
         "area": 144902.0,
         "population": 650920,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-MUR",
     },
     "Nizhny Novgorod Oblast": {
         "federal district": "Volga",
@@ -465,7 +465,7 @@ RUSSIA = {
         "capital/administrative centre": "Nizhny Novgorod",
         "area": 76624.0,
         "population": 3037816,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-NIZ",
     },
     "Novgorod Oblast": {
         "federal district": "Northwestern",
@@ -474,7 +474,7 @@ RUSSIA = {
         "capital/administrative centre": "Veliky Novgorod",
         "area": 54501.0,
         "population": 566745,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-NGR",
     },
     "Novosibirsk Oblast": {
         "federal district": "Siberian",
@@ -483,7 +483,7 @@ RUSSIA = {
         "capital/administrative centre": "Novosibirsk",
         "area": 177756.0,
         "population": 2784587,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-NVS",
     },
     "Omsk Oblast": {
         "federal district": "Siberian",
@@ -492,7 +492,7 @@ RUSSIA = {
         "capital/administrative centre": "Omsk",
         "area": 141140.0,
         "population": 1805443,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-OMS",
     },
     "Orenburg Oblast": {
         "federal district": "Volga",
@@ -501,7 +501,7 @@ RUSSIA = {
         "capital/administrative centre": "Orenburg",
         "area": 123702.0,
         "population": 1815655,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-ORE",
     },
     "Oryol Oblast": {
         "federal district": "Central",
@@ -510,7 +510,7 @@ RUSSIA = {
         "capital/administrative centre": "Oryol",
         "area": 24652.0,
         "population": 685693,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-ORL",
     },
     "Penza Oblast": {
         "federal district": "Volga",
@@ -519,7 +519,7 @@ RUSSIA = {
         "capital/administrative centre": "Penza",
         "area": 43352.0,
         "population": 1225984,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-PNZ",
     },
     "Perm Krai": {
         "federal district": "Volga",
@@ -528,7 +528,7 @@ RUSSIA = {
         "capital/administrative centre": "Perm",
         "area": 160236.0,
         "population": 2482080,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-PER",
     },
     "Pskov Oblast": {
         "federal district": "Northwestern",
@@ -537,7 +537,7 @@ RUSSIA = {
         "capital/administrative centre": "Pskov",
         "area": 55399.0,
         "population": 574199,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-PSK",
     },
     "Rostov Oblast": {
         "federal district": "Southern",
@@ -546,7 +546,7 @@ RUSSIA = {
         "capital/administrative centre": "Rostov-on-Don",
         "area": 100967.0,
         "population": 4135018,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-ROS",
     },
     "Ryazan Oblast": {
         "federal district": "Central",
@@ -555,7 +555,7 @@ RUSSIA = {
         "capital/administrative centre": "Ryazan",
         "area": 39605.0,
         "population": 1073981,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-RYA",
     },
     "Samara Oblast": {
         "federal district": "Volga",
@@ -564,7 +564,7 @@ RUSSIA = {
         "capital/administrative centre": "Samara",
         "area": 53565.0,
         "population": 3108944,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-SAM",
     },
     "Saratov Oblast": {
         "federal district": "Volga",
@@ -573,7 +573,7 @@ RUSSIA = {
         "capital/administrative centre": "Saratov",
         "area": 101240.0,
         "population": 2368387,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-SAR",
     },
     "Sakhalin Oblast": {
         "federal district": "Far Eastern",
@@ -582,7 +582,7 @@ RUSSIA = {
         "capital/administrative centre": "Yuzhno-Sakhalinsk",
         "area": 87101.0,
         "population": 456792,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-SAK",
     },
     "Sverdlovsk Oblast": {
         "federal district": "Ural",
@@ -591,7 +591,7 @@ RUSSIA = {
         "capital/administrative centre": "Yekaterinburg",
         "area": 194307.0,
         "population": 4218204,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-SVE",
     },
     "Smolensk Oblast": {
         "federal district": "Central",
@@ -600,7 +600,7 @@ RUSSIA = {
         "capital/administrative centre": "Smolensk",
         "area": 49779.0,
         "population": 857847,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-SMO",
     },
     "Tambov Oblast": {
         "federal district": "Central",
@@ -609,7 +609,7 @@ RUSSIA = {
         "capital/administrative centre": "Tambov",
         "area": 34462.0,
         "population": 946010,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-TAM",
     },
     "Tver Oblast": {
         "federal district": "Central",
@@ -618,7 +618,7 @@ RUSSIA = {
         "capital/administrative centre": "Tver",
         "area": 84201.0,
         "population": 1189685,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-TVE",
     },
     "Tomsk Oblast": {
         "federal district": "Siberian",
@@ -627,7 +627,7 @@ RUSSIA = {
         "capital/administrative centre": "Tomsk",
         "area": 314391.0,
         "population": 1039458,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-TOM",
     },
     "Tula Oblast": {
         "federal district": "Central",
@@ -636,7 +636,7 @@ RUSSIA = {
         "capital/administrative centre": "Tula",
         "area": 25679.0,
         "population": 1455911,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-TUL",
     },
     "Tyumen Oblast": {
         "federal district": "Ural",
@@ -645,7 +645,7 @@ RUSSIA = {
         "capital/administrative centre": "Tyumen",
         "area": 160122.0,
         "population": 1625129,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-TYU",
     },
     "Ulyanovsk Oblast": {
         "federal district": "Volga",
@@ -654,7 +654,7 @@ RUSSIA = {
         "capital/administrative centre": "Ulyanovsk",
         "area": 37181.0,
         "population": 1164837,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-ULY",
     },
     "Chelyabinsk Oblast": {
         "federal district": "Ural",
@@ -663,7 +663,7 @@ RUSSIA = {
         "capital/administrative centre": "Chelyabinsk",
         "area": 88529.0,
         "population": 3383188,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-CHE",
     },
     "Zabaykalsky Krai": {
         "federal district": "Far Eastern",
@@ -672,7 +672,7 @@ RUSSIA = {
         "capital/administrative centre": "Chita",
         "area": 431892.0,
         "population": 982525,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-ZAB",
     },
     "Yaroslavl Oblast": {
         "federal district": "Central",
@@ -681,7 +681,7 @@ RUSSIA = {
         "capital/administrative centre": "Yaroslavl",
         "area": 36177.0,
         "population": 1179301,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-YAR",
     },
     "Moscow": {
         "federal district": "Central",
@@ -690,7 +690,7 @@ RUSSIA = {
         "capital/administrative centre": "Moscow",
         "area": 2561.0,
         "population": 13258262,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-MOW",
     },
     "Saint Petersburg": {
         "federal district": "Northwestern",
@@ -699,7 +699,7 @@ RUSSIA = {
         "capital/administrative centre": "Saint Petersburg",
         "area": 1403.0,
         "population": 5645943,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-SPE",
     },
     "Jewish Autonomous Oblast": {
         "federal district": "Far Eastern",
@@ -708,7 +708,7 @@ RUSSIA = {
         "capital/administrative centre": "Birobidzhan",
         "area": 36271.0,
         "population": 144389,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-YEV",
     },
     "Nenets Autonomous Okrug": {
         "federal district": "Northwestern",
@@ -717,7 +717,7 @@ RUSSIA = {
         "capital/administrative centre": "Naryan-Mar",
         "area": 176810.0,
         "population": 41829,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-NEN",
     },
     "Khanty-Mansi Autonomous Okrug": {
         "federal district": "Ural",
@@ -726,7 +726,7 @@ RUSSIA = {
         "capital/administrative centre": "Khanty-Mansiysk",
         "area": 534801.0,
         "population": 1779510,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-KHM",
     },
     "Chukotka Autonomous Okrug": {
         "federal district": "Far Eastern",
@@ -735,7 +735,7 @@ RUSSIA = {
         "capital/administrative centre": "Anadyr",
         "area": 721481.0,
         "population": 47902,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-CHU",
     },
     "Yamalo-Nenets Autonomous Okrug": {
         "federal district": "Ural",
@@ -744,7 +744,7 @@ RUSSIA = {
         "capital/administrative centre": "Salekhard",
         "area": 769250.0,
         "population": 521655,
-        "ISO 3166-2:RU": "",
+        "ISO 3166-2:RU": "RU-YAN",
     },
     # Occupied zones; internationally regconised as Ukraine's territories
     "Republic of Crimea": {
@@ -806,8 +806,10 @@ RUSSIA = {
 """A dictionary contains all federal subjects of Russia and information about them:
 - Federal district
 - Economic region
+- Landlocked or not
 - Capital or administrative centre
 - Area (in square kilometre)
 - Population
+- ISO 3166-2:RU codes
 
 Note: the dictionary might contain inaccuracies"""

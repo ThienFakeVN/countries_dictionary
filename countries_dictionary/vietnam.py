@@ -5,7 +5,7 @@ VIETNAM = {
         "administrative centre": "Hoàn Kiếm ward",
         "area": 3359.84,
         "population": 8807523,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-HN",
     },
     "Ho Chi Minh City": {
         "region": "Southeast",
@@ -13,7 +13,7 @@ VIETNAM = {
         "administrative centre": "Saigon ward",
         "area": 6772.59,
         "population": 14002598,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-SG",
     },
     "Haiphong": {
         "region": "Red River Delta",
@@ -21,15 +21,15 @@ VIETNAM = {
         "administrative centre": "Hồng Bàng ward",
         "area": 3194.72,
         "population": 4664124,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-HP",
     },
-    "Da Nang": {    # Includes Hoàng Sa
+    "Da Nang": { # Includes Hoàng Sa
         "region": "South Central Coast",
         "landlocked": False,
         "administrative centre": "Hải Châu ward",
         "area": 11859.59,
         "population": 3065628,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-DN",
     },
     "Cần Thơ": {
         "region": "Mekong Delta",
@@ -37,7 +37,7 @@ VIETNAM = {
         "administrative centre": "Ninh Kiều ward",
         "area": 6360.83,
         "population": 4199824,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-CT",
     },
     "Huế": {
         "region": "North Central Coast",
@@ -45,7 +45,7 @@ VIETNAM = {
         "administrative centre": "Thuận Hóa ward",
         "area": 4947.11,
         "population": 1432986,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-26",
     },
     "Điện Biên province": {
         "region": "Northwest",
@@ -53,7 +53,7 @@ VIETNAM = {
         "administrative centre": "Điện Biên Phủ ward",
         "area": 9539.93,
         "population": 673091,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-71",
     },
     "Lai Châu province": {
         "region": "Northwest",
@@ -61,7 +61,7 @@ VIETNAM = {
         "administrative centre": "Tân Phong ward",
         "area": 9068.73,
         "population": 512601,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-01",
     },
     "Lào Cai province": {
         "region": "Northwest",
@@ -69,7 +69,7 @@ VIETNAM = {
         "administrative centre": "Yên Bái ward",
         "area": 13256.92,
         "population": 1778785,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-02",
     },
     "Cao Bằng province": {
         "region": "Northeast",
@@ -77,7 +77,7 @@ VIETNAM = {
         "administrative centre": "Thục Phán ward",
         "area": 6700.39,
         "population": 573119,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-04",
     },
     "Lạng Sơn province": {
         "region": "Northeast",
@@ -85,7 +85,7 @@ VIETNAM = {
         "administrative centre": "Lương Văn Tri ward",
         "area": 8310.18,
         "population": 881384,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-09",
     },
     "Tuyên Quang province": {
         "region": "Northeast",
@@ -93,7 +93,7 @@ VIETNAM = {
         "administrative centre": "Minh Xuân ward",
         "area": 13795.5,
         "population": 1865270,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-07",
     },
     "Thái Nguyên province": {
         "region": "Northeast",
@@ -101,7 +101,7 @@ VIETNAM = {
         "administrative centre": "Phan Đình Phùng ward",
         "area": 8375.21,
         "population": 1799489,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-69",
     },
     "Sơn La province": {
         "region": "Northwest",
@@ -109,7 +109,7 @@ VIETNAM = {
         "administrative centre": "Chiềng Cơi ward",
         "area": 14108.89,
         "population": 1404587,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-05",
     },
     "Phú Thọ province": {
         "region": "Northeast",
@@ -117,7 +117,7 @@ VIETNAM = {
         "administrative centre": "Việt Trì ward",
         "area": 9361.38,
         "population": 4022638,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-68",
     },
     "Bắc Ninh province": {
         "region": "Red River Delta",
@@ -125,7 +125,7 @@ VIETNAM = {
         "administrative centre": "Tân Tiến ward",
         "area": 3194.72,
         "population": 3619433,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-56",
     },
     "Quảng Ninh province": {
         "region": "Northeast",
@@ -133,7 +133,7 @@ VIETNAM = {
         "administrative centre": "Hạ Long ward",
         "area": 6207.95,
         "population": 1497477,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-13",
     },
     "Hưng Yên province": {
         "region": "Red River Delta",
@@ -141,7 +141,7 @@ VIETNAM = {
         "administrative centre": "Phố Hiến ward",
         "area": 2514.81,
         "population": 3567943,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-66",
     },
     "Ninh Bình province": {
         "region": "Red River Delta",
@@ -149,7 +149,7 @@ VIETNAM = {
         "administrative centre": "Hoa Lư ward",
         "area": 3942.62,
         "population": 4412464,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-18",
     },
     "Thanh Hóa province": {
         "region": "North Central Coast",
@@ -157,7 +157,7 @@ VIETNAM = {
         "administrative centre": "Hạc Thành ward",
         "area": 11114.71,
         "population": 4324783,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-21",
     },
     "Nghệ An province": {
         "region": "North Central Coast",
@@ -165,7 +165,7 @@ VIETNAM = {
         "administrative centre": "Trường Vinh ward",
         "area": 16486.5,
         "population": 3831694,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-22",
     },
     "Hà Tĩnh province": {
         "region": "North Central Coast",
@@ -173,7 +173,7 @@ VIETNAM = {
         "administrative centre": "Thành Sen ward",
         "area": 5994.45,
         "population": 1622901,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-23",
     },
     "Quảng Trị province": {
         "region": "North Central Coast",
@@ -181,7 +181,7 @@ VIETNAM = {
         "administrative centre": "Đồng Hới ward",
         "area": 12700.0,
         "population": 1870845,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-25",
     },
     "Quảng Ngãi province": {
         "region": "South Central Coast",
@@ -189,7 +189,7 @@ VIETNAM = {
         "administrative centre": "Cẩm Thành ward",
         "area": 14832.55,
         "population": 2161755,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-29",
     },
     "Gia Lai province": {
         "region": "South Central Coast",
@@ -197,7 +197,7 @@ VIETNAM = {
         "administrative centre": "Quy Nhơn ward",
         "area": 21576.93,
         "population": 3583693,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-30",
     },
     "Đắk Lắk province": {
         "region": "South Central Coast",
@@ -205,15 +205,15 @@ VIETNAM = {
         "administrative centre": "Buôn Ma Thuột ward",
         "area": 18096.4,
         "population": 3346853,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-33",
     },
-    "Khánh Hòa province": {    # Includes Trường Sa
+    "Khánh Hòa province": { # Includes Trường Sa
         "region": "South Central Coast",
         "landlocked": False,
         "administrative centre": "Nha Trang ward",
         "area": 8555.86,
         "population": 2243554,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-34",
     },
     "Lâm Đồng province": {
         "region": "South Central Coast",
@@ -221,7 +221,7 @@ VIETNAM = {
         "administrative centre": "Xuân Hương – Đà Lạt ward",
         "area": 24233.07,
         "population": 3872999,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-35",
     },
     "Tây Ninh province": {
         "region": "Southeast",
@@ -229,7 +229,7 @@ VIETNAM = {
         "administrative centre": "Long An ward",
         "area": 8536.44,
         "population": 3254170,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-37",
     },
     "Đồng Nai province": {
         "region": "Southeast",
@@ -237,7 +237,7 @@ VIETNAM = {
         "administrative centre": "Trấn Biên ward",
         "area": 12737.18,
         "population": 4491408,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-39",
     },
     "Đồng Tháp province": {
         "region": "Mekong Delta",
@@ -245,7 +245,7 @@ VIETNAM = {
         "administrative centre": "Mỹ Tho ward",
         "area": 5938.64,
         "population": 4370046,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-45",
     },
     "An Giang province": {
         "region": "Mekong Delta",
@@ -253,7 +253,7 @@ VIETNAM = {
         "administrative centre": "Rạch Giá ward",
         "area": 9888.91,
         "population": 4952238,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-44",
     },
     "Vĩnh Long province": {
         "region": "Mekong Delta",
@@ -261,7 +261,7 @@ VIETNAM = {
         "administrative centre": "Long Châu ward",
         "area": 6296.2,
         "population": 4257581,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-49",
     },
     "Cà Mau province": {
         "region": "Mekong Delta",
@@ -269,14 +269,16 @@ VIETNAM = {
         "administrative centre": "Tân Thành ward",
         "area": 7942.39,
         "population": 2606672,
-        "ISO 3166-2:VN": "",
+        "ISO 3166-2:VN": "VN-59",
     },
     # Source: https://en.wikipedia.org/wiki/Provinces_of_Vietnam
 }
 """A dictionary contains all provinces and municipalities of Vietnam and information about them:
 - Region
+- Landlocked or not
 - Administrative centre
 - Area (in square kilometre)
 - Population
+- ISO 3166-2:VN codes
 
 Note: the dictionary might contain inaccuracies"""

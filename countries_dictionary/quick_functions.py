@@ -10,7 +10,7 @@ def chosen_dictionary(dictionary="countries"):
     """Returns one of the dictionaries depends on the parameter. Used in other functions"""
     if dictionary.casefold() == "countries": return COUNTRIES
     elif dictionary.casefold() == "russia": return RUSSIA
-    elif dictionary.casefold() == "united state": return UNITED_STATES
+    elif dictionary.casefold() == "united states" or "america": return UNITED_STATES
     elif dictionary.casefold() == "vietnam": return VIETNAM
     else: raise Exception("This dictionary does not exist (yet)")
 
@@ -74,10 +74,19 @@ def countries_iso_3166_2():
     for x in COUNTRIES: new_countries[x]["ISO 3166-2"] = "ISO 3166-2:" + COUNTRIES[x]["ISO 3166-1"]["alpha-2"]
     return new_countries
 
+# Fun functions, for entertainment purposes only
+
 def countries_france_censored():
     """Returns the countries dictionary with the `France` key gets censored `Fr*nce`
-    (This is only a joke, I don't support hate against France and French people)"""
+
+    (This is just a joke, I don't support hate against France and French people)"""
     new_countries = COUNTRIES
     new_countries["Fr*nce"] = new_countries.pop("France")
     new_countries = dict(sorted(new_countries.items()))
     return new_countries
+
+def countries_allahu_akbar():
+    """Returns the countries dictionary without most countries except the two countries whose mottos are "God is the Greatest". اَللَّٰهُ أَكْبَرُ!
+
+    (I'm not a Muslim, and this is just a joke, I don't support hate or mockery against Islam and these two countries)"""
+    return dict(filter(lambda item: item[1]["motto"] == "God is the Greatest", COUNTRIES.items()))

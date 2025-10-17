@@ -1,12 +1,4 @@
-<!--
-Credit
-Trowel: roncut.com.au
-Hammer: snapklik.com
-Spanner: idiom-a-day.blogspot.com
--->
-
 # Changelog
-
 ## [1.0.0] 2025.07.09
 First release of Countries Dictionary.
 
@@ -69,7 +61,7 @@ The release which introduces `CHANGELOG.md` and various more things
 - Slightly modified the `countries_dictionary`'s documentation
 
 ## [2.3.0] 2025.08.09
-A big release for `quick_variables.py` and British English (even though I've been used it since the first release), alongside adding some information for minor and major releases.
+A big release for `quick_variables.py` and British English (even though I've been using it since the first release), alongside adding some information for minor and major releases.
 
 ### Added 🔨
 - Added 9 functions in `quick_variables.py`: `chosen_dictionary()`, `json_dictionary()`, `sorted_dictionary()`, `filtered_dictionary()`, `countries_population_density()`, `russia_population_density()`, `vietnam_population_density()`, `countries_population_density()`, `countries_france_censored()`
@@ -95,9 +87,8 @@ The third major release of Countries Dictionary, which includes ISO codes (with 
 ### Added 🔨
 - Added 2 module files: `iso_finder.py`, `united_states.py`
 - Added 1 type of countries' information: `ISO 3166-1`
-- Added 3 types of ISO codes: `alpha-2`, `alpha-3`, `numeric`
 - Added 2 function of `quick_variables.py`: `united_states_population_density()`, `countries_iso_3166_2()`
-- Added 6 types of US states: `capital`, `date of ratification/establishment/acquiring`, `area`, `population`, `House Representatives`, `postal code`
+- Added 6 types of US states' information: `capital`, `date of ratification/establishment/acquiring`, `area`, `population`, `House Representatives`, `postal code`
 
 ### Updated 🔧
 - Modified some documentaion
@@ -139,4 +130,21 @@ This release focuses on the `README.md` and `CHANGELOG.md`
 - Fixed the name of the United States of America in `README.md`
 - `iso_finder()` now includes ISO 3166-2
 
-## [3.1.5 2025.09.0]
+## [4.0.0] 2025.10.
+
+### Added 🔨
+- Added 2 types of countries' information: `motto`, `landlocked`
+- Added a submodule for unrecognised states
+- Added 1 module file in unrecognised_states: `__init__.py`
+- Added 11 types of unrecognised states' information: `formal name`, `motto`, `continents`, `landlocked`, `area`, `land area`, `population`, `official languages`, `nominal GDP`, `HDI`, `ISO 3166-1`
+- Added 1 module file: `countries_languages`
+- Added ISO finders for Russian subjects, US states, and Vietnamese provinces in `iso_finder.py`
+- Added 1 function in `quick_functions.py`: `countries_allahu_akbar()`
+- Added 1 type of Russian subjects' information: `ISO 3166-2:RU`
+- Added 1 type of Vietnamese provinces' information: `ISO 3166-2:VN`
+- Added 1 module file: `transnistria.py`
+- Added 3 types of Pridnestrovian raions: `capital`, `administrative centre`, `area`, `population`
+
+### Updated 🔧
+- ISO finder can now display chosen information
+- Changed `postal code` into `ISO 3166-2:US` in `united_states.py`

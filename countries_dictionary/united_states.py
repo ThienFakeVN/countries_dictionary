@@ -1,5 +1,4 @@
 UNITED_STATES = {
-    # A
     "Alabama": {
         "capital": "Montgomery",
         "date of ratification/establishment/acquiring": "1819.12.14",
@@ -7,8 +6,7 @@ UNITED_STATES = {
         "area": 135767.0,
         "population": 5024279,
         "House Representatives": 7,
-        "postal code": "AL",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-AL",
     },
     "Alaska": {
         "capital": "Juneau",
@@ -17,8 +15,7 @@ UNITED_STATES = {
         "area": 1723337.0,
         "population": 733391,
         "House Representatives": 1,
-        "postal code": "AK",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-AK",
     },
     "Arizona": {
         "capital": "Phoenix",
@@ -27,8 +24,7 @@ UNITED_STATES = {
         "area": 295234.0,
         "population": 7151502,
         "House Representatives": 9,
-        "postal code": "AZ",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-AZ",
     },
     "Arkansas": {
         "capital": "Little Rock",
@@ -37,10 +33,8 @@ UNITED_STATES = {
         "area": 137732.0,
         "population": 3011524,
         "House Representatives": 4,
-        "postal code": "AR",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-AR",
     },
-    # C
     "California": {
         "capital": "Sacramento",
         "date of ratification/establishment/acquiring": "1850.09.09",
@@ -48,8 +42,7 @@ UNITED_STATES = {
         "area": 423967.0,
         "population": 39538223,
         "House Representatives": 52,
-        "postal code": "CA",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-CA",
     },
     "Colorado": {
         "capital": "Denver",
@@ -58,8 +51,7 @@ UNITED_STATES = {
         "area": 269601.0,
         "population": 5773714,
         "House Representatives": 8,
-        "postal code": "CO",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-CO",
     },
     "Connecticut": {
         "capital": "Hartford",
@@ -68,10 +60,8 @@ UNITED_STATES = {
         "area": 14357.0,
         "population": 3605944,
         "House Representatives": 5,
-        "postal code": "CT",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-CT",
     },
-    # D
     "Delaware": {
         "capital": "Dover",
         "date of ratification/establishment/acquiring": "1787.12.07",
@@ -79,10 +69,8 @@ UNITED_STATES = {
         "area": 6446.0,
         "population": 989948,
         "House Representatives": 1,
-        "postal code": "DE",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-DE",
     },
-    # F
     "Florida": {
         "capital": "Tallahassee",
         "date of ratification/establishment/acquiring": "1845.03.03",
@@ -90,10 +78,8 @@ UNITED_STATES = {
         "area": 170312.0,
         "population": 21538187,
         "House Representatives": 28,
-        "postal code": "FL",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-FL",
     },
-    # G
     "Georgia": {
         "capital": "Atlanta",
         "date of ratification/establishment/acquiring": "1788.01.02",
@@ -101,10 +87,8 @@ UNITED_STATES = {
         "area": 153910.0,
         "population": 10711908,
         "House Representatives": 14,
-        "postal code": "GA",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-GA",
     },
-    # H
     "Hawaii": {
         "capital": "Honolulu",
         "date of ratification/establishment/acquiring": "1959.08.21",
@@ -112,10 +96,8 @@ UNITED_STATES = {
         "area": 28313.0,
         "population": 1455271,
         "House Representatives": 2,
-        "postal code": "HI",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-HI",
     },
-    # I
     "Idaho": {
         "capital": "Boise",
         "date of ratification/establishment/acquiring": "1890.07.03",
@@ -123,8 +105,7 @@ UNITED_STATES = {
         "area": 216443.0,
         "population": 1839106,
         "House Representatives": 2,
-        "postal code": "ID",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-ID",
     },
     "Illinois": {
         "capital": "Springfield",
@@ -133,8 +114,7 @@ UNITED_STATES = {
         "area": 149995.0,
         "population": 12812508,
         "House Representatives": 17,
-        "postal code": "IL",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-IL",
     },
     "Indiana": {
         "capital": "Indianapolis",
@@ -143,8 +123,7 @@ UNITED_STATES = {
         "area": 94326.0,
         "population": 6785528,
         "House Representatives": 9,
-        "postal code": "IN",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-IN",
     },
     "Iowa": {
         "capital": "Des Moines",
@@ -153,10 +132,8 @@ UNITED_STATES = {
         "area": 145743.0,
         "population": 3190369,
         "House Representatives": 4,
-        "postal code": "IA",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-IA",
     },
-    # K
     "Kansas": {
         "capital": "Topeka",
         "date of ratification/establishment/acquiring": "1861.01.29",
@@ -164,8 +141,7 @@ UNITED_STATES = {
         "area": 213100.0,
         "population": 2937880,
         "House Representatives": 4,
-        "postal code": "KS",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-KS",
     },
     "Kentucky": {
         "capital": "Frankfort",
@@ -174,10 +150,8 @@ UNITED_STATES = {
         "area": 104656.0,
         "population": 4505836,
         "House Representatives": 6,
-        "postal code": "KY",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-KY",
     },
-    # L
     "Louisiana": {
         "capital": "Baton Rouge",
         "date of ratification/establishment/acquiring": "1812.04.30",
@@ -185,10 +159,8 @@ UNITED_STATES = {
         "area": 135659.0,
         "population": 4657757,
         "House Representatives": 6,
-        "postal code": "LA",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-LA",
     },
-    # M
     "Maine": {
         "capital": "Augusta",
         "date of ratification/establishment/acquiring": "1820.03.15",
@@ -196,8 +168,7 @@ UNITED_STATES = {
         "area": 91633.0,
         "population": 1362359,
         "House Representatives": 2,
-        "postal code": "ME",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-ME",
     },
     "Maryland": {
         "capital": "Annapolis",
@@ -206,8 +177,7 @@ UNITED_STATES = {
         "area": 32131.0,
         "population": 6177224,
         "House Representatives": 8,
-        "postal code": "MD",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-MD",
     },
     "Massachusetts": {
         "capital": "Boston",
@@ -216,8 +186,7 @@ UNITED_STATES = {
         "area": 27336.0,
         "population": 7029917,
         "House Representatives": 9,
-        "postal code": "MA",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-MA",
     },
     "Michigan": {
         "capital": "Lansing",
@@ -226,8 +195,7 @@ UNITED_STATES = {
         "area": 250487.0,
         "population": 10077331,
         "House Representatives": 13,
-        "postal code": "MI",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-MI",
     },
     "Minnesota": {
         "capital": "Saint Paul",
@@ -236,8 +204,7 @@ UNITED_STATES = {
         "area": 225163.0,
         "population": 5706494,
         "House Representatives": 8,
-        "postal code": "MN",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-MN",
     },
     "Mississippi": {
         "capital": "Jackson",
@@ -246,8 +213,7 @@ UNITED_STATES = {
         "area": 125438.0,
         "population": 2961279,
         "House Representatives": 4,
-        "postal code": "MS",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-MS",
     },
     "Missouri": {
         "capital": "Jefferson City",
@@ -256,8 +222,7 @@ UNITED_STATES = {
         "area": 180540.0,
         "population": 6154913,
         "House Representatives": 8,
-        "postal code": "MO",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-MO",
     },
     "Montana": {
         "capital": "Helena",
@@ -266,10 +231,8 @@ UNITED_STATES = {
         "area": 380831.0,
         "population": 1084225,
         "House Representatives": 2,
-        "postal code": "MT",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-MT",
     },
-    # N
     "Nebraska": {
         "capital": "Lincoln",
         "date of ratification/establishment/acquiring": "1867.03.01",
@@ -277,8 +240,7 @@ UNITED_STATES = {
         "area": 200330.0,
         "population": 1961504,
         "House Representatives": 3,
-        "postal code": "NE",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-NE",
     },
     "Nevada": {
         "capital": "Carson City",
@@ -287,8 +249,7 @@ UNITED_STATES = {
         "area": 286380.0,
         "population": 3104614,
         "House Representatives": 4,
-        "postal code": "NV",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-NV",
     },
     "New Hampshire": {
         "capital": "Concord",
@@ -297,8 +258,7 @@ UNITED_STATES = {
         "area": 24214.0,
         "population": 1377529,
         "House Representatives": 2,
-        "postal code": "NH",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-NH",
     },
     "New Jersey": {
         "capital": "Trenton",
@@ -307,8 +267,7 @@ UNITED_STATES = {
         "area": 22591.0,
         "population": 9288000,
         "House Representatives": 12,
-        "postal code": "NJ",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-NJ",
     },
     "New Mexico": {
         "capital": "Santa Fe",
@@ -317,8 +276,7 @@ UNITED_STATES = {
         "area": 315194.0,
         "population": 2117522,
         "House Representatives": 3,
-        "postal code": "NM",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-NM",
     },
     "New York": {
         "capital": "Albany",
@@ -327,8 +285,7 @@ UNITED_STATES = {
         "area": 141297.0,
         "population": 20201249,
         "House Representatives": 26,
-        "postal code": "NY",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-NY",
     },
     "North Carolina": {
         "capital": "Raleigh",
@@ -337,8 +294,7 @@ UNITED_STATES = {
         "area": 139391.0,
         "population": 10439388,
         "House Representatives": 14,
-        "postal code": "NC",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-NC",
     },
     "North Dakota": {
         "capital": "Bismarck",
@@ -347,10 +303,8 @@ UNITED_STATES = {
         "area": 183108.0,
         "population": 779094,
         "House Representatives": 1,
-        "postal code": "ND",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-ND",
     },
-    # O
     "Ohio": {
         "capital": "Columbus",
         "date of ratification/establishment/acquiring": "1803.03.01",
@@ -358,8 +312,7 @@ UNITED_STATES = {
         "area": 116098.0,
         "population": 11799448,
         "House Representatives": 15,
-        "postal code": "OH",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-OH",
     },
     "Oklahoma": {
         "capital": "Oklahoma City",
@@ -368,8 +321,7 @@ UNITED_STATES = {
         "area": 181037.0,
         "population": 3959353,
         "House Representatives": 5,
-        "postal code": "OK",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-OK",
     },
     "Oregon": {
         "capital": "Salem",
@@ -378,10 +330,8 @@ UNITED_STATES = {
         "area": 254799.0,
         "population": 4237256,
         "House Representatives": 6,
-        "postal code": "OR",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-OR",
     },
-    # P
     "Pennsylvania": {
         "capital": "Harrisburg",
         "date of ratification/establishment/acquiring": "1787.12.12",
@@ -389,10 +339,8 @@ UNITED_STATES = {
         "area": 119280.0,
         "population": 13002700,
         "House Representatives": 17,
-        "postal code": "PA",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-PA",
     },
-    # R
     "Rhode Island": {
         "capital": "Providence",
         "date of ratification/establishment/acquiring": "1790.05.29",
@@ -400,10 +348,8 @@ UNITED_STATES = {
         "area": 4001.0,
         "population": 1097379,
         "House Representatives": 2,
-        "postal code": "RI",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-RI",
     },
-    # S
     "South Carolina": {
         "capital": "Columbia",
         "date of ratification/establishment/acquiring": "1788.05.23",
@@ -411,8 +357,7 @@ UNITED_STATES = {
         "area": 82933.0,
         "population": 5118425,
         "House Representatives": 7,
-        "postal code": "SC",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-SC",
     },
     "South Dakota": {
         "capital": "Pierre",
@@ -421,10 +366,8 @@ UNITED_STATES = {
         "area": 199729.0,
         "population": 886667,
         "House Representatives": 1,
-        "postal code": "SD",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-SD",
     },
-    # T
     "Tennessee": {
         "capital": "Nashville",
         "date of ratification/establishment/acquiring": "1796.06.01",
@@ -432,8 +375,7 @@ UNITED_STATES = {
         "area": 109153.0,
         "population": 6910840,
         "House Representatives": 9,
-        "postal code": "TN",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-TN",
     },
     "Texas": {
         "capital": "Austin",
@@ -442,10 +384,8 @@ UNITED_STATES = {
         "area": 695662.0,
         "population": 29145505,
         "House Representatives": 38,
-        "postal code": "TX",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-TX",
     },
-    # U
     "Utah": {
         "capital": "Salt Lake City",
         "date of ratification/establishment/acquiring": "1896.01.04",
@@ -453,10 +393,8 @@ UNITED_STATES = {
         "area": 219882.0,
         "population": 3271616,
         "House Representatives": 4,
-        "postal code": "UT",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-UT",
     },
-    # V
     "Vermont": {
         "capital": "Montpelier",
         "date of ratification/establishment/acquiring": "1791.03.04",
@@ -464,8 +402,7 @@ UNITED_STATES = {
         "area": 24906.0,
         "population": 643077,
         "House Representatives": 1,
-        "postal code": "VT",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-VT",
     },
     "Virginia": {
         "capital": "Richmond",
@@ -474,10 +411,8 @@ UNITED_STATES = {
         "area": 110787.0,
         "population": 8631393,
         "House Representatives": 11,
-        "postal code": "VA",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-VA",
     },
-    # W
     "Washington": {
         "capital": "Olympia",
         "date of ratification/establishment/acquiring": "1889.11.11",
@@ -485,8 +420,7 @@ UNITED_STATES = {
         "area": 184661.0,
         "population": 7705281,
         "House Representatives": 10,
-        "postal code": "WA",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-WA",
     },
     "West Virginia": {
         "capital": "Charleston",
@@ -495,8 +429,7 @@ UNITED_STATES = {
         "area": 62756.0,
         "population": 1793716,
         "House Representatives": 2,
-        "postal code": "WV",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-WV",
     },
     "Wisconsin": {
         "capital": "Madison",
@@ -505,8 +438,7 @@ UNITED_STATES = {
         "area": 169635.0,
         "population": 5893718,
         "House Representatives": 8,
-        "postal code": "WI",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-WI",
     },
     "Wyoming": {
         "capital": "Cheyenne",
@@ -515,10 +447,8 @@ UNITED_STATES = {
         "area": 253335.0,
         "population": 576851,
         "House Representatives": 1,
-        "postal code": "WY",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-WY",
     },
-    # Federal district
     "District of Columbia": {
         "capital": "",
         "date of ratification/establishment/acquiring": "1790.07.16",
@@ -526,10 +456,8 @@ UNITED_STATES = {
         "area": 176.0,
         "population": 689545,
         "House Representatives": 1,
-        "postal code": "WY",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-WY",
     },
-    # Inhabited territories
     "American Samoa": {
         "capital": "Pago Pago",
         "date of ratification/establishment/acquiring": "1900",
@@ -537,8 +465,7 @@ UNITED_STATES = {
         "area": 1505.0,
         "population": 49710,
         "House Representatives": 1,
-        "postal code": "AS",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-AS",
     },
     "Guam": {
         "capital": "Hagåtña",
@@ -547,8 +474,7 @@ UNITED_STATES = {
         "area": 1478.0,
         "population": 153836,
         "House Representatives": 1,
-        "postal code": "GU",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-GU",
     },
     "Northern Mariana Islands": {
         "capital": "Saipan",
@@ -557,8 +483,7 @@ UNITED_STATES = {
         "area": 5117.0,
         "population": 47329,
         "House Representatives": 1,
-        "postal code": "MP",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-MP",
     },
     "Puerto Rico": {
         "capital": "San Juan",
@@ -567,18 +492,16 @@ UNITED_STATES = {
         "area": 13791.0,
         "population": 3285874,
         "House Representatives": 1,
-        "postal code": "MP",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-MP",
     },
     "U.S. Virgin Islands": {
-        "capital": "San Juan",
+        "capital": "Charlotte Amalie",
         "date of ratification/establishment/acquiring": "1917",
         "landlocked": False,
         "area": 1898.0,
         "population": 87146,
         "House Representatives": 1,
-        "postal code": "VI",
-        "ISO 3166-2:US": "",
+        "ISO 3166-2:US": "US-VI",
     },
     # Source: https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States
 }
@@ -589,6 +512,6 @@ UNITED_STATES = {
 - Area (in square kilometre)
 - Population
 - House Representatives
-- Postal code
+- ISO 3166-2:US codes
 
 Note: the dictionary might contain inaccuracies"""
