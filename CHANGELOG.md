@@ -131,6 +131,7 @@ This release focuses on the `README.md` and `CHANGELOG.md`
 - `iso_finder()` now includes ISO 3166-2
 
 ## [4.0.0] 2025.10.23
+An big update in which unrecognised states are included. By the way, the last update was [3.1.4], you see something? π
 
 ### Added 🔨
 - Added 2 types of countries' information: `motto`, `landlocked`
@@ -149,3 +150,7 @@ This release focuses on the `README.md` and `CHANGELOG.md`
 - Removed most information in `README.md`
 - ISO finder can now display chosen information
 - Changed `postal code` into `ISO 3166-2:US` in `united_states.py`
+
+## [4.0.1] 2025.10.23
+### Updated 🔧
+- Added some information about the [4.0.0] update
