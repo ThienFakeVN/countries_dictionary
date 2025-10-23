@@ -130,7 +130,7 @@ This release focuses on the `README.md` and `CHANGELOG.md`
 - Fixed the name of the United States of America in `README.md`
 - `iso_finder()` now includes ISO 3166-2
 
-## [4.0.0] 2025.10.
+## [4.0.0] 2025.10.23
 
 ### Added 🔨
 - Added 2 types of countries' information: `motto`, `landlocked`
