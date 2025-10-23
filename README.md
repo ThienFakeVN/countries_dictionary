@@ -5,8 +5,8 @@ I created this module as an offline source of countries' information which is ea
 
 See [CHANGELOG.md](https://github.com/ThienFakeVN/countries_dictionary/blob/main/CHANGELOG.md) for changes of releases.
 
-Before using, it is recommended to see the code on [GitHub](https://github.com/ThienFakeVN/countries_dictionary/) or the below section to understand how the module works and how you can use it.
-
+Before using, it is recommended to see the code on [GitHub](https://github.com/ThienFakeVN/countries_dictionary/) <!--or the below section--> to understand how the module works and how you can use it.
+<!--
 ## Codes
 ### Main Countries Dictionary
 The Countries Dictionary has a structure like this:
@@ -141,3 +141,4 @@ TRANSNISTRIA = {
     # ...
 }
 ```
+-->

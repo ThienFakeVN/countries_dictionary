@@ -88,5 +88,5 @@ def countries_france_censored():
 def countries_allahu_akbar():
     """Returns the countries dictionary without most countries except the two countries whose mottos are "God is the Greatest". اَللَّٰهُ أَكْبَرُ!
 
-    (I'm not a Muslim, and this is just a joke, I don't support hate or mockery against Islam and these two countries)"""
+    (I'm not a Muslim, and this is just a joke, I don't support hate against Islam and these two countries)"""
     return dict(filter(lambda item: item[1]["motto"] == "God is the Greatest", COUNTRIES.items()))

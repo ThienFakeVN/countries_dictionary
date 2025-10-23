@@ -146,5 +146,6 @@ This release focuses on the `README.md` and `CHANGELOG.md`
 - Added 3 types of Pridnestrovian raions: `capital`, `administrative centre`, `area`, `population`
 
 ### Updated 🔧
+- Removed most information in `README.md`
 - ISO finder can now display chosen information
 - Changed `postal code` into `ISO 3166-2:US` in `united_states.py`
