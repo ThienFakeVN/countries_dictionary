@@ -154,3 +154,7 @@ An big update in which unrecognised states are included. By the way, the last up
 ## [4.0.1] 2025.10.23
 ### Updated 🔧
 - Added some information about the [4.0.0] update
+
+## [4.0.2] 2025.10.22
+### Updated 🔧
+- Updated some population information
