@@ -12,7 +12,7 @@ First release of Countries Dictionary.
 
 ## [1.0.2] 2025.07.17
 ### Updated 🔧
-- Fixed the `README.md`'s grammar
+- Fixed `README.md`'s grammar
 
 ## [2.0.0] 2025.07.30
 The second major release of Countries Dictionary, which includes new module files
@@ -131,7 +131,7 @@ This release focuses on the `README.md` and `CHANGELOG.md`
 - `iso_finder()` now includes ISO 3166-2
 
 ## [4.0.0] 2025.10.23
-An big update in which unrecognised states are included. By the way, the last update was [3.1.4], you see something? π
+A big update in which unrecognised states are included. By the way, the last update was [3.1.4], you see something? π
 
 ### Added 🔨
 - Added 2 types of countries' information: `motto`, `landlocked`
@@ -144,7 +144,7 @@ An big update in which unrecognised states are included. By the way, the last up
 - Added 1 type of Russian subjects' information: `ISO 3166-2:RU`
 - Added 1 type of Vietnamese provinces' information: `ISO 3166-2:VN`
 - Added 1 module file: `transnistria.py`
-- Added 3 types of Pridnestrovian raions: `capital`, `administrative centre`, `area`, `population`
+- Added 3 types of Pridnestrovian raions: `administrative centre`, `area`, `population`
 
 ### Updated 🔧
 - Removed most information in `README.md`
@@ -158,3 +158,7 @@ An big update in which unrecognised states are included. By the way, the last up
 ## [4.0.2] 2025.10.22
 ### Updated 🔧
 - Updated some population information
+
+## [4.0.3] 2025.12.15
+### Updated 🔧
+- Fixed information in README.md
