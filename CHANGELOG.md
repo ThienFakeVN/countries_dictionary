@@ -70,7 +70,7 @@ A big release for `quick_variables.py` and British English (even though I've bee
 - Removed the 10 previous variables in `quick_variables.py`: `json_countries`, `json_russia`, `json_vietnam`, `countries_france_censored`, `countries_area_sorted`, `countries_population_sorted`, `russia_subjects_area_sorted`, `russia_subjects_population_sorted`, `vietnam_provinces_area_sorted`, `vietnam_provinces_population_sorted`
 
 ### Updated 🔧
-- Changed the name of `LICENSE` to `LICENCE`
+- Renamed `LICENSE` to `LICENCE`
 - Replaced the licence's name with the `LICENCE` file in `pyproject.toml`
 - Modified `README.md` significantly
 - Fixed the `land area`s of some countries
@@ -79,7 +79,7 @@ A big release for `quick_variables.py` and British English (even though I've bee
 ### Updated 🔧
 - Modified `README.md` slightly
 - Modified some lines in `CHANGELOG.md`
-- Changed the name of `countries`, `russia`, `vietnam` to `COUNTRIES`, `RUSSIA`, `VIETNAM` respectively in the module files
+- Renamed `countries`, `russia`, `vietnam` to `COUNTRIES`, `RUSSIA`, `VIETNAM` respectively in the module files
 
 ## [3.0.0] 2025.08.17
 The third major release of Countries Dictionary, which includes ISO codes (with related things) and the United States dictionary
@@ -148,7 +148,7 @@ A big update in which unrecognised states are included. By the way, the last upd
 
 ### Updated 🔧
 - Removed most information in `README.md`
-- ISO finder can now display chosen information
+- ISO finder can now display a specifically chosen information
 - Changed `postal code` into `ISO 3166-2:US` in `united_states.py`
 
 ## [4.0.1] 2025.10.23
@@ -162,3 +162,20 @@ A big update in which unrecognised states are included. By the way, the last upd
 ## [4.0.3] 2025.12.15
 ### Updated 🔧
 - Fixed information in README.md
+
+## [5.0.0] 2026.
+A major update, in which information such as `population` will now be updated regularly.
+
+### Added 🔨
+- Added 1 type of countries' information: `state religion`
+- Added 1 type of unrecognised states' information: `state religion`
+
+### Removed 💣
+- Removed the 11 previous functions in `quick_functions.py`: `json_dictionary()`, `sorted_dictionary()`, `filtered_dictionary()`, `countries_population_density()`, `russia_population_density()`, `united_states_population_density()`, `vietnam_population_density()`, `countries_population_density()`, `countries_iso_3166_2()`, `countries_france_censored()`, `countries_allahu_akbar()`
+
+### Updated 🔧
+- Fixed `united_states` and `unrecognised_states`'s documentation
+- Renamed `quick_functions.py` to `quick_function.py`
+- Renamed `chosen_dictionary()` to `quick_function()`
+- Monthly updated population information
+- Quarterly updated area information

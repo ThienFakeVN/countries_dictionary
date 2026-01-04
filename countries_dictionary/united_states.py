@@ -505,7 +505,7 @@ UNITED_STATES = {
     },
     # Source: https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States
 }
-"""A dictionary contains all states, federal district and inhabited territories of the United Nations and information about them:
+"""A dictionary contains all states, federal district and inhabited territories of the United States and information about them:
 - Capital
 - Date of ratification/establishment/acquiring
 - Landlocked or not
