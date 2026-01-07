@@ -163,7 +163,7 @@ A big update in which unrecognised states are included. By the way, the last upd
 ### Updated 🔧
 - Fixed information in README.md
 
-## [5.0.0] 2026.01.07
+## [5.0.0] 2026.01.09
 A major update, in which information such as `population` will now be updated regularly. Happy New Year by the way.
 
 ### Added 🔨

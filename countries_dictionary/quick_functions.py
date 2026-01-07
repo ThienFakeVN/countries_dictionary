@@ -4,7 +4,7 @@ from countries_dictionary.united_states import UNITED_STATES
 from countries_dictionary.vietnam import VIETNAM
 import json
 
-def quick_function(dictionary="countries", *action: str):
+def quick_function(action: str, dictionary="countries"):
     """Returns one of the dictionaries depends on the `dictionary` parameter and modify it depends on the `action` parameter."""
     match dictionary.casefold():
         case "countries": x = COUNTRIES
@@ -13,7 +13,7 @@ def quick_function(dictionary="countries", *action: str):
         case "vietnam": x = VIETNAM
         case _: raise Exception("This dictionary does not exist (yet)")
     if action == (): raise Exception("No action was provided")
-    match action[0].casefold():
+    match action.casefold():
         case "population density":
             for y in x:
                 if x == COUNTRIES: x[y]["population density"] = COUNTRIES[y]["population"] / COUNTRIES[y]["land area"]
@@ -26,22 +26,16 @@ def quick_function(dictionary="countries", *action: str):
             if x == COUNTRIES:
                 for y in x: x[y]["ISO 3166-2"] = "ISO 3166-2:" + COUNTRIES[y]["ISO 3166-1"]["alpha-2"]
             else: raise Exception("Only works with the Countries Dictionary")
-        case "JSON" | "convert to json":
-            if isinstance(action[1], (None, str, int)): x = json.dumps(x, ensure_ascii=False, indent=action[1])
-            else: raise Exception("Invalid indentation")
-        case "sort" | "sort key":
-            if isinstance(action[1], str) and isinstance(action[2], bool): x = dict(sorted(x.items(), key=lambda item: item[1][action[1]], reverse=action[2]))
-            else: raise Exception("Invalid key name and/or boolean to decide either reverse the dictionary or not")
     return x
 
-def json_dictionary(indent: int | str | None = None, dictionary="countries"):
+def json_dictionary(action: str, indent: int | str | None = None, dictionary="countries"):
     """Converts a dictionary into a JSON string"""
-    x = quick_function(dictionary)
+    x = quick_function(action, dictionary)
     return json.dumps(x, indent=indent)
 
-def sorted_dictionary(chosen_key: str, reverse: bool = True, dictionary="countries"):
+def json_dictionary(action: str, chosen_key: str, reverse: bool = True, dictionary="countries"):
     """Sorts a dictionary by a sortable key"""
-    x = quick_function(dictionary)
+    x = quick_function(action, dictionary)
     return dict(sorted(x.items(), key=lambda item: item[1][chosen_key], reverse=reverse))
 
 #def filtered_dictionary(chosen_key: str, chosen_value: int | str, dictionary="countries"):
