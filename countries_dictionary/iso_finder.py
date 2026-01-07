@@ -1,4 +1,4 @@
-from countries_dictionary.quick_function import quick_function
+from modules.countries_dictionary.countries_dictionary.quick_functions import quick_function
 from countries_dictionary.russia import RUSSIA
 from countries_dictionary.united_states import UNITED_STATES
 from countries_dictionary.vietnam import VIETNAM

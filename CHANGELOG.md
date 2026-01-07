@@ -163,19 +163,18 @@ A big update in which unrecognised states are included. By the way, the last upd
 ### Updated 🔧
 - Fixed information in README.md
 
-## [5.0.0] 2026.
-A major update, in which information such as `population` will now be updated regularly.
+## [5.0.0] 2026.01.07
+A major update, in which information such as `population` will now be updated regularly. Happy New Year by the way.
 
 ### Added 🔨
 - Added 1 type of countries' information: `state religion`
 - Added 1 type of unrecognised states' information: `state religion`
 
 ### Removed 💣
-- Removed the 11 previous functions in `quick_functions.py`: `json_dictionary()`, `sorted_dictionary()`, `filtered_dictionary()`, `countries_population_density()`, `russia_population_density()`, `united_states_population_density()`, `vietnam_population_density()`, `countries_population_density()`, `countries_iso_3166_2()`, `countries_france_censored()`, `countries_allahu_akbar()`
+- Removed the 9 previous functions in `quick_functions.py`: `filtered_dictionary()`, `countries_population_density()`, `russia_population_density()`, `united_states_population_density()`, `vietnam_population_density()`, `countries_population_density()`, `countries_iso_3166_2()`, `countries_france_censored()`, `countries_allahu_akbar()`
 
 ### Updated 🔧
 - Fixed `united_states` and `unrecognised_states`'s documentation
-- Renamed `quick_functions.py` to `quick_function.py`
 - Renamed `chosen_dictionary()` to `quick_function()`
 - Monthly updated population information
 - Quarterly updated area information

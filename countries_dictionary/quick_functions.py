@@ -34,6 +34,16 @@ def quick_function(dictionary="countries", *action: str):
             else: raise Exception("Invalid key name and/or boolean to decide either reverse the dictionary or not")
     return x
 
+def json_dictionary(indent: int | str | None = None, dictionary="countries"):
+    """Converts a dictionary into a JSON string"""
+    x = quick_function(dictionary)
+    return json.dumps(x, indent=indent)
+
+def sorted_dictionary(chosen_key: str, reverse: bool = True, dictionary="countries"):
+    """Sorts a dictionary by a sortable key"""
+    x = quick_function(dictionary)
+    return dict(sorted(x.items(), key=lambda item: item[1][chosen_key], reverse=reverse))
+
 #def filtered_dictionary(chosen_key: str, chosen_value: int | str, dictionary="countries"):
 #    """Filters the chosen dictionary by a key"""
 #    x = chosen_dictionary(dictionary)
