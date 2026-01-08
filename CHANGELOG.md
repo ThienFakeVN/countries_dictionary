@@ -1,6 +1,6 @@
 # Changelog
 ## [1.0.0] 2025.07.09
-First release of Countries Dictionary.
+The first release of Countries Dictionary.
 
 ### Added 🔨
 - Added 1 module file: `__init__.py`
