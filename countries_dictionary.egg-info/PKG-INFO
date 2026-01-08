@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: countries_dictionary
-Version: 4.0.3
+Version: 5.0.0
 Summary: Provides a dictionary contains countries and unrecognised states and information about them
 Author-email: Ngô Trần Quang Thiện <quangthienngotran@gmail.com>
 License:                     GNU GENERAL PUBLIC LICENSE
@@ -679,7 +679,7 @@ License:                     GNU GENERAL PUBLIC LICENSE
         <https://www.gnu.org/licenses/why-not-lgpl.html>.
 Project-URL: Homepage, https://github.com/ThienFakeVN/countries_dictionary/
 Project-URL: Repository, https://github.com/ThienFakeVN/countries_dictionary/
-Keywords: countries,states,dictionary,united nations,russia,united states,vietnam,iso
+Keywords: countries,states,dictionary,united nations,iso
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
 License-File: LICENCE
