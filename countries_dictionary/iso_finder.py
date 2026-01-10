@@ -19,7 +19,7 @@ def iso_ru_finder(code: str, info_included: str = None):
     for x in RUSSIA:
         y = RUSSIA[x].get(info_included, "") if info_included else ""
         if code == RUSSIA[x]["ISO 3166-2:RU"]: return [x, y]
-    raise Exception("No RUSSIAn federal subject has this code")
+    raise Exception("No Russian federal subject has this code")
 
 def iso_us_finder(code: str, info_included: str = None):
     """Returns the name of the US state or territory and a chosen information based on the provided ISO code"""

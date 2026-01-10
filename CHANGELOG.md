@@ -163,7 +163,7 @@ A big update in which unrecognised states are included. By the way, the last upd
 ### Updated 🔧
 - Fixed information in README.md
 
-## [5.0.0] 2026.01.09
+## [5.0.0] 2026.01.08
 A major update, in which information such as `population` will now be updated regularly. Happy New Year by the way.
 
 ### Added 🔨
@@ -178,3 +178,8 @@ A major update, in which information such as `population` will now be updated re
 - Renamed `chosen_dictionary()` to `quick_function()`
 - Monthly updated population information
 - Quarterly updated area information
+
+## [5.0.1] 2025.01.10
+### Updated 🔧
+- Fixed the date of [5.0.0]'s release
+- Fixed `iso_ru_finder`'s `Exception`'s parameter
