@@ -36,7 +36,12 @@ def json_dictionary(action: str = "", indent: int | str | None = None, dictionar
 def sort_dictionary(chosen_key: str, reverse: bool = True, dictionary="countries", action: str = ""):
     """Sorts a dictionary by a sortable key"""
     x = quick_function(action, dictionary)
-    return dict(sorted(x.items(), key=lambda item: item[1][chosen_key], reverse=reverse))
+    y = list(x.items())
+    z = []
+    for t in y:
+        if t[1]["HDI"] != None: z.append(t)
+    thanhbinh = dict(z)
+    return dict(sorted(thanhbinh.items(), key=lambda item: item[1][chosen_key], reverse=reverse))
 
 #def filtered_dictionary(chosen_key: str, chosen_value: int | str, dictionary="countries"):
 #    """Filters the chosen dictionary by a key"""

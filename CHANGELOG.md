@@ -191,3 +191,14 @@ A major update, in which information such as `population` will now be updated re
 ## [5.0.3] 2025.01.11
 ### Updated 🔧
 - Changed some code in `quick_functions`
+
+## [5.1.0] 2025.01.11
+Monaco, North Korea and Vatican City's `HDI` were only `.0`, but now, they are literal `None`s, just as how I planned months ago. Hehehehe.
+
+### Updated 🔧
+- Changed values that are empty (e.g. `""` in `motto`) into `None`
+- `sort_dictionary` in `quick_functions` now can filter out `None` values
+
+## [5.1.1] 2025.01.11
+### Updated 🔧
+- Fixed some code in `quick_functions`

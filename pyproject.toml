@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countries_dictionary"
-version = "5.0.3"
+version = "5.1.1"
 description = "Provides a dictionary contains countries and unrecognised states and information about them"
 readme = "README.md"
 requires-python = ">=3.7"

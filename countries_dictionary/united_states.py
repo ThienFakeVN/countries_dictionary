@@ -450,7 +450,7 @@ UNITED_STATES = {
         "ISO 3166-2:US": "US-WY",
     },
     "District of Columbia": {
-        "capital": "",
+        "capital": None,
         "date of ratification/establishment/acquiring": "1790.07.16",
         "landlocked": True,
         "area": 176.0,
