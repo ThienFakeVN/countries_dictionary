@@ -183,3 +183,11 @@ A major update, in which information such as `population` will now be updated re
 ### Updated 🔧
 - Fixed the date of [5.0.0]'s release
 - Fixed `iso_ru_finder`'s `Exception`'s parameter
+
+## [5.0.2] 2025.01.11
+### Updated 🔧
+- Fixed some code in `quick_functions`
+
+## [5.0.3] 2025.01.11
+### Updated 🔧
+- Changed some code in `quick_functions`

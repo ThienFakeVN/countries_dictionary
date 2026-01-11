@@ -4,7 +4,7 @@ from countries_dictionary.united_states import UNITED_STATES
 from countries_dictionary.vietnam import VIETNAM
 import json
 
-def quick_function(action: str, dictionary="countries"):
+def quick_function(action: str = "", dictionary="countries"):
     """Returns one of the dictionaries depends on the `dictionary` parameter and modify it depends on the `action` parameter."""
     match dictionary.casefold():
         case "countries": x = COUNTRIES
@@ -28,12 +28,12 @@ def quick_function(action: str, dictionary="countries"):
             else: raise Exception("Only works with the Countries Dictionary")
     return x
 
-def json_dictionary(action: str, indent: int | str | None = None, dictionary="countries"):
+def json_dictionary(action: str = "", indent: int | str | None = None, dictionary="countries"):
     """Converts a dictionary into a JSON string"""
     x = quick_function(action, dictionary)
     return json.dumps(x, indent=indent)
 
-def json_dictionary(action: str, chosen_key: str, reverse: bool = True, dictionary="countries"):
+def sort_dictionary(chosen_key: str, reverse: bool = True, dictionary="countries", action: str = ""):
     """Sorts a dictionary by a sortable key"""
     x = quick_function(action, dictionary)
     return dict(sorted(x.items(), key=lambda item: item[1][chosen_key], reverse=reverse))
