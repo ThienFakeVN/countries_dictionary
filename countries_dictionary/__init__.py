@@ -1970,7 +1970,7 @@ COUNTRIES = {
         "official languages": ["French"],
         "official religion": None,
         "nominal GDP": 14167000000,
-        "HDI": 0.0,
+        "HDI": 0.649,
         "ISO 3166-1": {"alpha-2": "CG", "alpha-3": "COG", "numeric": "178"},
     },
     "Romania": {
