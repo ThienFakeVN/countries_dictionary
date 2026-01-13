@@ -202,3 +202,7 @@ Monaco, North Korea and Vatican City's `HDI` were only `.0`, but now, they are l
 ## [5.1.1] 2025.01.11
 ### Updated 🔧
 - Fixed some code in `quick_functions`
+
+## [5.1.2] 2025.01.13
+### Updated 🔧
+- Fixed some code in `quick_functions`

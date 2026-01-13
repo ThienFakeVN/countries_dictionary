@@ -39,7 +39,7 @@ def sort_dictionary(chosen_key: str, reverse: bool = True, dictionary="countries
     y = list(x.items())
     z = []
     for t in y:
-        if t[1]["HDI"] != None: z.append(t)
+        if t[1][chosen_key] != None: z.append(t)
     thanhbinh = dict(z)
     return dict(sorted(thanhbinh.items(), key=lambda item: item[1][chosen_key], reverse=reverse))
 
