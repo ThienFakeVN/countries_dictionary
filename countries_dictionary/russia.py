@@ -83,7 +83,7 @@ RUSSIA = {
     "Karelia": {
         "federal district": "Northwestern",
         "economic region": "Northern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Petrozavodsk",
         "area": 180520.0,
         "population": 518644,
@@ -119,7 +119,7 @@ RUSSIA = {
     "Sakha": {
         "federal district": "Far Eastern",
         "economic region": "Far Eastern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Yakutsk",
         "area": 3083523.0,
         "population": 1007058,
@@ -200,7 +200,7 @@ RUSSIA = {
     "Krasnodar Krai": {
         "federal district": "Southern",
         "economic region": "North Caucasus",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Krasnodar",
         "area": 75485.0,
         "population": 5841846,
@@ -209,7 +209,7 @@ RUSSIA = {
     "Krasnoyarsk Krai": {
         "federal district": "Siberian",
         "economic region": "East Siberian",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Krasnoyarsk",
         "area": 2366797.0,
         "population": 2837374,
@@ -218,7 +218,7 @@ RUSSIA = {
     "Primorsky Krai": {
         "federal district": "Far Eastern",
         "economic region": "Far Eastern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Vladivostok",
         "area": 164673.0,
         "population": 1798047,
@@ -236,7 +236,7 @@ RUSSIA = {
     "Khabarovsk Krai": {
         "federal district": "Far Eastern",
         "economic region": "Far Eastern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Khabarovsk",
         "area": 787633.0,
         "population": 1273093,
@@ -254,7 +254,7 @@ RUSSIA = {
     "Arkhangelsk Oblast": {
         "federal district": "Northwestern",
         "economic region": "Northern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Arkhangelsk",
         "area": 413103.0,
         "population": 947192,
@@ -362,7 +362,7 @@ RUSSIA = {
     "Kamchatka Krai": {
         "federal district": "Far Eastern",
         "economic region": "Far Eastern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Petropavlovsk-Kamchatsky",
         "area": 464275.0,
         "population": 287949,
@@ -416,7 +416,7 @@ RUSSIA = {
     "Leningrad Oblast": {
         "federal district": "Northwestern",
         "economic region": "Northwestern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": None,
         "area": 83908.0,
         "population": 2057708,
@@ -434,7 +434,7 @@ RUSSIA = {
     "Magadan Oblast": {
         "federal district": "Far Eastern",
         "economic region": "Far Eastern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Magadan",
         "area": 462464.0,
         "population": 134202,
@@ -452,7 +452,7 @@ RUSSIA = {
     "Murmansk Oblast": {
         "federal district": "Northwestern",
         "economic region": "Northern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Murmansk",
         "area": 144902.0,
         "population": 650920,
@@ -542,7 +542,7 @@ RUSSIA = {
     "Rostov Oblast": {
         "federal district": "Southern",
         "economic region": "North Caucasus",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Rostov-on-Don",
         "area": 100967.0,
         "population": 4135018,
@@ -578,7 +578,7 @@ RUSSIA = {
     "Sakhalin Oblast": {
         "federal district": "Far Eastern",
         "economic region": "Far Eastern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Yuzhno-Sakhalinsk",
         "area": 87101.0,
         "population": 456792,
@@ -695,7 +695,7 @@ RUSSIA = {
     "Saint Petersburg": {
         "federal district": "Northwestern",
         "economic region": "Northwestern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Saint Petersburg",
         "area": 1403.0,
         "population": 5645943,
@@ -713,7 +713,7 @@ RUSSIA = {
     "Nenets Autonomous Okrug": {
         "federal district": "Northwestern",
         "economic region": "Northern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Naryan-Mar",
         "area": 176810.0,
         "population": 41829,
@@ -731,7 +731,7 @@ RUSSIA = {
     "Chukotka Autonomous Okrug": {
         "federal district": "Far Eastern",
         "economic region": "Far Eastern",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Anadyr",
         "area": 721481.0,
         "population": 47902,
@@ -740,7 +740,7 @@ RUSSIA = {
     "Yamalo-Nenets Autonomous Okrug": {
         "federal district": "Ural",
         "economic region": "West Siberian",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Salekhard",
         "area": 769250.0,
         "population": 521655,
@@ -750,7 +750,7 @@ RUSSIA = {
     "Republic of Crimea": {
         "federal district": "Southern",
         "economic region": "North Caucasus",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Simferopol",
         "area": 26081.0,
         "population": 1934630,
@@ -759,7 +759,7 @@ RUSSIA = {
     "Sevastopol": {
         "federal district": "Southern",
         "economic region": "North Caucasus",
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Sevastopol",
         "area": 864.0,
         "population": 547820,
@@ -786,7 +786,7 @@ RUSSIA = {
     "Zaporozhye Oblast": {
         "federal district": None,
         "economic region": None,
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Zaporizhzhia",
         "area": 27183.0,
         "population": 1666515,
@@ -795,7 +795,7 @@ RUSSIA = {
     "Kherson Oblast": {
         "federal district": None,
         "economic region": None,
-        "landlocked": True,
+        "landlocked": False,
         "capital/administrative centre": "Kherson",
         "area": 28461.0,
         "population": 1016707,

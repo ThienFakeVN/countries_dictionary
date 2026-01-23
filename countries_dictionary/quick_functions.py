@@ -2,40 +2,39 @@ from countries_dictionary import COUNTRIES
 from countries_dictionary.russia import RUSSIA
 from countries_dictionary.united_states import UNITED_STATES
 from countries_dictionary.vietnam import VIETNAM
-import json
+from json import dumps
 
-def quick_function(action: str = "", dictionary="countries"):
-    """Returns one of the dictionaries depends on the `dictionary` parameter and modify it depends on the `action` parameter."""
+def quick_function(dictionary: str = "countries", addition: str = ""):
+    """Returns one of the dictionaries depends on the `dictionary` parameter and modify it depends on the `addition` parameter."""
     match dictionary.casefold():
-        case "countries": x = COUNTRIES
-        case "russia": x = RUSSIA
-        case "united states" | "america": x = UNITED_STATES
-        case "vietnam": x = VIETNAM
+        case "countries": thanhbinh = COUNTRIES
+        case "russia": thanhbinh = RUSSIA
+        case "united states" | "america": thanhbinh = UNITED_STATES
+        case "vietnam": thanhbinh = VIETNAM
         case _: raise Exception("This dictionary does not exist (yet)")
-    if action == (): raise Exception("No action was provided")
-    match action.casefold():
+    match addition.casefold():
         case "population density":
-            for y in x:
-                if x == COUNTRIES: x[y]["population density"] = COUNTRIES[y]["population"] / COUNTRIES[y]["land area"]
-                else: x[y]["population density"] = x[y]["population"] / x[y]["area"]
-        case "GDP per capita":
-            if x != COUNTRIES:
-                for y in x: x[y]["GDP per capita"] = COUNTRIES[y]["nominal GDP"] / COUNTRIES[y]["population"]
-            else: raise Exception("Only works with the Countries Dictionary")
-        case "ISO 3166-2":
-            if x == COUNTRIES:
-                for y in x: x[y]["ISO 3166-2"] = "ISO 3166-2:" + COUNTRIES[y]["ISO 3166-1"]["alpha-2"]
-            else: raise Exception("Only works with the Countries Dictionary")
-    return x
+            for x in thanhbinh:
+                if thanhbinh == COUNTRIES: thanhbinh[x]["population density"] = COUNTRIES[x]["population"] / COUNTRIES[x]["land area"]
+                else: thanhbinh[x]["population density"] = thanhbinh[x]["population"] / thanhbinh[x]["area"]
+        case "GDP per capita": # Issue
+            if thanhbinh == COUNTRIES:
+                for x in thanhbinh: thanhbinh[x]["GDP per capita"] = COUNTRIES[x]["nominal GDP"] / COUNTRIES[x]["population"]
+            else: raise Exception("Only works with the Countries dictionary")
+        case "ISO 3166-2": # Issue
+            if thanhbinh == COUNTRIES:
+                for x in thanhbinh: thanhbinh[x]["ISO 3166-2"] = "ISO 3166-2:" + COUNTRIES[x]["ISO 3166-1"]["alpha-2"]
+            else: raise Exception("Only works with the Countries dictionary")
+    return thanhbinh
 
-def json_dictionary(action: str = "", indent: int | str | None = None, dictionary="countries"):
+def json_dictionary(dictionary: str = "countries", addition: str = "", indent: int | str | None = None): # Issue
     """Converts a dictionary into a JSON string"""
-    x = quick_function(action, dictionary)
-    return json.dumps(x, indent=indent)
+    thanhbinh = quick_function(dictionary, addition)
+    return dumps(thanhbinh, indent=indent)
 
-def sort_dictionary(chosen_key: str, reverse: bool = True, dictionary="countries", action: str = ""):
+def sort_dictionary(chosen_key: str, dictionary: str = "countries", addition: str = "", reverse: bool = True):
     """Sorts a dictionary by a sortable key"""
-    x = quick_function(action, dictionary)
+    x = quick_function(dictionary, addition)
     y = list(x.items())
     z = []
     for t in y:
@@ -67,3 +66,19 @@ def sort_dictionary(chosen_key: str, reverse: bool = True, dictionary="countries
 #
 #    (I'm not a Muslim, and this is just a joke, I don't support hate against Islam and these two countries)"""
 #    return dict(filter(lambda item: item[1]["motto"] == "God is the Greatest", COUNTRIES.items()))
+
+#print(j:=json_dictionary(addition="GDP per capita", indent=4))
+
+#with open("test.json", "w") as f: f.write(j)
+
+population_density = quick_function(addition="population density")
+gdp_per_capital = quick_function(addition="GDP per capita")
+iso = quick_function(addition="ISO 3166-2")
+print(gdp_per_capital)
+#full_dictionary = COUNTRIES
+#for x in COUNTRIES:
+#    full_dictionary[x]["population density"] = population_density[x]["population density"]
+#    full_dictionary[x]["GDP per capita"] = gdp_per_capital[x]["GDP per capita"]
+#    full_dictionary[x]["ISO 3166-2"] = iso[x]["ISO 3166-2"]
+
+#print(full_dictionary)
