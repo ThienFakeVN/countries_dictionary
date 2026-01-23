@@ -3,31 +3,33 @@ from countries_dictionary.russia import RUSSIA
 from countries_dictionary.united_states import UNITED_STATES
 from countries_dictionary.vietnam import VIETNAM
 from json import dumps
+from copy import deepcopy
 
 def quick_function(dictionary: str = "countries", addition: str = ""):
     """Returns one of the dictionaries depends on the `dictionary` parameter and modify it depends on the `addition` parameter."""
     match dictionary.casefold():
-        case "countries": thanhbinh = COUNTRIES
-        case "russia": thanhbinh = RUSSIA
-        case "united states" | "america": thanhbinh = UNITED_STATES
-        case "vietnam": thanhbinh = VIETNAM
+        case "countries": thanhbinh = deepcopy(COUNTRIES)
+        case "russia": thanhbinh = deepcopy(RUSSIA)
+        case "united states" | "america": thanhbinh = deepcopy(UNITED_STATES)
+        case "vietnam": thanhbinh = deepcopy(VIETNAM)
         case _: raise Exception("This dictionary does not exist (yet)")
     match addition.casefold():
         case "population density":
-            for x in thanhbinh:
-                if thanhbinh == COUNTRIES: thanhbinh[x]["population density"] = COUNTRIES[x]["population"] / COUNTRIES[x]["land area"]
-                else: thanhbinh[x]["population density"] = thanhbinh[x]["population"] / thanhbinh[x]["area"]
-        case "GDP per capita": # Issue
-            if thanhbinh == COUNTRIES:
-                for x in thanhbinh: thanhbinh[x]["GDP per capita"] = COUNTRIES[x]["nominal GDP"] / COUNTRIES[x]["population"]
+            if dictionary.casefold() == "countries":
+                for x in thanhbinh: thanhbinh[x]["population density"] = thanhbinh[x]["population"] / thanhbinh[x]["land area"]
+            else:
+                for x in thanhbinh: thanhbinh[x]["population density"] = thanhbinh[x]["population"] / thanhbinh[x]["area"]
+        case "gdp per capita":
+            if dictionary.casefold() == "countries":
+                for x in thanhbinh: thanhbinh[x]["GDP per capita"] = thanhbinh[x]["nominal GDP"] / thanhbinh[x]["population"]
             else: raise Exception("Only works with the Countries dictionary")
-        case "ISO 3166-2": # Issue
-            if thanhbinh == COUNTRIES:
-                for x in thanhbinh: thanhbinh[x]["ISO 3166-2"] = "ISO 3166-2:" + COUNTRIES[x]["ISO 3166-1"]["alpha-2"]
+        case "iso 3166-2":
+            if dictionary.casefold() == "countries":
+                for x in thanhbinh: thanhbinh[x]["ISO 3166-2"] = "ISO 3166-2:" + thanhbinh[x]["ISO 3166-1"]["alpha-2"]
             else: raise Exception("Only works with the Countries dictionary")
     return thanhbinh
 
-def json_dictionary(dictionary: str = "countries", addition: str = "", indent: int | str | None = None): # Issue
+def json_dictionary(dictionary: str = "countries", addition: str = "", indent: int | str | None = None):
     """Converts a dictionary into a JSON string"""
     thanhbinh = quick_function(dictionary, addition)
     return dumps(thanhbinh, indent=indent)
