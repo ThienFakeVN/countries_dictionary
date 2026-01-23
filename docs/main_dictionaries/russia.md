@@ -18,9 +18,9 @@ RUSSIA = {
 }
 ```
 
-- `"federal district"`: The federal district of the federal subject, type: `str`, `NoneType` (for Russian-occupied regions in Ukraine after the 2022 invasion)
+- `"federal district"`: The federal district of the federal subject, type: `str`, `None` (for Russian-occupied regions in Ukraine after the 2022 invasion)
 
-- `"economic region"`: The economic region of the federal subject, type: `str`, `NoneType` (for Russian-occupied regions in Ukraine after the 2022 invasion)
+- `"economic region"`: The economic region of the federal subject, type: `str`, `None` (for Russian-occupied regions in Ukraine after the 2022 invasion)
 
 - `"landlocked"`: Whether the federal subject is landlocked or not, type: `bool`
 
@@ -30,7 +30,7 @@ RUSSIA = {
 
 - `"population"`: Population of the federal subject, type: `int`
 
-- `"ISO 3166-2:RU"`: Subdivision codes of ISO 3166-2's entry for Russia, type: `str`, `NoneType` (for all Russian-occupied regions in Ukraine during the Russo-Ukrainian war)
+- `"ISO 3166-2:RU"`: Subdivision codes of ISO 3166-2's entry for Russia, type: `str`, `None` (for all Russian-occupied regions in Ukraine during the Russo-Ukrainian war)
 
 ## Usage example
 ```python

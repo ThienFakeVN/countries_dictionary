@@ -18,7 +18,7 @@ UNITED_STATES = {
 }
 ```
 
-- `"capital"`: The capital of the state or inhabited territory, type: `str`, `NoneType` (for the federal district)
+- `"capital"`: The capital of the state or inhabited territory, type: `str`, `None` (for the federal district)
 
 - `"date of ratification/establishment/acquisition"`: Date (format: YYYY.MM.DD) of ratification of the state, establishment of the federal district or acquisition of inhabited territory, type: `str`
 

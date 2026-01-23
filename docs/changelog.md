@@ -196,7 +196,7 @@ A major update, in which information such as `"population"` will now be updated 
 Monaco, North Korea and Vatican City's `"HDI"` were only `.0`, but now, they are literal `None`s, just as how I planned months ago. Hehehehe.
 
 ### Updated 🔧
-- Altered values that are empty (e.g. `""` in `"motto"`) into `None`
+- Changed values that are empty (e.g. `""` in `"motto"`) into `None`
 - `sort_dictionary` in `quick_functions.py` now can filter out `None` values
 
 ## [5.1.1] 2025.01.11
@@ -218,5 +218,6 @@ Monaco, North Korea and Vatican City's `"HDI"` were only `.0`, but now, they are
 
 ### Updated 🔧
 - Altered significantly values in `__init__.py`s
+- Fixed values in `russia.py`
 - Renamed `"date of ratification/establishment/acquiring"` keys into `"date of ratification/establishment/acquisition"` in `united_states.py`
-- Renamed `action` parameters into `addition` in `quick_functions.py`
+- Altered significantly code in `quick_functions.py`

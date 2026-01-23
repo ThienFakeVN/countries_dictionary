@@ -1,5 +1,5 @@
 # Main Countries dictionary
-The main Countries dictionary (`countries_dictionary/__init__.py`), which contains dictionaries of countries and their information.
+The main United Nations' members and observers dictionary (`countries_dictionary/__init__.py`), which contains dictionaries of countries and their information.
 
 ## Structure
 Each key in the `COUNTRIES` constant has 12 items:
@@ -25,7 +25,7 @@ COUNTRIES = {
 
 - `"formal name"`: Formal name of the country, type: `str`
 
-- `"motto"`: Motto of the country (in English), type: `str`, `NoneType` (if the country has no motto)
+- `"motto"`: Motto of the country (in English), type: `str`, `None` (if the country has no motto)
 
 - `"continents"`: Continent(s) of the country’s mainland, type: `str`, `list` (if there are more than one continent)
 
@@ -39,7 +39,7 @@ COUNTRIES = {
 
 - `"official languages"`: Official language(s) of the country, type: `str`, `list` (if there are more than one language)
 
-- `"official religion"`: Official religion of the country, type: `str`, `NoneType` (if the country has no official religion)
+- `"official religion"`: Official religion of the country, type: `str`, `None` (if the country has no official religion)
 
 - `"nominal GDP"`: Nominal gross domestic product of the country, type: `int`
 

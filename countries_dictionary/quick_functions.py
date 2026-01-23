@@ -40,7 +40,7 @@ def sort_dictionary(chosen_key: str, dictionary: str = "countries", addition: st
     y = list(x.items())
     z = []
     for t in y:
-        if t[1][chosen_key] != None: z.append(t)
+        if t[1][chosen_key] is not None: z.append(t)
     thanhbinh = dict(z)
     return dict(sorted(thanhbinh.items(), key=lambda item: item[1][chosen_key], reverse=reverse))
 
@@ -68,19 +68,3 @@ def sort_dictionary(chosen_key: str, dictionary: str = "countries", addition: st
 #
 #    (I'm not a Muslim, and this is just a joke, I don't support hate against Islam and these two countries)"""
 #    return dict(filter(lambda item: item[1]["motto"] == "God is the Greatest", COUNTRIES.items()))
-
-#print(j:=json_dictionary(addition="GDP per capita", indent=4))
-
-#with open("test.json", "w") as f: f.write(j)
-
-population_density = quick_function(addition="population density")
-gdp_per_capital = quick_function(addition="GDP per capita")
-iso = quick_function(addition="ISO 3166-2")
-print(gdp_per_capital)
-#full_dictionary = COUNTRIES
-#for x in COUNTRIES:
-#    full_dictionary[x]["population density"] = population_density[x]["population density"]
-#    full_dictionary[x]["GDP per capita"] = gdp_per_capital[x]["GDP per capita"]
-#    full_dictionary[x]["ISO 3166-2"] = iso[x]["ISO 3166-2"]
-
-#print(full_dictionary)

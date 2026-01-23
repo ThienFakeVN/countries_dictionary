@@ -13,6 +13,8 @@ nav:
         - Russia dictionary: main_dictionaries/russia.md
         - United States dictionary: main_dictionaries/united_states.md
         - Vietnam dictionary: main_dictionaries/vietnam.md
+    - "Tools":
+        - Quick functions: tools/quick_functions.md
 
 markdown_extensions:
     - pymdownx.highlight:
