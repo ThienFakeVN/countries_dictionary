@@ -15,6 +15,7 @@ nav:
         - Vietnam dictionary: main_dictionaries/vietnam.md
     - "Tools":
         - Quick functions: tools/quick_functions.md
+        - ISO Finder: tools/iso_finder.md
 
 markdown_extensions:
     - pymdownx.highlight:

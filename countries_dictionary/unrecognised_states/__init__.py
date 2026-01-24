@@ -10,7 +10,7 @@ UNRECOGNISED_STATES = {
         "official languages": ["English", "Cook Islands Māori", "Pukapukan"],
         "official religion": None,
         "nominal GDP": 384000000,
-        "HDI": 0,
+        "HDI": None,
         "ISO 3166-1": {"alpha-2": "CK", "alpha-3": "COK", "numeric": "184"},
     },
     "Kosovo": {
@@ -24,7 +24,7 @@ UNRECOGNISED_STATES = {
         "official languages": ["Albanian", "Serbian"],
         "official religion": None,
         "nominal GDP": 11172000000,
-        "HDI": 0,
+        "HDI": None,
         "ISO 3166-1": {"alpha-2": "XK", "alpha-3": None, "numeric": None},
     },
     "Niue": {
@@ -38,7 +38,7 @@ UNRECOGNISED_STATES = {
         "official languages": ["Niuean", "English"],
         "official religion": None,
         "nominal GDP": 18700000,
-        "HDI": 0,
+        "HDI": None,
         "ISO 3166-1": {"alpha-2": "NU", "alpha-3": "NIU", "numeric": "570"},
     },
     "Abkhazia": {
@@ -52,7 +52,7 @@ UNRECOGNISED_STATES = {
         "official languages": ["Abkhaz", "Russian"],
         "official religion": None,
         "nominal GDP": 270000000,
-        "HDI": 0,
+        "HDI": None,
         "ISO 3166-1": {"alpha-2": "XA", "alpha-3": None, "numeric": None}, # Used in Russia
     },
     "Northern Cyprus": {
@@ -66,7 +66,7 @@ UNRECOGNISED_STATES = {
         "official languages": "Turkish",
         "official religion": None,
         "nominal GDP": 4234000000,
-        "HDI": 0,
+        "HDI": None,
         "ISO 3166-1": {"alpha-2": None, "alpha-3": None, "numeric": None},
     },
     "Western Sahara": {
@@ -94,7 +94,7 @@ UNRECOGNISED_STATES = {
         "official languages": ["Ossetian", "Russian"],
         "official religion": None,
         "nominal GDP": 52000000,
-        "HDI": 0,
+        "HDI": None,
         "ISO 3166-1": {"alpha-2": "XO", "alpha-3": None, "numeric": None}, # Used in Russia
     },
     "Taiwan": {
@@ -122,7 +122,7 @@ UNRECOGNISED_STATES = {
         "official languages": ["Russian", "Moldavian", "Ukrainian"],
         "official religion": None,
         "nominal GDP": 1201000000,
-        "HDI": 0,
+        "HDI": None,
         "ISO 3166-1": {"alpha-2": None, "alpha-3": None, "numeric": None},
     },
     "Somaliland": {
@@ -136,7 +136,7 @@ UNRECOGNISED_STATES = {
         "official languages": "Somali",
         "official religion": "Islam",
         "nominal GDP": 3782000000,
-        "HDI": 0,
+        "HDI": None,
         "ISO 3166-1": {"alpha-2": None, "alpha-3": None, "numeric": None},
     },
 }

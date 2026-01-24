@@ -26,8 +26,8 @@ TRANSNISTRIA = {
     },
     "Tiraspol": {
         "administrative centre": "Tiraspol",
-        "area": 434.5,
-        "population": 21000,
+        "area": 55.56,
+        "population": 126306,
     },
 }
 """A dictionary contains all raions and a municipality of Transnistria and information about them:

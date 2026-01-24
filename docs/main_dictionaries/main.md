@@ -51,7 +51,7 @@ COUNTRIES = {
 ```python
 from countries_dictionary import COUNTRIES
 
-# Prints the formal name of the country
+# Prints the formal name of a country
 print(COUNTRIES["Vietnam"]["formal name"])
 
 # Compares the population of two countries

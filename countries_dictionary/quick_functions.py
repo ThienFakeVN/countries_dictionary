@@ -1,7 +1,8 @@
-from countries_dictionary import COUNTRIES
-from countries_dictionary.russia import RUSSIA
-from countries_dictionary.united_states import UNITED_STATES
-from countries_dictionary.vietnam import VIETNAM
+from __init__ import COUNTRIES
+from russia import RUSSIA
+from united_states import UNITED_STATES
+from vietnam import VIETNAM
+
 from json import dumps
 from copy import deepcopy
 

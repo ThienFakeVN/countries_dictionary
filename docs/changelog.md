@@ -217,6 +217,7 @@ Monaco, North Korea and Vatican City's `"HDI"` were only `.0`, but now, they are
 - Added 1 module file: `mkdocs.yml`
 
 ### Updated 🔧
+- Altered how `quick_functions.py` and `iso_finder.py` import other module files
 - Altered significantly values in `__init__.py`s
 - Fixed values in `russia.py`
 - Renamed `"date of ratification/establishment/acquiring"` keys into `"date of ratification/establishment/acquisition"` in `united_states.py`
