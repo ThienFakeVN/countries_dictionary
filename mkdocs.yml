@@ -1,0 +1,37 @@
+site_name: Countries Dictionary
+theme:
+    name: material
+    language: en
+    palette: 
+        scheme: slate
+        primary: indigo
+
+nav:
+    - Home: index.md
+    - "Main dictionaries":
+        - Main Countries dictionary: main_dictionaries/main.md
+        - Russia dictionary: main_dictionaries/russia.md
+        - United States dictionary: main_dictionaries/united_states.md
+        - Vietnam dictionary: main_dictionaries/vietnam.md
+    - "Tools":
+        - Quick functions: tools/quick_functions.md
+        - ISO Finder: tools/iso_finder.md
+
+markdown_extensions:
+    - pymdownx.highlight:
+        anchor_linenums: true
+        line_spans: __span
+        pygments_lang_class: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
+
+
+#plugins:
+#    - i18n:
+#        default_language: en
+#        languages:
+#            en: 
+#                name: English
+#                build: true
+#        material_alternate: true

@@ -1,45 +1,47 @@
-from countries_dictionary import COUNTRIES
-from countries_dictionary.russia import RUSSIA
-from countries_dictionary.united_states import UNITED_STATES
-from countries_dictionary.vietnam import VIETNAM
-import json
+from __init__ import COUNTRIES
+from russia import RUSSIA
+from united_states import UNITED_STATES
+from vietnam import VIETNAM
 
-def quick_function(action: str = "", dictionary="countries"):
-    """Returns one of the dictionaries depends on the `dictionary` parameter and modify it depends on the `action` parameter."""
+from json import dumps
+from copy import deepcopy
+
+def quick_function(dictionary: str = "countries", addition: str = ""):
+    """Returns one of the dictionaries depends on the `dictionary` parameter and modify it depends on the `addition` parameter."""
     match dictionary.casefold():
-        case "countries": x = COUNTRIES
-        case "russia": x = RUSSIA
-        case "united states" | "america": x = UNITED_STATES
-        case "vietnam": x = VIETNAM
+        case "countries": thanhbinh = deepcopy(COUNTRIES)
+        case "russia": thanhbinh = deepcopy(RUSSIA)
+        case "united states" | "america": thanhbinh = deepcopy(UNITED_STATES)
+        case "vietnam": thanhbinh = deepcopy(VIETNAM)
         case _: raise Exception("This dictionary does not exist (yet)")
-    if action == (): raise Exception("No action was provided")
-    match action.casefold():
+    match addition.casefold():
         case "population density":
-            for y in x:
-                if x == COUNTRIES: x[y]["population density"] = COUNTRIES[y]["population"] / COUNTRIES[y]["land area"]
-                else: x[y]["population density"] = x[y]["population"] / x[y]["area"]
-        case "GDP per capita":
-            if x != COUNTRIES:
-                for y in x: x[y]["GDP per capita"] = COUNTRIES[y]["nominal GDP"] / COUNTRIES[y]["population"]
-            else: raise Exception("Only works with the Countries Dictionary")
-        case "ISO 3166-2":
-            if x == COUNTRIES:
-                for y in x: x[y]["ISO 3166-2"] = "ISO 3166-2:" + COUNTRIES[y]["ISO 3166-1"]["alpha-2"]
-            else: raise Exception("Only works with the Countries Dictionary")
-    return x
+            if dictionary.casefold() == "countries":
+                for x in thanhbinh: thanhbinh[x]["population density"] = thanhbinh[x]["population"] / thanhbinh[x]["land area"]
+            else:
+                for x in thanhbinh: thanhbinh[x]["population density"] = thanhbinh[x]["population"] / thanhbinh[x]["area"]
+        case "gdp per capita":
+            if dictionary.casefold() == "countries":
+                for x in thanhbinh: thanhbinh[x]["GDP per capita"] = thanhbinh[x]["nominal GDP"] / thanhbinh[x]["population"]
+            else: raise Exception("Only works with the Countries dictionary")
+        case "iso 3166-2":
+            if dictionary.casefold() == "countries":
+                for x in thanhbinh: thanhbinh[x]["ISO 3166-2"] = "ISO 3166-2:" + thanhbinh[x]["ISO 3166-1"]["alpha-2"]
+            else: raise Exception("Only works with the Countries dictionary")
+    return thanhbinh
 
-def json_dictionary(action: str = "", indent: int | str | None = None, dictionary="countries"):
+def json_dictionary(dictionary: str = "countries", addition: str = "", indent: int | str | None = None):
     """Converts a dictionary into a JSON string"""
-    x = quick_function(action, dictionary)
-    return json.dumps(x, indent=indent)
+    thanhbinh = quick_function(dictionary, addition)
+    return dumps(thanhbinh, indent=indent)
 
-def sort_dictionary(chosen_key: str, reverse: bool = True, dictionary="countries", action: str = ""):
+def sort_dictionary(chosen_key: str, dictionary: str = "countries", addition: str = "", reverse: bool = True):
     """Sorts a dictionary by a sortable key"""
-    x = quick_function(action, dictionary)
+    x = quick_function(dictionary, addition)
     y = list(x.items())
     z = []
     for t in y:
-        if t[1][chosen_key] != None: z.append(t)
+        if t[1][chosen_key] is not None: z.append(t)
     thanhbinh = dict(z)
     return dict(sorted(thanhbinh.items(), key=lambda item: item[1][chosen_key], reverse=reverse))
 

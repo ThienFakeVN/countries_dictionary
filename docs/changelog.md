@@ -4,7 +4,7 @@ The first release of Countries Dictionary.
 
 ### Added 🔨
 - Added 1 module file: `__init__.py`
-- Added 4 types of countries' information: `continents`, `area`, `population`, `nominal GDP`
+- Added 4 types of countries' information: `"continents"`, `"area"`, `"population"`, `"nominal GDP"`
 
 ## [1.0.1] 2025.07.15
 ### Updated 🔧
@@ -19,10 +19,10 @@ The second major release of Countries Dictionary, which includes new module file
 
 ### Added 🔨
 - Added 3 module files: `quick_variables.py`, `russia.py`, `vietnam.py`
-- Added 4 types of countries' information: `formal name`, `land area`, `official languages`, `HDI`
+- Added 4 types of countries' information: `"formal name"`, `"land area"`, `"official languages"`, `"HDI"`
 - Added 6 variables in `quick_variables.py`: `json_countries`, `json_russia`, `json_vietnam`, `countries_france_censored`, `countries_area_sorted`, `countries_population_sorted`
-- Added 4 types of Russian subjects' information: `federal district`, `economic region`, `area`, `region`
-- Added 3 types of Vietnamese provinces' information: `region`, `area`, `population`
+- Added 4 types of Russian subjects' information: `"federal district"`, `"economic region"`, `"area"`
+- Added 3 types of Vietnamese provinces' information: `"region"`, `"area"`, `"population"`
 
 ### Updated 🔧
 - Reorganised the Countries Dictionary and the `README.md` file
@@ -43,8 +43,8 @@ The release which introduces `CHANGELOG.md` and various more things
 
 ### Added 🔨
 - Added `CHANGELOG.md`
-- Added 1 type of Russian subjects' information: `capital/administrative centre`
-- Added 1 type of Vietnamese provinces' information: `administrative centre`
+- Added 1 type of Russian subjects' information: `"capital/administrative centre"`
+- Added 1 type of Vietnamese provinces' information: `"administrative centre"`
 - Added 4 variables in `quick_variables.py`: `russia_subjects_area_sorted`, `russia_subjects_population_sorted`, `vietnam_provinces_area_sorted`, `vietnam_provinces_population_sorted`
 
 ### Updated 🔧
@@ -58,7 +58,7 @@ The release which introduces `CHANGELOG.md` and various more things
 ## [2.2.2] 2025.08.02
 ### Updated 🔧
 - Added the link to the `CHANGELOG.md` file on GitHub in `README.md`
-- Slightly modified the `countries_dictionary`'s documentation
+- Altered the `countries`'s documentation
 
 ## [2.3.0] 2025.08.09
 A big release for `quick_variables.py` and British English (even though I've been using it since the first release), alongside adding some information for minor and major releases.
@@ -73,7 +73,7 @@ A big release for `quick_variables.py` and British English (even though I've bee
 - Renamed `LICENSE` to `LICENCE`
 - Replaced the licence's name with the `LICENCE` file in `pyproject.toml`
 - Modified `README.md` significantly
-- Fixed the `land area`s of some countries
+- Fixed `"land area"`s of some countries
 
 ## [2.3.1] 2025.08.13
 ### Updated 🔧
@@ -86,9 +86,9 @@ The third major release of Countries Dictionary, which includes ISO codes (with 
 
 ### Added 🔨
 - Added 2 module files: `iso_finder.py`, `united_states.py`
-- Added 1 type of countries' information: `ISO 3166-1`
+- Added 1 type of countries' information: `"ISO 3166-1"`
 - Added 2 function of `quick_variables.py`: `united_states_population_density()`, `countries_iso_3166_2()`
-- Added 6 types of US states' information: `capital`, `date of ratification/establishment/acquiring`, `area`, `population`, `House Representatives`, `postal code`
+- Added 6 types of US states' information: `"capital"`, `"date of ratification/establishment/acquiring"`, `"area"`, `"population"`, `"House Representatives"`, `"postal code"`
 
 ### Updated 🔧
 - Modified some documentaion
@@ -134,22 +134,22 @@ This release focuses on the `README.md` and `CHANGELOG.md`
 A big update in which unrecognised states are included. By the way, the last update was [3.1.4], you see something? π
 
 ### Added 🔨
-- Added 2 types of countries' information: `motto`, `landlocked`
+- Added 2 types of countries' information: `"motto"`, `"landlocked"`
 - Added a submodule for unrecognised states
 - Added 1 module file in unrecognised_states: `__init__.py`
-- Added 11 types of unrecognised states' information: `formal name`, `motto`, `continents`, `landlocked`, `area`, `land area`, `population`, `official languages`, `nominal GDP`, `HDI`, `ISO 3166-1`
+- Added 11 types of unrecognised states' information: `"formal name"`, `"motto"`, `"continents"`, `"landlocked"`, `"area"`, `"land area"`, `"population"`, `"official languages"`, `"nominal GDP"`, `"HDI"`, `"ISO 3166-1"`
 - Added 1 module file: `countries_languages`
 - Added ISO finders for Russian subjects, US states, and Vietnamese provinces in `iso_finder.py`
 - Added 1 function in `quick_functions.py`: `countries_allahu_akbar()`
 - Added 1 type of Russian subjects' information: `ISO 3166-2:RU`
 - Added 1 type of Vietnamese provinces' information: `ISO 3166-2:VN`
 - Added 1 module file: `transnistria.py`
-- Added 3 types of Pridnestrovian raions: `administrative centre`, `area`, `population`
+- Added 3 types of Pridnestrovian raions: `"administrative centre"`, `"area"`, `"population"`
 
 ### Updated 🔧
 - Removed most information in `README.md`
 - ISO finder can now display a specifically chosen information
-- Changed `postal code` into `ISO 3166-2:US` in `united_states.py`
+- Renamed `"postal code"` into `"ISO 3166-2:US"` in `united_states.py`
 
 ## [4.0.1] 2025.10.23
 ### Updated 🔧
@@ -164,11 +164,11 @@ A big update in which unrecognised states are included. By the way, the last upd
 - Fixed information in README.md
 
 ## [5.0.0] 2026.01.08
-A major update, in which information such as `population` will now be updated regularly. Happy New Year by the way.
+A major update, in which information such as `"population"` will now be updated regularly. Happy New Year by the way.
 
 ### Added 🔨
-- Added 1 type of countries' information: `state religion`
-- Added 1 type of unrecognised states' information: `state religion`
+- Added 1 type of countries' information: `"state religion"`
+- Added 1 type of unrecognised states' information: `"state religion"`
 
 ### Removed 💣
 - Removed the 9 previous functions in `quick_functions.py`: `filtered_dictionary()`, `countries_population_density()`, `russia_population_density()`, `united_states_population_density()`, `vietnam_population_density()`, `countries_population_density()`, `countries_iso_3166_2()`, `countries_france_censored()`, `countries_allahu_akbar()`
@@ -186,27 +186,39 @@ A major update, in which information such as `population` will now be updated re
 
 ## [5.0.2] 2025.01.11
 ### Updated 🔧
-- Fixed some code in `quick_functions`
+- Fixed some code in `quick_functions.py`
 
 ## [5.0.3] 2025.01.11
 ### Updated 🔧
-- Changed some code in `quick_functions`
+- Altered some code in `quick_functions.py`
 
 ## [5.1.0] 2025.01.11
-Monaco, North Korea and Vatican City's `HDI` were only `.0`, but now, they are literal `None`s, just as how I planned months ago. Hehehehe.
+Monaco, North Korea and Vatican City's `"HDI"` were only `.0`, but now, they are literal `None`s, just as how I planned months ago. Hehehehe.
 
 ### Updated 🔧
-- Changed values that are empty (e.g. `""` in `motto`) into `None`
-- `sort_dictionary` in `quick_functions` now can filter out `None` values
+- Changed values that are empty (e.g. `""` in `"motto"`) into `None`
+- `sort_dictionary` in `quick_functions.py` now can filter out `None` values
 
 ## [5.1.1] 2025.01.11
 ### Updated 🔧
-- Fixed some code in `quick_functions`
+- Fixed some code in `quick_functions.py`
 
 ## [5.1.2] 2025.01.13
 ### Updated 🔧
-- Fixed some code in `quick_functions`
+- Fixed some code in `quick_functions.py`
 
 ## [5.1.3] 2025.01.13
 ### Updated 🔧
 - Fixed Republic of the Congo's `HDI`
+
+## [6.0.0] 2025.01.25
+### Added 🔨
+- Added a documentation site for the Countries Dictionary <!-- thanks to mkdocs! -->
+- Added 1 module file: `mkdocs.yml`
+
+### Updated 🔧
+- Altered how `quick_functions.py` and `iso_finder.py` import other module files
+- Altered significantly values in `__init__.py`s
+- Fixed values in `russia.py`
+- Renamed `"date of ratification/establishment/acquiring"` keys into `"date of ratification/establishment/acquisition"` in `united_states.py`
+- Altered significantly code in `quick_functions.py`
