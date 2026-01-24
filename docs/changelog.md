@@ -237,3 +237,7 @@ A very big update, where I added a documentation site for my module.
 ## [6.0.3] 2026.01.24
 ### Updated 🔧
 - Included the `changelog.md` file into the documentation site
+
+## [6.0.4] 2026.01.24
+### Updated 🔧
+- Built the documentation site <!--i forgot to-->
