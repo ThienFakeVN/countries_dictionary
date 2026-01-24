@@ -20,3 +20,6 @@ keywords = ["countries", "states", "dictionary", "united nations", "iso"]
 [project.urls]
 "Homepage" = "https://github.com/ThienFakeVN/countries_dictionary/"
 "Repository" = "https://github.com/ThienFakeVN/countries_dictionary/"
+
+[tool.setuptools.packages.find]
+where = ["countries_dictionary"]
