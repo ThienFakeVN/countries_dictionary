@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countries_dictionary"
-version = "6.0.0"
+version = "6.0.3"
 description = "Provides a dictionary contains countries and unrecognised states and information about them"
 readme = "README.md"
 requires-python = ">=3.7"
@@ -22,4 +22,4 @@ keywords = ["countries", "states", "dictionary", "united nations", "iso"]
 "Repository" = "https://github.com/ThienFakeVN/countries_dictionary/"
 
 [tool.setuptools.packages.find]
-where = ["countries_dictionary"]
+where = ["src"]

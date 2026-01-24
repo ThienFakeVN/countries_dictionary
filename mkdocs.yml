@@ -16,6 +16,7 @@ nav:
     - "Tools":
         - Quick functions: tools/quick_functions.md
         - ISO Finder: tools/iso_finder.md
+    - Changelog: changelog.md
 
 markdown_extensions:
     - pymdownx.highlight:

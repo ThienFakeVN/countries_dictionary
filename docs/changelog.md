@@ -179,46 +179,61 @@ A major update, in which information such as `"population"` will now be updated 
 - Monthly updated population information
 - Quarterly updated area information
 
-## [5.0.1] 2025.01.10
+## [5.0.1] 2026.01.10
 ### Updated 🔧
 - Fixed the date of [5.0.0]'s release
 - Fixed `iso_ru_finder`'s `Exception`'s parameter
 
-## [5.0.2] 2025.01.11
+## [5.0.2] 2026.01.11
 ### Updated 🔧
 - Fixed some code in `quick_functions.py`
 
-## [5.0.3] 2025.01.11
+## [5.0.3] 2026.01.11
 ### Updated 🔧
 - Altered some code in `quick_functions.py`
 
-## [5.1.0] 2025.01.11
+## [5.1.0] 2026.01.11
 Monaco, North Korea and Vatican City's `"HDI"` were only `.0`, but now, they are literal `None`s, just as how I planned months ago. Hehehehe.
 
 ### Updated 🔧
 - Changed values that are empty (e.g. `""` in `"motto"`) into `None`
 - `sort_dictionary` in `quick_functions.py` now can filter out `None` values
 
-## [5.1.1] 2025.01.11
+## [5.1.1] 2026.01.11
 ### Updated 🔧
 - Fixed some code in `quick_functions.py`
 
-## [5.1.2] 2025.01.13
+## [5.1.2] 2026.01.13
 ### Updated 🔧
 - Fixed some code in `quick_functions.py`
 
-## [5.1.3] 2025.01.13
+## [5.1.3] 2026.01.13
 ### Updated 🔧
 - Fixed Republic of the Congo's `HDI`
 
-## [6.0.0] 2025.01.25
+## [6.0.0] 2026.01.24
+A very big update, where I added a documentation site for my module.
+
 ### Added 🔨
 - Added a documentation site for the Countries Dictionary <!-- thanks to mkdocs! -->
 - Added 1 module file: `mkdocs.yml`
 
 ### Updated 🔧
+- Renamed `CHANGELOG.md` into `changelog.md`
 - Altered how `quick_functions.py` and `iso_finder.py` import other module files
 - Altered significantly values in `__init__.py`s
 - Fixed values in `russia.py`
 - Renamed `"date of ratification/establishment/acquiring"` keys into `"date of ratification/establishment/acquisition"` in `united_states.py`
 - Altered significantly code in `quick_functions.py`
+
+## [6.0.1] 2026.01.24
+### Updated 🔧
+- Fixed a critical error
+
+## [6.0.2] 2026.01.24
+### Updated 🔧
+- Fixed some information in `changelog.md`
+
+## [6.0.3] 2026.01.24
+### Updated 🔧
+- Included the `changelog.md` file into the documentation site
