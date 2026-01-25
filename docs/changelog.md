@@ -241,3 +241,7 @@ A very big update, where I added a documentation site for my module.
 ## [6.0.4] 2026.01.24
 ### Updated 🔧
 - Built the documentation site <!--i forgot to-->
+
+## [6.0.5] 2026.01.25
+### Updated 🔧
+- Added the link to the docs in `pyproject.toml`
