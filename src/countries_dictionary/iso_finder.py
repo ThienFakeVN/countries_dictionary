@@ -1,7 +1,7 @@
-from quick_functions import quick_function
-from russia import RUSSIA
-from united_states import UNITED_STATES
-from vietnam import VIETNAM
+from countries_dictionary.quick_functions import quick_function
+from countries_dictionary.russia import RUSSIA
+from countries_dictionary.united_states import UNITED_STATES
+from countries_dictionary.vietnam import VIETNAM
 
 countries = quick_function(addition="ISO 3166-2")
 
