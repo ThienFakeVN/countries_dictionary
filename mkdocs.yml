@@ -13,6 +13,9 @@ nav:
         - Russia dictionary: main_dictionaries/russia.md
         - United States dictionary: main_dictionaries/united_states.md
         - Vietnam dictionary: main_dictionaries/vietnam.md
+    - "Unrecognised dictionaries":
+        - Main Unrecognised states dictionary: unrecognised_dictionaries/main.md
+        - Transnistra dictionary: unrecognised_dictionaries/transnistria.md
     - "Tools":
         - Quick functions: tools/quick_functions.md
         - ISO Finder: tools/iso_finder.md
