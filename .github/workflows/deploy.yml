@@ -1,0 +1,17 @@
+name: publish-docs
+on:
+    push:
+        branches:
+            - main    # Set this to your default branch name
+permissions:
+    contents: write
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-python@v5
+              with:
+                python-version: 3.14.2
+            - run: pip install mkdocs-material    # Add any other plugins you used here
+            - run: mkdocs gh-deploy --force

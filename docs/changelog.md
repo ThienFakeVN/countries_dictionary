@@ -344,9 +344,9 @@ __Updated__
 
 - Fixed the documentation site
 
-## [6.0.8] 2026.02.01
+## [6.0.8] 2026.02.02
 __Updated__
 
-- Altered the Brunei's `formal name`
+- Altered Brunei's `formal name`
 - Monthly updated population information
 - Monthly updated Vatican City's GDP
