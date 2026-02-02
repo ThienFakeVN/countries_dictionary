@@ -178,7 +178,7 @@ __Updated__
 - `iso_finder()` now includes ISO 3166-2
 
 ## [4.0.0] 2025.10.23
-A big update in which unrecognised states are included. By the way, the last update was [3.1.4], you see something? π
+A big version in which unrecognised states are included. By the way, the last version was [3.1.4], you see something? π
 
 __Added__
 
@@ -215,12 +215,12 @@ __Updated__
 ## [4.0.1] 2025.10.23
 __Updated__
 
-- Added some information about the [4.0.0] update
+- Added some information about the [4.0.0] version
 
 ## [4.0.2] 2025.10.22
 __Updated__
 
-- Updated some population information
+- updated some population information
 
 ## [4.0.3] 2025.12.15
 __Updated__
@@ -228,7 +228,7 @@ __Updated__
 - Fixed information in README.md
 
 ## [5.0.0] 2026.01.08
-A major update, in which information such as `"population"` will now be updated regularly. Happy New Year by the way.
+A major version, in which information such as `"population"` will now be updated regularly. Happy New Year by the way.
 
 __Added__
 
@@ -292,7 +292,7 @@ __Updated__
 - Fixed Republic of the Congo's `HDI`
 
 ## [6.0.0] 2026.01.24
-A very big update, where I added a documentation site for my module.
+A very big version, where I added a documentation site for my module.
 
 __Added__
 
@@ -365,3 +365,10 @@ __Updated__
 __Updated__
 
 - Altered how most module files import the others
+
+## [7.0.0] 2026.02.02
+The first version ever that has previous development versions
+
+__Updated__
+
+- Relabelled [7.0.0.dev3] as [7.0.0]
