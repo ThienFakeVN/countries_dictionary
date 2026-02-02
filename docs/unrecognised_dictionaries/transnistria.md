@@ -1,5 +1,5 @@
 # Transnistra dictionary
-The Pridnestrovian Moldavian Republic dictionary (`countries_dictionary/TRANSNISTRIA/transnistria.py`), which contains dictionaries of the country's raions, municipality and their information.
+The Pridnestrovian Moldavian Republic dictionary, which contains dictionaries of the country's raions, municipality and their information.
 
 ## Structure
 Each key in the `TRANSNISTRIA` constant has 3 items:
@@ -22,7 +22,7 @@ TRANSNISTRIA = {
 
 ## Usage example
 ```python
-from countries_dictionary.TRANSNISTRIA.transnistria import TRANSNISTRIA
+from countries_dictionary import TRANSNISTRIA
 
 # Prints the area of a raion
 print(TRANSNISTRIA["Rîbnița"]["area"])

@@ -1,5 +1,5 @@
 # Vietnam dictionary
-The Socialist Republic of Vietnam dictionary (`countries_dictionary/vietnam.py`), which contains dictionaries of the country's provinces and municipalities and their information.
+The Socialist Republic of Vietnam dictionary, which contains dictionaries of the country's provinces and municipalities and their information.
 
 ## Structure
 Each key in the `VIETNAM` constant has 6 items:
@@ -31,7 +31,7 @@ VIETNAM = {
 
 ## Usage example
 ```python
-from countries_dictionary.vietnam import VIETNAM
+from countries_dictionary import VIETNAM
 
 # Prints the population of a province
 print(VIETNAM["Ho Chi Minh City"]["population"])

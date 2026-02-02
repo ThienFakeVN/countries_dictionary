@@ -1,5 +1,5 @@
 # *ISO Finder*
-*ISO Finder* (`countries_dictionary/iso_finder.py`) is a tool for finding a country (or the subdivision of the country that has a dictionary) and a chosen information of it based on the provided ISO 3166 code.
+*ISO Finder* is a tool for finding a country (or the subdivision of the country that has a dictionary) and a chosen information of it based on the provided ISO 3166 code.
 
 ## Common parameters
 All functions of *ISO Finder* have the same parameters:

@@ -1,5 +1,5 @@
 # Russia dictionary
-The Russian Federation dictionary (`countries_dictionary/russia.py`), which contains dictionaries of the country's federal subjects and their information.
+The Russian Federation dictionary, which contains dictionaries of the country's federal subjects and their information.
 
 ## Structure
 Each key in the `RUSSIA` constant has 7 items:
@@ -34,7 +34,7 @@ RUSSIA = {
 
 ## Usage example
 ```python
-from countries_dictionary.russia import RUSSIA
+from countries_dictionary import RUSSIA
 
 # Prints the administrative centre of a krai
 print(RUSSIA["Primorsky Krai"]["capital/administrative centre"])

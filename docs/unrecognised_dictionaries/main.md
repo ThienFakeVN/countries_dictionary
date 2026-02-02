@@ -1,5 +1,5 @@
 # Main Unrecognised states dictionary
-The main non-United Nations states dictionary (`countries_dictionary/unrecognised_states/__init__.py`), which includes such states and their information.
+The main non-United Nations states dictionary, which includes such states and their information.
 
 ## Structure
 The `UNRECOGNISED_STATES` constant has the same structure with the `COUNTRIES` constants of the main Countries dictionary, having these items in each key:
@@ -49,7 +49,7 @@ UNRECOGNISED_STATES = {
 
 ## Usage example
 ```python
-from countries_dictionary.unrecognised_states import UNRECOGNISED_STATES
+from countries_dictionary import UNRECOGNISED_STATES
 
 # Prints the formal name of a state
 print(UNRECOGNISED_STATES["Transnistria"]["formal name"])

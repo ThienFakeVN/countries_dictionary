@@ -1,5 +1,5 @@
 # United States dictionary
-The United States of America dictionary (`countries_dictionary/united_states.py`), which contains dictionaries of the country's states, federal district, inhabited territories and their information.
+The United States of America dictionary, which contains dictionaries of the country's states, federal district, inhabited territories and their information.
 
 ## Structure
 Each key in the `UNITED_STATES` constant has 7 items:
@@ -34,7 +34,7 @@ UNITED_STATES = {
 
 ## Usage example
 ```python
-from countries_dictionary.united_states import UNITED_STATES
+from countries_dictionary import UNITED_STATES
 
 # Prints the capital of a state
 print(UNITED_STATES["Ohio"]["capital"])

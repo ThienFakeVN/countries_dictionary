@@ -350,3 +350,18 @@ __Updated__
 - Altered Brunei's `formal name`
 - Monthly updated population information
 - Monthly updated Vatican City's GDP
+
+## [7.0.0.dev1] 2026.02.02
+__Updated__
+
+- Altered significantly the module's structure
+
+## [7.0.0.dev2] 2026.02.02
+__Updated__
+
+- Altered how `__init__.py` imports other module files
+
+## [7.0.0.dev3] 2026.02.02
+__Updated__
+
+- Altered how most module files import the others

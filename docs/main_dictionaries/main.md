@@ -1,5 +1,5 @@
 # Main Countries dictionary
-The main United Nations' members and observers dictionary (`countries_dictionary/__init__.py`), which contains dictionaries of countries and their information.
+The main United Nations' members and observers dictionary, which contains dictionaries of countries and their information.
 
 ## Structure
 Each key in the `COUNTRIES` constant has 12 items:

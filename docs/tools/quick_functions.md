@@ -1,5 +1,5 @@
 # Quick functions
-Some quick functions (`countries_dictionary/quick_functions.py`) that may help you in your code.
+Some quick functions that may help you in your code.
 
 ## Quick function
 `quick_function()`, returns one of the dictionaries depends on the `dictionary` parameter and modify it depends on the `addition` parameter.
@@ -11,7 +11,7 @@ Some quick functions (`countries_dictionary/quick_functions.py`) that may help y
 
 ### Usage example
 ```python
-from countries_dictionary.quick_functions import quick_function
+from countries_dictionary import quick_function
 
 # Prints the main Countries dictionary (yep, it's the same as COUNTRIES in countries_dictionary/__init__.py)
 print(quick_function())
@@ -41,7 +41,7 @@ print(full_dictionary)
 
 ### Usage example
 ```python
-from countries_dictionary.quick_functions import json_dictionary
+from countries_dictionary import json_dictionary
 
 # Converts the main Countries dictionary into 4 spaces indentation JSON and prints it
 print(json_dictionary(indent=4))
@@ -65,7 +65,7 @@ with open("friendly_aid_to_our_little_moon_lua_🌙.json", "w") as f:
 
 ### Usage example
 ```python
-from countries_dictionary.quick_functions import sort_dictionary
+from countries_dictionary import sort_dictionary
 
 # Sorts and prints the main Countries dictionary by population (from least to most)
 print(sort_dictionary("population", reverse=False))
