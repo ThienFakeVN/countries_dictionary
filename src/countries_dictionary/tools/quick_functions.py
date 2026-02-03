@@ -1,4 +1,4 @@
-from countries_dictionary import COUNTRIES, RUSSIA, UNITED_STATES, VIETNAM
+from countries_dictionary import COUNTRIES, RUSSIA, UNITED_STATES, VIETNAM, UNRECOGNISED_STATES, TRANSNISTRIA
 
 from json import dumps
 from copy import deepcopy
@@ -10,17 +10,19 @@ def quick_function(dictionary: str = "countries", addition: str = ""):
         case "russia": thanhbinh = deepcopy(RUSSIA)
         case "united states" | "america": thanhbinh = deepcopy(UNITED_STATES)
         case "vietnam": thanhbinh = deepcopy(VIETNAM)
+        case "unrecognised_states" | "unrecognized_states" | "unrecognised" | "unrecognized": thanhbinh = deepcopy(UNRECOGNISED_STATES)
+        case "transnistria" | "pridnestrovie": thanhbinh = deepcopy(TRANSNISTRIA)
         case _: raise Exception("This dictionary does not exist (yet)")
     match addition.casefold():
         case "population density":
-            if dictionary.casefold() == "countries":
+            if dictionary.casefold() in ("countries", "unrecognised_states", "unrecognized_states", "unrecognised", "unrecognized"):
                 for x in thanhbinh: thanhbinh[x]["population density"] = thanhbinh[x]["population"] / thanhbinh[x]["land area"]
             else:
                 for x in thanhbinh: thanhbinh[x]["population density"] = thanhbinh[x]["population"] / thanhbinh[x]["area"]
         case "gdp per capita":
-            if dictionary.casefold() == "countries":
+            if dictionary.casefold() in ("countries", "unrecognised_states", "unrecognized_states", "unrecognised", "unrecognized"):
                 for x in thanhbinh: thanhbinh[x]["GDP per capita"] = thanhbinh[x]["nominal GDP"] / thanhbinh[x]["population"]
-            else: raise Exception("Only works with the Countries dictionary")
+            else: raise Exception("Only works with the Countries and Unrecognised states dictionary")
         case "iso 3166-2":
             if dictionary.casefold() == "countries":
                 for x in thanhbinh: thanhbinh[x]["ISO 3166-2"] = "ISO 3166-2:" + thanhbinh[x]["ISO 3166-1"]["alpha-2"]

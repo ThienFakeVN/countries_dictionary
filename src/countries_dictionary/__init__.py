@@ -1,10 +1,10 @@
-from countries_dictionary.main_countries import COUNTRIES
+from countries_dictionary.countries import COUNTRIES
 from countries_dictionary.russia import RUSSIA
 from countries_dictionary.united_states import UNITED_STATES
 from countries_dictionary.vietnam import VIETNAM
 
-from countries_dictionary.quick_functions import quick_function, json_dictionary, sort_dictionary
-from countries_dictionary.iso_finder import iso_finder, iso_ru_finder, iso_us_finder, iso_vn_finder
-
-from countries_dictionary.unrecognised_states.unrecognised import UNRECOGNISED_STATES
+from countries_dictionary.unrecognised_states import UNRECOGNISED_STATES
 from countries_dictionary.unrecognised_states.transnistria import TRANSNISTRIA
+
+from countries_dictionary.tools.quick_functions import quick_function, json_dictionary, sort_dictionary
+from countries_dictionary.tools.iso_finder import iso_finder, iso_ru_finder, iso_us_finder, iso_vn_finder

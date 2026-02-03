@@ -348,7 +348,9 @@ __Updated__
 __Updated__
 
 - Altered Brunei's `formal name`
+
 - Monthly updated population information
+
 - Monthly updated Vatican City's GDP
 
 ## [7.0.0.dev1] 2026.02.02
@@ -364,11 +366,29 @@ __Updated__
 ## [7.0.0.dev3] 2026.02.02
 __Updated__
 
-- Altered how most module files import the others
+- Altered how most module files import others
 
 ## [7.0.0] 2026.02.02
-The first version ever that has previous development versions
+The first version ever that has previous development versions.
 
 __Updated__
 
 - Relabelled [7.0.0.dev3] as [7.0.0]
+
+## [8.0.0.dev1] 2026.02.03
+__Updated__
+
+- Renamed `unrecognised.py` into `__init__.py`
+
+- Included the Unrecognised states and Transnistria dictionaries into the `quick_function()` function 
+
+- Altered `iso_finder.py` and `quick_functions.py`'s directory
+
+- Altered how `__init__.py` imports said module files
+
+## [8.0.0] 2026.02.03
+Another major version that has a previous development version and also altered the module structure
+
+__Updated__
+
+- Relabelled [8.0.0.dev1] as [8.0.0]

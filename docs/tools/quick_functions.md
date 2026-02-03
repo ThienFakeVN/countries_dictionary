@@ -5,9 +5,9 @@ Some quick functions that may help you in your code.
 `quick_function()`, returns one of the dictionaries depends on the `dictionary` parameter and modify it depends on the `addition` parameter.
 
 ### Parameters
-- `dictionary`: Lets you choose the dictionary to work with, type: `str`, default: `"countries"`, available allowed arguments: `"america"`, `"countries"`, `"russia"`, `"united states"`, `"vietnam"` (raises an `Exception` error otherwise)
+- `dictionary`: Lets you choose the dictionary to work with, type: `str`, default: `"countries"`
 
-- `addition`: An additional information item for the dictionary, type: `str`, default `""`, available arguments: `"population density"`, `"GDP per capita"`, `"ISO 3166-2"` (does nothing otherwise, `"GDP per capita"` and `"ISO 3166-2"` can only be used if the `dictionary`'s argument is `"countries"`, raises an `Exception` error otherwise)
+- `addition`: An additional information item for the dictionary, type: `str`, default `""`
 
 ### Usage example
 ```python
@@ -33,11 +33,11 @@ print(full_dictionary)
 `json_dictionary()`, converts a dictionary into a JSON string.
 
 ### Parameters
-- `dictionary`: The dictionary to convert, type: `str`, default: `"countries"`, available allowed arguments: `"america"`, `"countries"`, `"russia"`, `"united states"`, `"vietnam"` (raises an `Exception` error otherwise)
+- `dictionary`: The dictionary to convert, type: `str`, default: `"countries"`
 
-- `addition`: An additional information item for the dictionary, type: `str`, default `""`, available arguments: `"population density"`, `"GDP per capita"`, `"ISO 3166-2"` (does nothing otherwise, `"GDP per capita"` and `"ISO 3166-2"` can only be used if the `dictionary`'s argument is `"countries"`, raises an `Exception` error otherwise)
+- `addition`: An additional information item for the dictionary, type: `str`, default `""`
 
-- `indent`: The indentation of the JSON string, type: `int`, `str`, `None`, default `None` (see `json.dumps()`'s `indent` parameter for more information)
+- `indent`: The indentation of the JSON string, type: `int`, `str`, `None`, default `None`
 
 ### Usage example
 ```python
@@ -46,8 +46,8 @@ from countries_dictionary import json_dictionary
 # Converts the main Countries dictionary into 4 spaces indentation JSON and prints it
 print(json_dictionary(indent=4))
 
-# Use an equivalent as "friendly_aid_to_our_little_moon_lua_🌙" through a JSON file
-with open("friendly_aid_to_our_little_moon_lua_🌙.json", "w") as f:
+# Use an equivalent as "friendly_aid_to_our_little_moon_lua" through a JSON file
+with open("friendly_aid_to_our_little_moon_lua.json", "w") as f:
     f.write(json_dictionary(indent=4))
 ```
 
@@ -55,11 +55,11 @@ with open("friendly_aid_to_our_little_moon_lua_🌙.json", "w") as f:
 `sort_dictionary()`, sorts a dictionary by a sortable key.
 
 ### Parameters
-- `chosen_key`: The key by which the dictionary will be sorted, type: `str` (must be a sortable key, raises an `Exception` error otherwise)
+- `chosen_key`: The key by which the dictionary will be sorted, type: `str` (must be a sortable key)
 
-- `dictionary`: The dictionary to sort, type: `str`, default: `"countries"`, available allowed arguments: `"america"`, `"countries"`, `"russia"`, `"united states"`, `"vietnam"` (raises an `Exception` error otherwise)
+- `dictionary`: The dictionary to sort, type: `str`, default: `"countries"`
 
-- `addition`: An additional information item for the dictionary, type: `str`, default `""`, available arguments: `"population density"`, `"GDP per capita"`, `"ISO 3166-2"` (does nothing otherwise, `"GDP per capita"` and `"ISO 3166-2"` can only be used if the `dictionary`'s argument is `"countries"`, raises an `Exception` error otherwise)
+- `addition`: An additional information item for the dictionary, type: `str`, default `""`
 
 - `reverse`: Whether reverses the dictionary or not (the dictionary will be sorted from least to most by default), type: `bool`, default `True`
 
