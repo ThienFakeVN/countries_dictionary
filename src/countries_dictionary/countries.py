@@ -10,7 +10,8 @@ COUNTRIES = {
         "official languages": ["Dari", "Pashto"],
         "official religion": "Sunni Islam",
         "nominal GDP": 16417000000,
-        "HDI": 0.496,
+        "HDI": .496,
+        "PwrIndx": 2.7342,
         "ISO 3166-1": {"alpha-2": "AF", "alpha-3": "AFG", "numeric": "004"},
     },
     "Albania": {
@@ -24,7 +25,8 @@ COUNTRIES = {
         "official languages": "Albanian",
         "official religion": None,
         "nominal GDP": 22978000000,
-        "HDI": 0.81,
+        "HDI": .81,
+        "PwrIndx": 1.7258,
         "ISO 3166-1": {"alpha-2": "AL", "alpha-3": "ALB", "numeric": "008"},
     },
     "Algeria": {
@@ -38,7 +40,8 @@ COUNTRIES = {
         "official languages": ["Arabic", "Standard Algerian Berber"],
         "official religion": "Sunni Islam",
         "nominal GDP": 247626000000,
-        "HDI": 0.763,
+        "HDI": .763,
+        "PwrIndx": .4849,
         "ISO 3166-1": {"alpha-2": "DZ", "alpha-3": "DZA", "numeric": "012"},
     },
     "Andorra": {
@@ -52,7 +55,8 @@ COUNTRIES = {
         "official languages": "Catalan",
         "official religion": None,
         "nominal GDP": 3785000000,
-        "HDI": 0.913,
+        "HDI": .913,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "AD", "alpha-3": "AND", "numeric": "020"},
     },
     "Angola": {
@@ -66,7 +70,8 @@ COUNTRIES = {
         "official languages": "Portuguese",
         "official religion": None,
         "nominal GDP": 90552000000,
-        "HDI": 0.616,
+        "HDI": .616,
+        "PwrIndx": 1.1045,
         "ISO 3166-1": {"alpha-2": "AO", "alpha-3": "AGO", "numeric": "024"},
     },
     "Antigua and Barbuda": {
@@ -80,7 +85,8 @@ COUNTRIES = {
         "official languages": None,
         "official religion": None,
         "nominal GDP": 2033000000,
-        "HDI": 0.851,
+        "HDI": .851,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "AG", "alpha-3": "ATG", "numeric": "028"},
     },
     "Argentina": {
@@ -94,7 +100,8 @@ COUNTRIES = {
         "official languages": None,
         "official religion": None,
         "nominal GDP": 646075000000,
-        "HDI": 0.865,
+        "HDI": .865,
+        "PwrIndx": .5983,
         "ISO 3166-1": {"alpha-2": "AR", "alpha-3": "ARG", "numeric": "032"},
     },
     "Armenia": {
@@ -108,7 +115,8 @@ COUNTRIES = {
         "official languages": "Armenian",
         "official religion": None,
         "nominal GDP": 24219000000,
-        "HDI": 0.811,
+        "HDI": .811,
+        "PwrIndx": 2.2016,
         "ISO 3166-1": {"alpha-2": "AM", "alpha-3": "ARM", "numeric": "051"},
     },
     "Australia": {
@@ -122,7 +130,8 @@ COUNTRIES = {
         "official languages": None,
         "official religion": None,
         "nominal GDP": 1775628000000,
-        "HDI": 0.958,
+        "HDI": .958,
+        "PwrIndx": .3208,
         "ISO 3166-1": {"alpha-2": "AU", "alpha-3": "AUS", "numeric": "036"},
     },
     "Austria": {
@@ -136,7 +145,8 @@ COUNTRIES = {
         "official languages": "German",
         "official religion": None,
         "nominal GDP": 511685000000,
-        "HDI": 0.93,
+        "HDI": .93,
+        "PwrIndx": 1.3759,
         "ISO 3166-1": {"alpha-2": "AT", "alpha-3": "AUT", "numeric": "040"},
     },
     "Azerbaijan": {
@@ -150,7 +160,8 @@ COUNTRIES = {
         "official languages": "Azerbaijani",
         "official religion": None,
         "nominal GDP": 72356000000,
-        "HDI": 0.789,
+        "HDI": .789,
+        "PwrIndx": 1.1991,
         "ISO 3166-1": {"alpha-2": "AZ", "alpha-3": "AZE", "numeric": "031"},
     },
     "Bahamas": {
@@ -164,7 +175,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 14338000000,
-        "HDI": 0.82,
+        "HDI": .82,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "BS", "alpha-3": "BHS", "numeric": "044"},
     },
     "Bahrain": {
@@ -178,7 +190,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Islam",
         "nominal GDP": 44662000000,
-        "HDI": 0.899,
+        "HDI": .899,
+        "PwrIndx": 1.6731,
         "ISO 3166-1": {"alpha-2": "BH", "alpha-3": "BHR", "numeric": "048"},
     },
     "Bangladesh": {
@@ -192,7 +205,8 @@ COUNTRIES = {
         "official languages": "Bengali",
         "official religion": None,
         "nominal GDP": 422431000000,
-        "HDI": 0.685,
+        "HDI": .685,
+        "PwrIndx": .6517,
         "ISO 3166-1": {"alpha-2": "BD", "alpha-3": "BGD", "numeric": "050"},
     },
     "Barbados": {
@@ -206,7 +220,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 6721000000,
-        "HDI": 0.811,
+        "HDI": .811,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "BB", "alpha-3": "BRB", "numeric": "052"},
     },
     "Belarus": {
@@ -220,7 +235,8 @@ COUNTRIES = {
         "official languages": ["Belarusian", "Russian"],
         "official religion": None,
         "nominal GDP": 71857000000,
-        "HDI": 0.824,
+        "HDI": .824,
+        "PwrIndx": 1.4072,
         "ISO 3166-1": {"alpha-2": "BY", "alpha-3": "BLR", "numeric": "112"},
     },
     "Belgium": {
@@ -234,7 +250,8 @@ COUNTRIES = {
         "official languages": ["Dutch", "French", "German"],
         "official religion": None,
         "nominal GDP": 644783000000,
-        "HDI": 0.951,
+        "HDI": .951,
+        "PwrIndx": 1.2201,
         "ISO 3166-1": {"alpha-2": "BE", "alpha-3": "BEL", "numeric": "056"},
     },
     "Belize": {
@@ -248,7 +265,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 3079000000,
-        "HDI": 0.721,
+        "HDI": .721,
+        "PwrIndx": 4.3602,
         "ISO 3166-1": {"alpha-2": "BZ", "alpha-3": "BLZ", "numeric": "084"},
     },
     "Benin": {
@@ -262,7 +280,8 @@ COUNTRIES = {
         "official languages": "French",
         "official religion": None,
         "nominal GDP": 19673000000,
-        "HDI": 0.515,
+        "HDI": .515,
+        "PwrIndx": 3.8963,
         "ISO 3166-1": {"alpha-2": "BJ", "alpha-3": "BEN", "numeric": "204"},
     },
     "Bhutan": {
@@ -276,7 +295,8 @@ COUNTRIES = {
         "official languages": "Dzongkha",
         "official religion": "Buddhism",
         "nominal GDP": 3019000000,
-        "HDI": 0.698,
+        "HDI": .698,
+        "PwrIndx": 5.7991,
         "ISO 3166-1": {"alpha-2": "BT", "alpha-3": "BTN", "numeric": "064"},
     },
     "Bolivia": {
@@ -290,7 +310,8 @@ COUNTRIES = {
         "official languages": ["Bolivian Spanish", "Aymara", "Araona", "Baure", "Chiquitano", "Canichana", "Cavineña", "Cayubaba", "Chácobo-Pakawara", "Chimané", "Ese Ejja", "Guarani", "Warázu", "Guarayu", "Itonama", "Leco", "Kallawaya", "Yine", "Reyesano", "Mojeño-Ignaciano", "Mojeño-Trinitario", "Itene", "Mosetén", "Movima", "Pacahuara", "Puquina", "Quechuan", "Sirionó", "Tacana", "Eastern Bolivian Guaraní", "Toromono", "Uru–Chipaya", "Wichí Lhamtés Nocten", "Yaminawa", "Yuqui", "Yuracaré", "Ayoreo"],
         "official religion": None,
         "nominal GDP": 45135000000,
-        "HDI": 0.733,
+        "HDI": .733,
+        "PwrIndx": 1.8301,
         "ISO 3166-1": {"alpha-2": "BO", "alpha-3": "BOL", "numeric": "068"},
     },
     "Bosnia and Herzegovina": {
@@ -304,7 +325,8 @@ COUNTRIES = {
         "official languages": None,
         "official religion": None,
         "nominal GDP": 27515000000,
-        "HDI": 0.804,
+        "HDI": .804,
+        "PwrIndx": 3.1291,
         "ISO 3166-1": {"alpha-2": "BA", "alpha-3": "BIH", "numeric": "070"},
     },
     "Botswana": {
@@ -318,7 +340,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 19396000000,
-        "HDI": 0.731,
+        "HDI": .731,
+        "PwrIndx": 2.9993,
         "ISO 3166-1": {"alpha-2": "BW", "alpha-3": "BWA", "numeric": "072"},
     },
     "Brazil": {
@@ -332,7 +355,8 @@ COUNTRIES = {
         "official languages": "Portuguese",
         "official religion": None,
         "nominal GDP": 2191132000000,
-        "HDI": 0.786,
+        "HDI": .786,
+        "PwrIndx": .6659,
         "ISO 3166-1": {"alpha-2": "BR", "alpha-3": "BRA", "numeric": "076"},
     },
     "Brunei": {
@@ -346,7 +370,8 @@ COUNTRIES = {
         "official languages": "Brunei Malay",
         "official religion": "Sunni Islam",
         "nominal GDP": 15128000000,
-        "HDI": 0.837,
+        "HDI": .837,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "BN", "alpha-3": "BRN", "numeric": "096"},
     },
     "Bulgaria": {
@@ -360,7 +385,8 @@ COUNTRIES = {
         "official languages": "Bulgarian",
         "official religion": None,
         "nominal GDP": 102397000000,
-        "HDI": 0.845,
+        "HDI": .845,
+        "PwrIndx": 1.2522,
         "ISO 3166-1": {"alpha-2": "BG", "alpha-3": "BGR", "numeric": "100"},
     },
     "Burkina Faso": {
@@ -374,7 +400,8 @@ COUNTRIES = {
         "official languages": ["Mooré", "Bissa", "Dyula", "Fula"],
         "official religion": None,
         "nominal GDP": 20325000000,
-        "HDI": 0.459,
+        "HDI": .459,
+        "PwrIndx": 2.9213,
         "ISO 3166-1": {"alpha-2": "BF", "alpha-3": "BFA", "numeric": "854"},
     },
     "Burundi": {
@@ -388,7 +415,8 @@ COUNTRIES = {
         "official languages": ["French", "Kirundi", "English"],
         "official religion": None,
         "nominal GDP": 3960000000,
-        "HDI": 0.439,
+        "HDI": .439,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "BI", "alpha-3": "BDI", "numeric": "108"},
     },
     "Cambodia": {
@@ -402,7 +430,8 @@ COUNTRIES = {
         "official languages": "Khmer",
         "official religion": "Buddhism",
         "nominal GDP": 42824000000,
-        "HDI": 0.606,
+        "HDI": .606,
+        "PwrIndx": 1.8434,
         "ISO 3166-1": {"alpha-2": "KH", "alpha-3": "KHM", "numeric": "116"},
     },
     "Cameroon": {
@@ -416,7 +445,8 @@ COUNTRIES = {
         "official languages": ["English", "French"],
         "official religion": None,
         "nominal GDP": 49279000000,
-        "HDI": 0.588,
+        "HDI": .588,
+        "PwrIndx": 2.1689,
         "ISO 3166-1": {"alpha-2": "CM", "alpha-3": "CMR", "numeric": "120"},
     },
     "Canada": {
@@ -430,7 +460,8 @@ COUNTRIES = {
         "official languages": ["Canadian English", "Canadian French"],
         "official religion": None,
         "nominal GDP": 2142471000000,
-        "HDI": 0.939,
+        "HDI": .939,
+        "PwrIndx": .5269,
         "ISO 3166-1": {"alpha-2": "CA", "alpha-3": "CAN", "numeric": "124"},
     },
     "Cape Verde": {
@@ -444,7 +475,8 @@ COUNTRIES = {
         "official languages": "Portuguese",
         "official religion": None,
         "nominal GDP": 2591000000,
-        "HDI": 0.668,
+        "HDI": .668,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "CV", "alpha-3": "CPV", "numeric": "132"},
     },
     "Central African Republic": {
@@ -458,7 +490,8 @@ COUNTRIES = {
         "official languages": ["French", "Sango"],
         "official religion": None,
         "nominal GDP": 2555000000,
-        "HDI": 0.414,
+        "HDI": .414,
+        "PwrIndx": 4.2381,
         "ISO 3166-1": {"alpha-2": "CF", "alpha-3": "CAF", "numeric": "140"},
     },
     "Chad": {
@@ -472,7 +505,8 @@ COUNTRIES = {
         "official languages": ["Arabic", "French"],
         "official religion": None,
         "nominal GDP": 17643000000,
-        "HDI": 0.416,
+        "HDI": .416,
+        "PwrIndx": 1.8594,
         "ISO 3166-1": {"alpha-2": "TD", "alpha-3": "TCD", "numeric": "148"},
     },
     "Chile": {
@@ -486,7 +520,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 335533000000,
-        "HDI": 0.878,
+        "HDI": .878,
+        "PwrIndx": .8704,
         "ISO 3166-1": {"alpha-2": "CL", "alpha-3": "CHL", "numeric": "152"},
     },
     "China": {
@@ -500,7 +535,8 @@ COUNTRIES = {
         "official languages": "Standard Chinese",
         "official religion": "Atheism",
         "nominal GDP": 17794782000000,
-        "HDI": 0.797,
+        "HDI": .797,
+        "PwrIndx": .0919,
         "ISO 3166-1": {"alpha-2": "CN", "alpha-3": "CHN", "numeric": "156"},
     },
     "Colombia": {
@@ -514,7 +550,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 363540000000,
-        "HDI": 0.788,
+        "HDI": .788,
+        "PwrIndx": .7551,
         "ISO 3166-1": {"alpha-2": "CO", "alpha-3": "COL", "numeric": "170"},
     },
     "Comoros": {
@@ -528,7 +565,8 @@ COUNTRIES = {
         "official languages": ["Arabic", "Comorian", "French"],
         "official religion": "Sunni Islam",
         "nominal GDP": 1448000000,
-        "HDI": 0.603,
+        "HDI": .603,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "KM", "alpha-3": "COM", "numeric": "174"},
     },
     "Costa Rica": {
@@ -542,7 +580,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": "Catholicism",
         "nominal GDP": 86498000000,
-        "HDI": 0.833,
+        "HDI": .833,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "CR", "alpha-3": "CRI", "numeric": "188"},
     },
     "Croatia": {
@@ -556,7 +595,8 @@ COUNTRIES = {
         "official languages": "Croatian",
         "official religion": None,
         "nominal GDP": 84391000000,
-        "HDI": 0.889,
+        "HDI": .889,
+        "PwrIndx": 1.5432,
         "ISO 3166-1": {"alpha-2": "HR", "alpha-3": "HRV", "numeric": "191"},
     },
     "Cuba": {
@@ -570,7 +610,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 201986000000,
-        "HDI": 0.762,
+        "HDI": .762,
+        "PwrIndx": 1.3345,
         "ISO 3166-1": {"alpha-2": "CU", "alpha-3": "CUB", "numeric": "192"},
     },
     "Cyprus": {
@@ -584,7 +625,8 @@ COUNTRIES = {
         "official languages": ["Greek", "Turkish"],
         "official religion": None,
         "nominal GDP": 33887000000,
-        "HDI": 0.913,
+        "HDI": .913,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "CY", "alpha-3": "CYP", "numeric": "196"},
     },
     "Czech Republic": {
@@ -598,7 +640,8 @@ COUNTRIES = {
         "official languages": "Czech",
         "official religion": None,
         "nominal GDP": 343208000000,
-        "HDI": 0.915,
+        "HDI": .915,
+        "PwrIndx": 1.0313,
         "ISO 3166-1": {"alpha-2": "CZ", "alpha-3": "CZE", "numeric": "203"},
     },
     "Democratic Republic of the Congo": {
@@ -612,7 +655,8 @@ COUNTRIES = {
         "official languages": "French",
         "official religion": None,
         "nominal GDP": 69338000000,
-        "HDI": 0.522,
+        "HDI": .522,
+        "PwrIndx": 1.3051,
         "ISO 3166-1": {"alpha-2": "CD", "alpha-3": "COD", "numeric": "180"},
     },
     "Denmark": {
@@ -626,7 +670,8 @@ COUNTRIES = {
         "official languages": "Danish",
         "official religion": "Protestantism",
         "nominal GDP": 407092000000,
-        "HDI": 0.962,
+        "HDI": .962,
+        "PwrIndx": .8198,
         "ISO 3166-1": {"alpha-2": "DK", "alpha-3": "DNK", "numeric": "208"},
     },
     "Djibouti": {
@@ -640,7 +685,8 @@ COUNTRIES = {
         "official languages": ["Arabic", "French"],
         "official religion": None,
         "nominal GDP": 4000000000,
-        "HDI": 0.513,
+        "HDI": .513,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "DJ", "alpha-3": "DJI", "numeric": "262"},
     },
     "Dominica": {
@@ -654,7 +700,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 651000000,
-        "HDI": 0.761,
+        "HDI": .761,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "DM", "alpha-3": "DMA", "numeric": "212"},
     },
     "Dominican Republic": {
@@ -668,7 +715,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 121444000000,
-        "HDI": 0.776,
+        "HDI": .776,
+        "PwrIndx": 2.5853,
         "ISO 3166-1": {"alpha-2": "DO", "alpha-3": "DOM", "numeric": "214"},
     },
     "Ecuador": {
@@ -682,7 +730,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 118845000000,
-        "HDI": 0.777,
+        "HDI": .777,
+        "PwrIndx": 1.4479,
         "ISO 3166-1": {"alpha-2": "EC", "alpha-3": "ECU", "numeric": "218"},
     },
     "Egypt": {
@@ -696,7 +745,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Islam",
         "nominal GDP": 331590000000,
-        "HDI": 0.754,
+        "HDI": .754,
+        "PwrIndx": .3651,
         "ISO 3166-1": {"alpha-2": "EG", "alpha-3": "EGY", "numeric": "818"},
     },
     "El Salvador": {
@@ -710,7 +760,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 34016000000,
-        "HDI": 0.678,
+        "HDI": .678,
+        "PwrIndx": 2.9973,
         "ISO 3166-1": {"alpha-2": "SV", "alpha-3": "SLV", "numeric": "222"},
     },
     "Equatorial Guinea": {
@@ -724,7 +775,8 @@ COUNTRIES = {
         "official languages": ["French", "Portuguese", "Spanish"],
         "official religion": None,
         "nominal GDP": 12117000000,
-        "HDI": 0.674,
+        "HDI": .674,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "GQ", "alpha-3": "GNQ", "numeric": "226"},
     },
     "Eritrea": {
@@ -738,7 +790,8 @@ COUNTRIES = {
         "official languages": "Tigrinya",
         "official religion": None,
         "nominal GDP": 2275000000,
-        "HDI": 0.503,
+        "HDI": .503,
+        "PwrIndx": 2.6841,
         "ISO 3166-1": {"alpha-2": "ER", "alpha-3": "ERI", "numeric": "232"},
     },
     "Estonia": {
@@ -752,7 +805,8 @@ COUNTRIES = {
         "official languages": "Estonian",
         "official religion": None,
         "nominal GDP": 41291000000,
-        "HDI": 0.905,
+        "HDI": .905,
+        "PwrIndx": 2.3201,
         "ISO 3166-1": {"alpha-2": "EE", "alpha-3": "EST", "numeric": "233"},
     },
     "Eswatini": {
@@ -766,7 +820,8 @@ COUNTRIES = {
         "official languages": ["English", "Swazi"],
         "official religion": None,
         "nominal GDP": 4574000000,
-        "HDI": 0.695,
+        "HDI": .695,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "SZ", "alpha-3": "SWZ", "numeric": "748"},
     },
     "Ethiopia": {
@@ -780,7 +835,8 @@ COUNTRIES = {
         "official languages": ["Afar", "Amharic", "Oromo", "Somali", "Tigrinya"],
         "official religion": None,
         "nominal GDP": 159746000000,
-        "HDI": 0.497,
+        "HDI": .497,
+        "PwrIndx": .8525,
         "ISO 3166-1": {"alpha-2": "ET", "alpha-3": "ETH", "numeric": "231"},
     },
     "Fiji": {
@@ -794,7 +850,8 @@ COUNTRIES = {
         "official languages": ["English", "Fijian", "Fiji Hindi"],
         "official religion": None,
         "nominal GDP": 5442000000,
-        "HDI": 0.731,
+        "HDI": .731,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "FJ", "alpha-3": "FJI", "numeric": "242"},
     },
     "Finland": {
@@ -808,7 +865,8 @@ COUNTRIES = {
         "official languages": ["Finnish", "Swedish"],
         "official religion": None,
         "nominal GDP": 295532000000,
-        "HDI": 0.948,
+        "HDI": .948,
+        "PwrIndx": .8673,
         "ISO 3166-1": {"alpha-2": "FI", "alpha-3": "FIN", "numeric": "246"},
     },
     "France": {
@@ -822,7 +880,8 @@ COUNTRIES = {
         "official languages": "French",
         "official religion": None,
         "nominal GDP": 3051832000000,
-        "HDI": 0.92,
+        "HDI": .92,
+        "PwrIndx": .1798,
         "ISO 3166-1": {"alpha-2": "FR", "alpha-3": "FRA", "numeric": "250"},
     },
     "Gabon": {
@@ -836,7 +895,8 @@ COUNTRIES = {
         "official languages": "French",
         "official religion": None,
         "nominal GDP": 20056000000,
-        "HDI": 0.733,
+        "HDI": .733,
+        "PwrIndx": 3.0432,
         "ISO 3166-1": {"alpha-2": "GA", "alpha-3": "GAB", "numeric": "266"},
     },
     "Gambia": {
@@ -850,7 +910,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 2401000000,
-        "HDI": 0.524,
+        "HDI": .524,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "GM", "alpha-3": "GMB", "numeric": "270"},
     },
     "Georgia": {
@@ -864,7 +925,8 @@ COUNTRIES = {
         "official languages": "Georgian",
         "official religion": None,
         "nominal GDP": 30536000000,
-        "HDI": 0.844,
+        "HDI": .844,
+        "PwrIndx": 2.0779,
         "ISO 3166-1": {"alpha-2": "GE", "alpha-3": "GEO", "numeric": "268"},
     },
     "Germany": {
@@ -878,7 +940,8 @@ COUNTRIES = {
         "official languages": "German",
         "official religion": None,
         "nominal GDP": 4525704000000,
-        "HDI": 0.959,
+        "HDI": .959,
+        "PwrIndx": .2463,
         "ISO 3166-1": {"alpha-2": "DE", "alpha-3": "DEU", "numeric": "276"},
     },
     "Ghana": {
@@ -892,7 +955,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 76370000000,
-        "HDI": 0.628,
+        "HDI": .628,
+        "PwrIndx": 2.4566,
         "ISO 3166-1": {"alpha-2": "GH", "alpha-3": "GHA", "numeric": "288"},
     },
     "Greece": {
@@ -906,7 +970,8 @@ COUNTRIES = {
         "official languages": "Greek",
         "official religion": "Eastern Orthodoxy",
         "nominal GDP": 243498000000,
-        "HDI": 0.908,
+        "HDI": .908,
+        "PwrIndx": .5484,
         "ISO 3166-1": {"alpha-2": "GR", "alpha-3": "GRC", "numeric": "300"},
     },
     "Grenada": {
@@ -920,7 +985,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 1317000000,
-        "HDI": 0.791,
+        "HDI": .791,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "GD", "alpha-3": "GRD", "numeric": "308"},
     },
     "Guatemala": {
@@ -934,7 +1000,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 104451000000,
-        "HDI": 0.662,
+        "HDI": .662,
+        "PwrIndx": 2.1277,
         "ISO 3166-1": {"alpha-2": "GT", "alpha-3": "GTM", "numeric": "320"},
     },
     "Guinea": {
@@ -948,7 +1015,8 @@ COUNTRIES = {
         "official languages": "French",
         "official religion": None,
         "nominal GDP": 23006000000,
-        "HDI": 0.5,
+        "HDI": .5,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "GN", "alpha-3": "GIN", "numeric": "324"},
     },
     "Guinea-Bissau": {
@@ -962,7 +1030,8 @@ COUNTRIES = {
         "official languages": "Portuguese",
         "official religion": None,
         "nominal GDP": 1841000000,
-        "HDI": 0.514,
+        "HDI": .514,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "GW", "alpha-3": "GNB", "numeric": "624"},
     },
     "Guyana": {
@@ -976,7 +1045,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 16683000000,
-        "HDI": 0.776,
+        "HDI": .776,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "GY", "alpha-3": "GUY", "numeric": "328"},
     },
     "Haiti": {
@@ -990,7 +1060,8 @@ COUNTRIES = {
         "official languages": ["French", "Haitian Creole"],
         "official religion": None,
         "nominal GDP": 19841000000,
-        "HDI": 0.554,
+        "HDI": .554,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "HT", "alpha-3": "HTI", "numeric": "332"},
     },
     "Honduras": {
@@ -1004,7 +1075,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 34401000000,
-        "HDI": 0.645,
+        "HDI": .645,
+        "PwrIndx": 2.2575,
         "ISO 3166-1": {"alpha-2": "HN", "alpha-3": "HND", "numeric": "340"},
     },
     "Hungary": {
@@ -1018,7 +1090,8 @@ COUNTRIES = {
         "official languages": "Hungarian",
         "official religion": None,
         "nominal GDP": 212657000000,
-        "HDI": 0.87,
+        "HDI": .87,
+        "PwrIndx": 1.0429,
         "ISO 3166-1": {"alpha-2": "HU", "alpha-3": "HUN", "numeric": "348"},
     },
     "Iceland": {
@@ -1032,7 +1105,8 @@ COUNTRIES = {
         "official languages": ["Icelandic", "Icelandic Sign Language"],
         "official religion": "Protestantism",
         "nominal GDP": 31325000000,
-        "HDI": 0.972,
+        "HDI": .972,
+        "PwrIndx": 3.4013,
         "ISO 3166-1": {"alpha-2": "IS", "alpha-3": "ISL", "numeric": "352"},
     },
     "India": {
@@ -1046,7 +1120,8 @@ COUNTRIES = {
         "official languages": ["Hindi", "English"],
         "official religion": None,
         "nominal GDP": 3575778000000,
-        "HDI": 0.685,
+        "HDI": .685,
+        "PwrIndx": .1346,
         "ISO 3166-1": {"alpha-2": "IN", "alpha-3": "IND", "numeric": "356"},
     },
     "Indonesia": {
@@ -1060,7 +1135,8 @@ COUNTRIES = {
         "official languages": "Indonesian",
         "official religion": None,
         "nominal GDP": 1371171000000,
-        "HDI": 0.728,
+        "HDI": .728,
+        "PwrIndx": .2582,
         "ISO 3166-1": {"alpha-2": "ID", "alpha-3": "IDN", "numeric": "360"},
     },
     "Iran": {
@@ -1074,7 +1150,8 @@ COUNTRIES = {
         "official languages": "Persian",
         "official religion": "Shia Islam",
         "nominal GDP": 401596000000,
-        "HDI": 0.799,
+        "HDI": .799,
+        "PwrIndx": .3199,
         "ISO 3166-1": {"alpha-2": "IR", "alpha-3": "IRN", "numeric": "364"},
     },
     "Iraq": {
@@ -1088,7 +1165,8 @@ COUNTRIES = {
         "official languages": ["Arabic", "Kurdish"],
         "official religion": None,
         "nominal GDP": 232107000000,
-        "HDI": 0.695,
+        "HDI": .695,
+        "PwrIndx": .8115,
         "ISO 3166-1": {"alpha-2": "IQ", "alpha-3": "IRQ", "numeric": "368"},
     },
     "Ireland": {
@@ -1102,7 +1180,8 @@ COUNTRIES = {
         "official languages": ["Irish", "Hiberno-English"],
         "official religion": None,
         "nominal GDP": 551395000000,
-        "HDI": 0.949,
+        "HDI": .949,
+        "PwrIndx": 2.0661,
         "ISO 3166-1": {"alpha-2": "IE", "alpha-3": "IRL", "numeric": "372"},
     },
     "Israel": {
@@ -1116,7 +1195,8 @@ COUNTRIES = {
         "official languages": "Hebrew",
         "official religion": None,
         "nominal GDP": 513611000000,
-        "HDI": 0.919,
+        "HDI": .919,
+        "PwrIndx": .2707,
         "ISO 3166-1": {"alpha-2": "IL", "alpha-3": "ISR", "numeric": "376"},
     },
     "Italy": {
@@ -1130,7 +1210,8 @@ COUNTRIES = {
         "official languages": "Italian",
         "official religion": None,
         "nominal GDP": 2300941000000,
-        "HDI": 0.915,
+        "HDI": .915,
+        "PwrIndx": .2211,
         "ISO 3166-1": {"alpha-2": "IT", "alpha-3": "ITA", "numeric": "380"},
     },
     "Ivory Coast": {
@@ -1144,7 +1225,8 @@ COUNTRIES = {
         "official languages": "French",
         "official religion": None,
         "nominal GDP": 78789000000,
-        "HDI": 0.582,
+        "HDI": .582,
+        "PwrIndx": 2.3884,
         "ISO 3166-1": {"alpha-2": "CI", "alpha-3": "CIV", "numeric": "384"},
     },
     "Jamaica": {
@@ -1158,7 +1240,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 19423000000,
-        "HDI": 0.72,
+        "HDI": .72,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "JM", "alpha-3": "JAM", "numeric": "388"},
     },
     "Japan": {
@@ -1172,7 +1255,8 @@ COUNTRIES = {
         "official languages": None,
         "official religion": None,
         "nominal GDP": 4204495000000,
-        "HDI": 0.925,
+        "HDI": .925,
+        "PwrIndx": .1876,
         "ISO 3166-1": {"alpha-2": "JP", "alpha-3": "JPN", "numeric": "392"},
     },
     "Jordan": {
@@ -1186,7 +1270,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Islam",
         "nominal GDP": 50814000000,
-        "HDI": 0.754,
+        "HDI": .754,
+        "PwrIndx": 1.5581,
         "ISO 3166-1": {"alpha-2": "JO", "alpha-3": "JOR", "numeric": "400"},
     },
     "Kazakhstan": {
@@ -1200,7 +1285,8 @@ COUNTRIES = {
         "official languages": ["Kazakh", "Russian"],
         "official religion": None,
         "nominal GDP": 264293000000,
-        "HDI": 0.837,
+        "HDI": .837,
+        "PwrIndx": 1.0433,
         "ISO 3166-1": {"alpha-2": "KZ", "alpha-3": "KAZ", "numeric": "398"},
     },
     "Kenya": {
@@ -1214,7 +1300,8 @@ COUNTRIES = {
         "official languages": ["English", "Swahili"],
         "official religion": None,
         "nominal GDP": 108039000000,
-        "HDI": 0.628,
+        "HDI": .628,
+        "PwrIndx": 1.8588,
         "ISO 3166-1": {"alpha-2": "KE", "alpha-3": "KEN", "numeric": "404"},
     },
     "Kiribati": {
@@ -1228,7 +1315,8 @@ COUNTRIES = {
         "official languages": ["English", "Gilbertese"],
         "official religion": None,
         "nominal GDP": 289000000,
-        "HDI": 0.644,
+        "HDI": .644,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "KI", "alpha-3": "KIR", "numeric": "296"},
     },
     "Kuwait": {
@@ -1242,7 +1330,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Islam",
         "nominal GDP": 163705000000,
-        "HDI": 0.852,
+        "HDI": .852,
+        "PwrIndx": 1.7161,
         "ISO 3166-1": {"alpha-2": "KW", "alpha-3": "KWT", "numeric": "414"},
     },
     "Kyrgyzstan": {
@@ -1256,7 +1345,8 @@ COUNTRIES = {
         "official languages": ["Kyrgyz", "Russian"],
         "official religion": None,
         "nominal GDP": 13988000000,
-        "HDI": 0.72,
+        "HDI": .72,
+        "PwrIndx": 2.3969,
         "ISO 3166-1": {"alpha-2": "KG", "alpha-3": "KGZ", "numeric": "417"},
     },
     "Laos": {
@@ -1270,7 +1360,8 @@ COUNTRIES = {
         "official languages": "Lao",
         "official religion": None,
         "nominal GDP": 15008000000,
-        "HDI": 0.617,
+        "HDI": .617,
+        "PwrIndx": 2.8672,
         "ISO 3166-1": {"alpha-2": "LA", "alpha-3": "LAO", "numeric": "418"},
     },
     "Latvia": {
@@ -1284,7 +1375,8 @@ COUNTRIES = {
         "official languages": "Latvian",
         "official religion": None,
         "nominal GDP": 42248000000,
-        "HDI": 0.889,
+        "HDI": .889,
+        "PwrIndx": 2.2316,
         "ISO 3166-1": {"alpha-2": "LV", "alpha-3": "LVA", "numeric": "428"},
     },
     "Lebanon": {
@@ -1298,7 +1390,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": None,
         "nominal GDP": 27464000000,
-        "HDI": 0.752,
+        "HDI": .752,
+        "PwrIndx": 2.6521,
         "ISO 3166-1": {"alpha-2": "LB", "alpha-3": "LBN", "numeric": "422"},
     },
     "Lesotho": {
@@ -1312,7 +1405,8 @@ COUNTRIES = {
         "official languages": ["Sotho", "English"],
         "official religion": None,
         "nominal GDP": 2118000000,
-        "HDI": 0.55,
+        "HDI": .55,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "LS", "alpha-3": "LSO", "numeric": "426"},
     },
     "Liberia": {
@@ -1326,7 +1420,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 5039000000,
-        "HDI": 0.51,
+        "HDI": .51,
+        "PwrIndx": 3.9275,
         "ISO 3166-1": {"alpha-2": "LR", "alpha-3": "LBR", "numeric": "430"},
     },
     "Libya": {
@@ -1340,7 +1435,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Islam",
         "nominal GDP": 44030000000,
-        "HDI": 0.721,
+        "HDI": .721,
+        "PwrIndx": 1.7872,
         "ISO 3166-1": {"alpha-2": "LY", "alpha-3": "LBY", "numeric": "434"},
     },
     "Liechtenstein": {
@@ -1354,7 +1450,8 @@ COUNTRIES = {
         "official languages": "German",
         "official religion": "Catholicism",
         "nominal GDP": 7965000000,
-        "HDI": 0.938,
+        "HDI": .938,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "LI", "alpha-3": "LIE", "numeric": "438"},
     },
     "Lithuania": {
@@ -1368,7 +1465,8 @@ COUNTRIES = {
         "official languages": "Lithuanian",
         "official religion": None,
         "nominal GDP": 79790000000,
-        "HDI": 0.895,
+        "HDI": .895,
+        "PwrIndx": 1.8949,
         "ISO 3166-1": {"alpha-2": "LT", "alpha-3": "LTU", "numeric": "440"},
     },
     "Luxembourg": {
@@ -1382,7 +1480,8 @@ COUNTRIES = {
         "official languages": ["French", "German", "Luxembourgish"],
         "official religion": None,
         "nominal GDP": 85755000000,
-        "HDI": 0.922,
+        "HDI": .922,
+        "PwrIndx": 2.4429,
         "ISO 3166-1": {"alpha-2": "LU", "alpha-3": "LUX", "numeric": "442"},
     },
     "Madagascar": {
@@ -1396,7 +1495,8 @@ COUNTRIES = {
         "official languages": ["French", "Malagasy"],
         "official religion": None,
         "nominal GDP": 15870000000,
-        "HDI": 0.487,
+        "HDI": .487,
+        "PwrIndx": 3.0381,
         "ISO 3166-1": {"alpha-2": "MG", "alpha-3": "MDG", "numeric": "450"},
     },
     "Malawi": {
@@ -1410,7 +1510,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 12627000000,
-        "HDI": 0.517,
+        "HDI": .517,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "MW", "alpha-3": "MWI", "numeric": "454"},
     },
     "Malaysia": {
@@ -1424,7 +1525,8 @@ COUNTRIES = {
         "official languages": "Malaysian Malay",
         "official religion": "Sunni Islam",
         "nominal GDP": 399649000000,
-        "HDI": 0.819,
+        "HDI": .819,
+        "PwrIndx": .7379,
         "ISO 3166-1": {"alpha-2": "MY", "alpha-3": "MYS", "numeric": "458"},
     },
     "Maldives": {
@@ -1438,7 +1540,8 @@ COUNTRIES = {
         "official languages": "Maldivian",
         "official religion": "Sunni Islam",
         "nominal GDP": 6591000000,
-        "HDI": 0.766,
+        "HDI": .766,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "MV", "alpha-3": "MDV", "numeric": "462"},
     },
     "Mali": {
@@ -1452,7 +1555,8 @@ COUNTRIES = {
         "official languages": ["Bambara", "Bobo", "Bozo", "Dogon", "Fula", "Hassaniya", "Kassonke", "Maninka", "Minyaka", "Senufo", "Songhay languages", "Soninke", "Tamasheq"],
         "official religion": None,
         "nominal GDP": 20662000000,
-        "HDI": 0.419,
+        "HDI": .419,
+        "PwrIndx": 2.2598,
         "ISO 3166-1": {"alpha-2": "ML", "alpha-3": "MLI", "numeric": "466"},
     },
     "Malta": {
@@ -1466,7 +1570,8 @@ COUNTRIES = {
         "official languages": ["Maltese", "English"],
         "official religion": "Catholicism",
         "nominal GDP": 22212000000,
-        "HDI": 0.924,
+        "HDI": .924,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "MT", "alpha-3": "MLT", "numeric": "470"},
     },
     "Marshall Islands": {
@@ -1480,7 +1585,8 @@ COUNTRIES = {
         "official languages": ["English", "Marshallese"],
         "official religion": None,
         "nominal GDP": 270000000,
-        "HDI": 0.733,
+        "HDI": .733,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "MH", "alpha-3": "MHL", "numeric": "584"},
     },
     "Mauritania": {
@@ -1494,7 +1600,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Sunni Islam",
         "nominal GDP": 10652000000,
-        "HDI": 0.563,
+        "HDI": .563,
+        "PwrIndx": 2.7919,
         "ISO 3166-1": {"alpha-2": "MR", "alpha-3": "MRT", "numeric": "478"},
     },
     "Mauritius": {
@@ -1508,7 +1615,8 @@ COUNTRIES = {
         "official languages": None,
         "official religion": None,
         "nominal GDP": 14397000000,
-        "HDI": 0.806,
+        "HDI": .806,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "MU", "alpha-3": "MUS", "numeric": "480"},
     },
     "Mexico": {
@@ -1522,7 +1630,8 @@ COUNTRIES = {
         "official languages": None,
         "official religion": None,
         "nominal GDP": 1793799000000,
-        "HDI": 0.789,
+        "HDI": .789,
+        "PwrIndx": .6401,
         "ISO 3166-1": {"alpha-2": "MX", "alpha-3": "MEX", "numeric": "484"},
     },
     "Micronesia": {
@@ -1536,7 +1645,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 460000000,
-        "HDI": 0.615,
+        "HDI": .615,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "FM", "alpha-3": "FSM", "numeric": "583"},
     },
     "Moldova": {
@@ -1550,7 +1660,8 @@ COUNTRIES = {
         "official languages": "Romanian",
         "official religion": None,
         "nominal GDP": 16542000000,
-        "HDI": 0.785,
+        "HDI": .785,
+        "PwrIndx": 3.6225,
         "ISO 3166-1": {"alpha-2": "MD", "alpha-3": "MDA", "numeric": "498"},
     },
     "Monaco": {
@@ -1565,6 +1676,7 @@ COUNTRIES = {
         "official religion": "Catholicism",
         "nominal GDP": 9995000000,
         "HDI": None,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "MC", "alpha-3": "MCO", "numeric": "492"},
     },
     "Mongolia": {
@@ -1578,7 +1690,8 @@ COUNTRIES = {
         "official languages": "Mongolian",
         "official religion": None,
         "nominal GDP": 19872000000,
-        "HDI": 0.747,
+        "HDI": .747,
+        "PwrIndx": 1.9987,
         "ISO 3166-1": {"alpha-2": "MN", "alpha-3": "MNG", "numeric": "496"},
     },
     "Montenegro": {
@@ -1592,7 +1705,8 @@ COUNTRIES = {
         "official languages": "Montenegrin",
         "official religion": None,
         "nominal GDP": 7530000000,
-        "HDI": 0.862,
+        "HDI": .862,
+        "PwrIndx": 2.9782,
         "ISO 3166-1": {"alpha-2": "ME", "alpha-3": "MNE", "numeric": "499"},
     },
     "Morocco": {
@@ -1606,7 +1720,8 @@ COUNTRIES = {
         "official languages": ["Arabic", "Berber languages"],
         "official religion": "Islam",
         "nominal GDP": 144438000000,
-        "HDI": 0.71,
+        "HDI": .71,
+        "PwrIndx": 1.0368,
         "ISO 3166-1": {"alpha-2": "MA", "alpha-3": "MAR", "numeric": "504"},
     },
     "Mozambique": {
@@ -1620,7 +1735,8 @@ COUNTRIES = {
         "official languages": "Portuguese",
         "official religion": None,
         "nominal GDP": 20954000000,
-        "HDI": 0.493,
+        "HDI": .493,
+        "PwrIndx": 1.9769,
         "ISO 3166-1": {"alpha-2": "MZ", "alpha-3": "MOZ", "numeric": "508"},
     },
     "Myanmar": {
@@ -1634,7 +1750,8 @@ COUNTRIES = {
         "official languages": "Burmese",
         "official religion": "Buddhism",
         "nominal GDP": 62084000000,
-        "HDI": 0.609,
+        "HDI": .609,
+        "PwrIndx": .6265,
         "ISO 3166-1": {"alpha-2": "MM", "alpha-3": "MMR", "numeric": "104"},
     },
     "Namibia": {
@@ -1648,7 +1765,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 12351000000,
-        "HDI": 0.665,
+        "HDI": .665,
+        "PwrIndx": 2.7414,
         "ISO 3166-1": {"alpha-2": "NA", "alpha-3": "NAM", "numeric": "516"},
     },
     "Nauru": {
@@ -1662,7 +1780,8 @@ COUNTRIES = {
         "official languages": ["English", "Nauruan"],
         "official religion": None,
         "nominal GDP": 176000000,
-        "HDI": 0.703,
+        "HDI": .703,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "NR", "alpha-3": "NRU", "numeric": "520"},
     },
     "Nepal": {
@@ -1676,7 +1795,8 @@ COUNTRIES = {
         "official languages": "Nepali",
         "official religion": None,
         "nominal GDP": 40484000000,
-        "HDI": 0.622,
+        "HDI": .622,
+        "PwrIndx": 2.8037,
         "ISO 3166-1": {"alpha-2": "NP", "alpha-3": "NPL", "numeric": "524"},
     },
     "Netherlands": {
@@ -1690,7 +1810,8 @@ COUNTRIES = {
         "official languages": "Dutch",
         "official religion": None,
         "nominal GDP": 1154361000000,
-        "HDI": 0.955,
+        "HDI": .955,
+        "PwrIndx": .6142,
         "ISO 3166-1": {"alpha-2": "NL", "alpha-3": "NLD", "numeric": "528"},
     },
     "New Zealand": {
@@ -1704,7 +1825,8 @@ COUNTRIES = {
         "official languages": ["Māori", "New Zealand Sign Language"],
         "official religion": None,
         "nominal GDP": 252176000000,
-        "HDI": 0.938,
+        "HDI": .938,
+        "PwrIndx": 1.9258,
         "ISO 3166-1": {"alpha-2": "NZ", "alpha-3": "NZL", "numeric": "554"},
     },
     "Nicaragua": {
@@ -1718,7 +1840,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 17829000000,
-        "HDI": 0.706,
+        "HDI": .706,
+        "PwrIndx": 2.5894,
         "ISO 3166-1": {"alpha-2": "NI", "alpha-3": "NIC", "numeric": "558"},
     },
     "Niger": {
@@ -1732,7 +1855,8 @@ COUNTRIES = {
         "official languages": "Hausa",
         "official religion": None,
         "nominal GDP": 16819000000,
-        "HDI": 0.419,
+        "HDI": .419,
+        "PwrIndx": 2.6867,
         "ISO 3166-1": {"alpha-2": "NE", "alpha-3": "NER", "numeric": "562"},
     },
     "Nigeria": {
@@ -1746,7 +1870,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 374984000000,
-        "HDI": 0.56,
+        "HDI": .56,
+        "PwrIndx": .6097,
         "ISO 3166-1": {"alpha-2": "NG", "alpha-3": "NGA", "numeric": "566"},
     },
     "North Korea": {
@@ -1761,6 +1886,7 @@ COUNTRIES = {
         "official religion": "Atheism",
         "nominal GDP": 16447000000,
         "HDI": None,
+        "PwrIndx": .5933,
         "ISO 3166-1": {"alpha-2": "KP", "alpha-3": "PRK", "numeric": "408"},
     },
     "North Macedonia": {
@@ -1774,7 +1900,8 @@ COUNTRIES = {
         "official languages": ["Macedonian", "Albanian"],
         "official religion": None,
         "nominal GDP": 15764000000,
-        "HDI": 0.815,
+        "HDI": .815,
+        "PwrIndx": 2.4956,
         "ISO 3166-1": {"alpha-2": "MK", "alpha-3": "MKD", "numeric": "807"},
     },
     "Norway": {
@@ -1788,7 +1915,8 @@ COUNTRIES = {
         "official languages": ["Norwegian", "Sámi languages"],
         "official religion": None,
         "nominal GDP": 485311000000,
-        "HDI": 0.97,
+        "HDI": .97,
+        "PwrIndx": .6679,
         "ISO 3166-1": {"alpha-2": "NO", "alpha-3": "NOR", "numeric": "578"},
     },
     "Oman": {
@@ -1802,7 +1930,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Islam",
         "nominal GDP": 105896000000,
-        "HDI": 0.858,
+        "HDI": .858,
+        "PwrIndx": 1.8823,
         "ISO 3166-1": {"alpha-2": "OM", "alpha-3": "OMN", "numeric": "512"},
     },
     "Pakistan": {
@@ -1816,7 +1945,8 @@ COUNTRIES = {
         "official languages": ["Urdu", "English"],
         "official religion": "Islam",
         "nominal GDP": 299864000000,
-        "HDI": 0.544,
+        "HDI": .544,
+        "PwrIndx": .2626,
         "ISO 3166-1": {"alpha-2": "PK", "alpha-3": "PAK", "numeric": "586"},
     },
     "Palau": {
@@ -1830,7 +1960,8 @@ COUNTRIES = {
         "official languages": ["English", "Palauan"],
         "official religion": None,
         "nominal GDP": 282000000,
-        "HDI": 0.786,
+        "HDI": .786,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "PW", "alpha-3": "PLW", "numeric": "585"},
     },
     "Palestine": {
@@ -1844,7 +1975,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Islam",
         "nominal GDP": 17396000000,
-        "HDI": 0.674,
+        "HDI": .674,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "PS", "alpha-3": "PSE", "numeric": "275"},
     },
     "Panama": {
@@ -1858,7 +1990,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 83382000000,
-        "HDI": 0.839,
+        "HDI": .839,
+        "PwrIndx": 3.5011,
         "ISO 3166-1": {"alpha-2": "PA", "alpha-3": "PAN", "numeric": "591"},
     },
     "Papua New Guinea": {
@@ -1872,7 +2005,8 @@ COUNTRIES = {
         "official languages": ["English", "Hiri Motu", "Papua New Guinean Sign Language", "Tok Pisin"],
         "official religion": "Christianity",
         "nominal GDP": 31020000000,
-        "HDI": 0.576,
+        "HDI": .576,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "PG", "alpha-3": "PNG", "numeric": "598"},
     },
     "Paraguay": {
@@ -1886,7 +2020,8 @@ COUNTRIES = {
         "official languages": ["Spanish", "Guaraní"],
         "official religion": None,
         "nominal GDP": 42955000000,
-        "HDI": 0.756,
+        "HDI": .756,
+        "PwrIndx": 1.7974,
         "ISO 3166-1": {"alpha-2": "PY", "alpha-3": "PRY", "numeric": "600"},
     },
     "Peru": {
@@ -1900,7 +2035,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 267603000000,
-        "HDI": 0.794,
+        "HDI": .794,
+        "PwrIndx": .8827,
         "ISO 3166-1": {"alpha-2": "PE", "alpha-3": "PER", "numeric": "604"},
     },
     "Philippines": {
@@ -1914,7 +2050,8 @@ COUNTRIES = {
         "official languages": ["Filipino", "English"],
         "official religion": None,
         "nominal GDP": 437146000000,
-        "HDI": 0.72,
+        "HDI": .72,
+        "PwrIndx": .6993,
         "ISO 3166-1": {"alpha-2": "PH", "alpha-3": "PHL", "numeric": "608"},
     },
     "Poland": {
@@ -1928,7 +2065,8 @@ COUNTRIES = {
         "official languages": "Polish",
         "official religion": None,
         "nominal GDP": 809201000000,
-        "HDI": 0.906,
+        "HDI": .906,
+        "PwrIndx": .3891,
         "ISO 3166-1": {"alpha-2": "PL", "alpha-3": "POL", "numeric": "616"},
     },
     "Portugal": {
@@ -1942,7 +2080,8 @@ COUNTRIES = {
         "official languages": "Portuguese",
         "official religion": None,
         "nominal GDP": 289114000000,
-        "HDI": 0.89,
+        "HDI": .89,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "PT", "alpha-3": "PRT", "numeric": "620"},
     },
     "Qatar": {
@@ -1956,7 +2095,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Islam",
         "nominal GDP": 213003000000,
-        "HDI": 0.886,
+        "HDI": .886,
+        "PwrIndx": 1.4096,
         "ISO 3166-1": {"alpha-2": "QA", "alpha-3": "QAT", "numeric": "634"},
     },
     "Republic of the Congo": {
@@ -1970,7 +2110,8 @@ COUNTRIES = {
         "official languages": "French",
         "official religion": None,
         "nominal GDP": 14167000000,
-        "HDI": 0.649,
+        "HDI": .649,
+        "PwrIndx": 2.6259,
         "ISO 3166-1": {"alpha-2": "CG", "alpha-3": "COG", "numeric": "178"},
     },
     "Romania": {
@@ -1984,7 +2125,8 @@ COUNTRIES = {
         "official languages": "Romanian",
         "official religion": None,
         "nominal GDP": 350776000000,
-        "HDI": 0.845,
+        "HDI": .845,
+        "PwrIndx": .9558,
         "ISO 3166-1": {"alpha-2": "RO", "alpha-3": "ROU", "numeric": "642"},
     },
     "Russia": {
@@ -1998,7 +2140,8 @@ COUNTRIES = {
         "official languages": "Russian",
         "official religion": None,
         "nominal GDP": 2008419000000,
-        "HDI": 0.832,
+        "HDI": .832,
+        "PwrIndx": .0791,
         "ISO 3166-1": {"alpha-2": "RU", "alpha-3": "RUS", "numeric": "643"},
     },
     "Rwanda": {
@@ -2012,7 +2155,8 @@ COUNTRIES = {
         "official languages": ["English", "French", "Kinyarwanda", "Swahili"],
         "official religion": None,
         "nominal GDP": 14097000000,
-        "HDI": 0.578,
+        "HDI": .578,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "RW", "alpha-3": "RWA", "numeric": "646"},
     },
     "Saint Kitts and Nevis": {
@@ -2026,7 +2170,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 1058000000,
-        "HDI": 0.84,
+        "HDI": .84,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "KN", "alpha-3": "KNA", "numeric": "659"},
     },
     "Saint Lucia": {
@@ -2040,7 +2185,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 2430000000,
-        "HDI": 0.748,
+        "HDI": .748,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "LC", "alpha-3": "LCA", "numeric": "662"},
     },
     "Saint Vincent and the Grenadines": {
@@ -2054,7 +2200,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 1091000000,
-        "HDI": 0.798,
+        "HDI": .798,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "VC", "alpha-3": "VCT", "numeric": "670"},
     },
     "Samoa": {
@@ -2068,7 +2215,8 @@ COUNTRIES = {
         "official languages": ["English", "Samoan"],
         "official religion": "Christianity",
         "nominal GDP": 1032000000,
-        "HDI": 0.708,
+        "HDI": .708,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "WS", "alpha-3": "WSM", "numeric": "882"},
     },
     "San Marino": {
@@ -2082,7 +2230,8 @@ COUNTRIES = {
         "official languages": "Italian",
         "official religion": None,
         "nominal GDP": 1987000000,
-        "HDI": 0.915,
+        "HDI": .915,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "SM", "alpha-3": "SMR", "numeric": "674"},
     },
     "Saudi Arabia": {
@@ -2096,7 +2245,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Sunni Islam",
         "nominal GDP": 1067583000000,
-        "HDI": 0.9,
+        "HDI": .9,
+        "PwrIndx": .4473,
         "ISO 3166-1": {"alpha-2": "SA", "alpha-3": "SAU", "numeric": "682"},
     },
     "Senegal": {
@@ -2110,7 +2260,8 @@ COUNTRIES = {
         "official languages": "French",
         "official religion": None,
         "nominal GDP": 30408000000,
-        "HDI": 0.53,
+        "HDI": .53,
+        "PwrIndx": 2.8925,
         "ISO 3166-1": {"alpha-2": "SN", "alpha-3": "SEN", "numeric": "686"},
     },
     "Serbia": {
@@ -2124,7 +2275,8 @@ COUNTRIES = {
         "official languages": "Serbian",
         "official religion": None,
         "nominal GDP": 75187000000,
-        "HDI": 0.833,
+        "HDI": .833,
+        "PwrIndx": 1.2938,
         "ISO 3166-1": {"alpha-2": "RS", "alpha-3": "SRB", "numeric": "688"},
     },
     "Seychelles": {
@@ -2138,7 +2290,8 @@ COUNTRIES = {
         "official languages": ["English", "French", "Seychellois Creole"],
         "official religion": None,
         "nominal GDP": 2141000000,
-        "HDI": 0.848,
+        "HDI": .848,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "SC", "alpha-3": "SYC", "numeric": "690"},
     },
     "Sierra Leone": {
@@ -2152,7 +2305,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 6412000000,
-        "HDI": 0.467,
+        "HDI": .467,
+        "PwrIndx": 3.9201,
         "ISO 3166-1": {"alpha-2": "SL", "alpha-3": "SLE", "numeric": "694"},
     },
     "Singapore": {
@@ -2166,7 +2320,8 @@ COUNTRIES = {
         "official languages": ["Singapore English", "Malay", "Singaporean Mandarin", "Singaporean Tamil"],
         "official religion": None,
         "nominal GDP": 501428000000,
-        "HDI": 0.946,
+        "HDI": .946,
+        "PwrIndx": .5272,
         "ISO 3166-1": {"alpha-2": "SG", "alpha-3": "SGP", "numeric": "702"},
     },
     "Slovakia": {
@@ -2180,7 +2335,8 @@ COUNTRIES = {
         "official languages": "Slovak",
         "official religion": None,
         "nominal GDP": 132908000000,
-        "HDI": 0.88,
+        "HDI": .88,
+        "PwrIndx": 1.3911,
         "ISO 3166-1": {"alpha-2": "SK", "alpha-3": "SVK", "numeric": "703"},
     },
     "Slovenia": {
@@ -2194,7 +2350,8 @@ COUNTRIES = {
         "official languages": "Slovene",
         "official religion": None,
         "nominal GDP": 69148000000,
-        "HDI": 0.931,
+        "HDI": .931,
+        "PwrIndx": 1.9404,
         "ISO 3166-1": {"alpha-2": "SI", "alpha-3": "SVN", "numeric": "705"},
     },
     "Solomon Islands": {
@@ -2208,7 +2365,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 1633000000,
-        "HDI": 0.584,
+        "HDI": .584,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "SB", "alpha-3": "SLB", "numeric": "090"},
     },
     "Somalia": {
@@ -2222,7 +2380,8 @@ COUNTRIES = {
         "official languages": ["Somali", "Arabic"],
         "official religion": "Sunni Islam",
         "nominal GDP": 10969000000,
-        "HDI": 0.404,
+        "HDI": .404,
+        "PwrIndx": 3.7393,
         "ISO 3166-1": {"alpha-2": "SO", "alpha-3": "SOM", "numeric": "706"},
     },
     "South Africa": {
@@ -2236,7 +2395,8 @@ COUNTRIES = {
         "official languages": ["Afrikaans", "South African English", "Southern Ndebele", "Sotho", "Northern Sotho", "Swazi", "Tsonga", "Tswana", "Venḓa", "Xhosa", "Zulu", "South African Sign Language"],
         "official religion": None,
         "nominal GDP": 377782000000,
-        "HDI": 0.741,
+        "HDI": .741,
+        "PwrIndx": .6843,
         "ISO 3166-1": {"alpha-2": "ZA", "alpha-3": "ZAF", "numeric": "710"},
     },
     "South Korea": {
@@ -2250,7 +2410,8 @@ COUNTRIES = {
         "official languages": ["Korean", "Korean Sign Language"],
         "official religion": None,
         "nominal GDP": 1839058000000,
-        "HDI": 0.937,
+        "HDI": .937,
+        "PwrIndx": .1642,
         "ISO 3166-1": {"alpha-2": "KR", "alpha-3": "KOR", "numeric": "410"},
     },
     "South Sudan": {
@@ -2264,7 +2425,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 4629000000,
-        "HDI": 0.388,
+        "HDI": .388,
+        "PwrIndx": 2.4645,
         "ISO 3166-1": {"alpha-2": "SS", "alpha-3": "SSD", "numeric": "728"},
     },
     "Spain": {
@@ -2278,7 +2440,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 1620091000000,
-        "HDI": 0.918,
+        "HDI": .918,
+        "PwrIndx": .3247,
         "ISO 3166-1": {"alpha-2": "ES", "alpha-3": "ESP", "numeric": "724"},
     },
     "Sri Lanka": {
@@ -2292,7 +2455,8 @@ COUNTRIES = {
         "official languages": ["Sinhala", "Tamil"],
         "official religion": "Buddhism",
         "nominal GDP": 84364000000,
-        "HDI": 0.776,
+        "HDI": .776,
+        "PwrIndx": 1.3822,
         "ISO 3166-1": {"alpha-2": "LK", "alpha-3": "LKA", "numeric": "144"},
     },
     "Sudan": {
@@ -2306,7 +2470,8 @@ COUNTRIES = {
         "official languages": ["Arabic", "English"],
         "official religion": None,
         "nominal GDP": 34021000000,
-        "HDI": 0.511,
+        "HDI": .511,
+        "PwrIndx": 1.3563,
         "ISO 3166-1": {"alpha-2": "SD", "alpha-3": "SDN", "numeric": "729"},
     },
     "Suriname": {
@@ -2320,7 +2485,8 @@ COUNTRIES = {
         "official languages": "Dutch",
         "official religion": None,
         "nominal GDP": 3759000000,
-        "HDI": 0.722,
+        "HDI": .722,
+        "PwrIndx": 4.0538,
         "ISO 3166-1": {"alpha-2": "SR", "alpha-3": "SUR", "numeric": "740"},
     },
     "Sweden": {
@@ -2334,7 +2500,8 @@ COUNTRIES = {
         "official languages": "Swedish",
         "official religion": None,
         "nominal GDP": 584960000000,
-        "HDI": 0.959,
+        "HDI": .959,
+        "PwrIndx": .4834,
         "ISO 3166-1": {"alpha-2": "SE", "alpha-3": "SWE", "numeric": "752"},
     },
     "Switzerland": {
@@ -2348,7 +2515,8 @@ COUNTRIES = {
         "official languages": ["French", "German", "Italian", "Romansh"],
         "official religion": None,
         "nominal GDP": 894425000000,
-        "HDI": 0.97,
+        "HDI": .97,
+        "PwrIndx": .8396,
         "ISO 3166-1": {"alpha-2": "CH", "alpha-3": "CHE", "numeric": "756"},
     },
     "Syria": {
@@ -2362,7 +2530,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": None,
         "nominal GDP": 29028000000,
-        "HDI": 0.564,
+        "HDI": .564,
+        "PwrIndx": 1.8861,
         "ISO 3166-1": {"alpha-2": "SY", "alpha-3": "SYR", "numeric": "760"},
     },
     "São Tomé and Príncipe": {
@@ -2376,7 +2545,8 @@ COUNTRIES = {
         "official languages": "Portuguese",
         "official religion": None,
         "nominal GDP": 684000000,
-        "HDI": 0.637,
+        "HDI": .637,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "ST", "alpha-3": "STP", "numeric": "678"},
     },
     "Tajikistan": {
@@ -2390,7 +2560,8 @@ COUNTRIES = {
         "official languages": "Tajik",
         "official religion": None,
         "nominal GDP": 12061000000,
-        "HDI": 0.691,
+        "HDI": .691,
+        "PwrIndx": 2.1749,
         "ISO 3166-1": {"alpha-2": "TJ", "alpha-3": "TJK", "numeric": "762"},
     },
     "Tanzania": {
@@ -2404,7 +2575,8 @@ COUNTRIES = {
         "official languages": ["Swahili", "English"],
         "official religion": None,
         "nominal GDP": 78353000000,
-        "HDI": 0.555,
+        "HDI": .555,
+        "PwrIndx": 1.9111,
         "ISO 3166-1": {"alpha-2": "TZ", "alpha-3": "TZA", "numeric": "834"},
     },
     "Thailand": {
@@ -2418,7 +2590,8 @@ COUNTRIES = {
         "official languages": "Thai",
         "official religion": None,
         "nominal GDP": 514945000000,
-        "HDI": 0.798,
+        "HDI": .798,
+        "PwrIndx": .4458,
         "ISO 3166-1": {"alpha-2": "TH", "alpha-3": "THA", "numeric": "764"},
     },
     "Timor-Leste": {
@@ -2432,7 +2605,8 @@ COUNTRIES = {
         "official languages": ["Portuguese", "Tetum"],
         "official religion": None,
         "nominal GDP": 2080000000,
-        "HDI": 0.634,
+        "HDI": .634,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "TL", "alpha-3": "TLS", "numeric": "626"},
     },
     "Togo": {
@@ -2446,7 +2620,8 @@ COUNTRIES = {
         "official languages": "French",
         "official religion": None,
         "nominal GDP": 9278000000,
-        "HDI": 0.571,
+        "HDI": .571,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "TG", "alpha-3": "TGO", "numeric": "768"},
     },
     "Tonga": {
@@ -2460,7 +2635,8 @@ COUNTRIES = {
         "official languages": ["English", "Tongan"],
         "official religion": None,
         "nominal GDP": 508000000,
-        "HDI": 0.769,
+        "HDI": .769,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "TO", "alpha-3": "TON", "numeric": "776"},
     },
     "Trinidad and Tobago": {
@@ -2474,7 +2650,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 25489000000,
-        "HDI": 0.807,
+        "HDI": .807,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "TT", "alpha-3": "TTO", "numeric": "780"},
     },
     "Tunisia": {
@@ -2488,7 +2665,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": None,
         "nominal GDP": 48541000000,
-        "HDI": 0.746,
+        "HDI": .746,
+        "PwrIndx": 1.7823,
         "ISO 3166-1": {"alpha-2": "TN", "alpha-3": "TUN", "numeric": "788"},
     },
     "Turkey": {
@@ -2502,7 +2680,8 @@ COUNTRIES = {
         "official languages": "Turkish",
         "official religion": None,
         "nominal GDP": 1118253000000,
-        "HDI": 0.853,
+        "HDI": .853,
+        "PwrIndx": .1975,
         "ISO 3166-1": {"alpha-2": "TR", "alpha-3": "TUR", "numeric": "792"},
     },
     "Turkmenistan": {
@@ -2516,7 +2695,8 @@ COUNTRIES = {
         "official languages": "Turkmen",
         "official religion": None,
         "nominal GDP": 59887000000,
-        "HDI": 0.764,
+        "HDI": .764,
+        "PwrIndx": 1.7459,
         "ISO 3166-1": {"alpha-2": "TM", "alpha-3": "TKM", "numeric": "795"},
     },
     "Tuvalu": {
@@ -2530,7 +2710,8 @@ COUNTRIES = {
         "official languages": ["Tuvaluan", "English"],
         "official religion": "Protestantism",
         "nominal GDP": 68000000,
-        "HDI": 0.689,
+        "HDI": .689,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "TV", "alpha-3": "TUV", "numeric": "798"},
     },
     "Uganda": {
@@ -2544,7 +2725,8 @@ COUNTRIES = {
         "official languages": ["English", "Swahili"],
         "official religion": None,
         "nominal GDP": 51023000000,
-        "HDI": 0.582,
+        "HDI": .582,
+        "PwrIndx": 2.3252,
         "ISO 3166-1": {"alpha-2": "UG", "alpha-3": "UGA", "numeric": "800"},
     },
     "Ukraine": {
@@ -2558,7 +2740,8 @@ COUNTRIES = {
         "official languages": "Ukrainian",
         "official religion": None,
         "nominal GDP": 178757000000,
-        "HDI": 0.779,
+        "HDI": .779,
+        "PwrIndx": .3691,
         "ISO 3166-1": {"alpha-2": "UA", "alpha-3": "UKR", "numeric": "804"},
     },
     "United Arab Emirates": {
@@ -2572,7 +2755,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Islam",
         "nominal GDP": 514130000000,
-        "HDI": 0.94,
+        "HDI": .94,
+        "PwrIndx": 1.0188,
         "ISO 3166-1": {"alpha-2": "AE", "alpha-3": "ARE", "numeric": "784"},
     },
     "United Kingdom": {
@@ -2586,7 +2770,8 @@ COUNTRIES = {
         "official languages": None,
         "official religion": None,
         "nominal GDP": 3380855000000,
-        "HDI": 0.946,
+        "HDI": .946,
+        "PwrIndx": .1881,
         "ISO 3166-1": {"alpha-2": "GB", "alpha-3": "GBR", "numeric": "826"},
     },
     "United States": {
@@ -2600,7 +2785,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": None,
         "nominal GDP": 27720700000000,
-        "HDI": 0.938,
+        "HDI": .938,
+        "PwrIndx": .0741,
         "ISO 3166-1": {"alpha-2": "US", "alpha-3": "USA", "numeric": "840"},
     },
     "Uruguay": {
@@ -2614,7 +2800,8 @@ COUNTRIES = {
         "official languages": ["Uruguayan Sign Language"],
         "official religion": None,
         "nominal GDP": 77236000000,
-        "HDI": 0.862,
+        "HDI": .862,
+        "PwrIndx": 2.1537,
         "ISO 3166-1": {"alpha-2": "UY", "alpha-3": "URY", "numeric": "858"},
     },
     "Uzbekistan": {
@@ -2628,7 +2815,8 @@ COUNTRIES = {
         "official languages": "Uzbek",
         "official religion": None,
         "nominal GDP": 90889000000,
-        "HDI": 0.74,
+        "HDI": .74,
+        "PwrIndx": .9908,
         "ISO 3166-1": {"alpha-2": "UZ", "alpha-3": "UZB", "numeric": "860"},
     },
     "Vanuatu": {
@@ -2642,7 +2830,8 @@ COUNTRIES = {
         "official languages": ["English", "French", "Bislama"],
         "official religion": None,
         "nominal GDP": 1119000000,
-        "HDI": 0.621,
+        "HDI": .621,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "VU", "alpha-3": "VUT", "numeric": "798"},
     },
     "Vatican City": {
@@ -2657,6 +2846,7 @@ COUNTRIES = {
         "official religion": "Catholicism",
         "nominal GDP": 18000000,
         "HDI": None,
+        "PwrIndx": None,
         "ISO 3166-1": {"alpha-2": "VA", "alpha-3": "VAT", "numeric": "336"},
     },
     "Venezuela": {
@@ -2670,7 +2860,8 @@ COUNTRIES = {
         "official languages": "Spanish",
         "official religion": None,
         "nominal GDP": 139395000000,
-        "HDI": 0.709,
+        "HDI": .709,
+        "PwrIndx": .9106,
         "ISO 3166-1": {"alpha-2": "VE", "alpha-3": "VEN", "numeric": "862"},
     },
     "Vietnam": {
@@ -2684,7 +2875,8 @@ COUNTRIES = {
         "official languages": "Vietnamese",
         "official religion": "Atheism",
         "nominal GDP": 429717000000,
-        "HDI": 0.766,
+        "HDI": .766,
+        "PwrIndx": .4066,
         "ISO 3166-1": {"alpha-2": "VN", "alpha-3": "VNM", "numeric": "704"},
     },
     "Yemen": {
@@ -2698,7 +2890,8 @@ COUNTRIES = {
         "official languages": "Arabic",
         "official religion": "Islam",
         "nominal GDP": 8758000000,
-        "HDI": 0.47,
+        "HDI": .47,
+        "PwrIndx": 2.1617,
         "ISO 3166-1": {"alpha-2": "YE", "alpha-3": "YEM", "numeric": "887"},
     },
     "Zambia": {
@@ -2712,7 +2905,8 @@ COUNTRIES = {
         "official languages": "English",
         "official religion": "Christianity",
         "nominal GDP": 27578000000,
-        "HDI": 0.595,
+        "HDI": .595,
+        "PwrIndx": 2.4461,
         "ISO 3166-1": {"alpha-2": "ZM", "alpha-3": "ZMB", "numeric": "894"},
     },
     "Zimbabwe": {
@@ -2726,21 +2920,8 @@ COUNTRIES = {
         "official languages": ["Chewa", "Sena", "English", "Kalanga", "Khoisan", "Nambya", "Ndau", "Northern Ndebele", "Tsonga", "Shona", "Sign languages", "Sotho", "Sotho", "Tswana", "Venḓa", "Xhosa"],
         "official religion": None,
         "nominal GDP": 30368000000,
-        "HDI": 0.598,
+        "HDI": .598,
+        "PwrIndx": 2.2801,
         "ISO 3166-1": {"alpha-2": "ZW", "alpha-3": "ZWE", "numeric": "716"},
     }
 }
-"""A dictionary contains all members and observer states of the United Nations and information about them:
-- Formal name
-- Motto (in English), source: https://en.wikipedia.org/wiki/List_of_national_mottos
-- Continent(s) of the country's mainland, order: Asia, Europe, Africa, North America, South America, Oceania
-- Landlocked or not
-- Area and land area (in square kilometre), source: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area
-- Population, source: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
-- Official language(s), source: https://en.wikipedia.org/wiki/List_of_official_languages_by_country_and_territory
-- Official religion, sources: https://en.wikipedia.org/wiki/State_religion; https://en.wikipedia.org/wiki/State_atheism
-- Nominal GDP (in dollar), sources: https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal); https://en.wikipedia.org/wiki/Vatican_City
-- Human Development Index (excluding Monaco, North Korea and Vatican City), source: https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index
-- ISO 3166-1 codes
-
-Note: the dictionary might contain inaccuracies"""

@@ -503,15 +503,4 @@ UNITED_STATES = {
         "Representatives": 1,
         "ISO 3166-2:US": "US-VI",
     },
-    # Source: https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States
 }
-"""A dictionary contains all states, federal district and inhabited territories of the United States and information about them:
-- Capital
-- Date of either ratification, establishment or acquisition and type
-- Landlocked or not
-- Area (in square kilometre)
-- Population
-- Representatives
-- ISO 3166-2:US codes
-
-Note: the dictionary might contain inaccuracies"""

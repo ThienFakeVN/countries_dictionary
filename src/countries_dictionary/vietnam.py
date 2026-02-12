@@ -271,14 +271,4 @@ VIETNAM = {
         "population": 2606672,
         "ISO 3166-2:VN": "VN-59",
     },
-    # Source: https://en.wikipedia.org/wiki/Provinces_of_Vietnam
 }
-"""A dictionary contains all provinces and municipalities of Vietnam and information about them:
-- Region
-- Landlocked or not
-- Administrative centre
-- Area (in square kilometre)
-- Population
-- ISO 3166-2:VN codes
-
-Note: the dictionary might contain inaccuracies"""

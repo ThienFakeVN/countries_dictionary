@@ -11,6 +11,7 @@ UNRECOGNISED_STATES = {
         "official religion": None,
         "nominal GDP": 384000000,
         "HDI": None,
+        "PwrIndx": .0,
         "ISO 3166-1": {"alpha-2": "CK", "alpha-3": "COK", "numeric": "184"},
     },
     "Kosovo": {
@@ -25,6 +26,7 @@ UNRECOGNISED_STATES = {
         "official religion": None,
         "nominal GDP": 11172000000,
         "HDI": None,
+        "PwrIndx": 3.8041,
         "ISO 3166-1": {"alpha-2": "XK", "alpha-3": None, "numeric": None},
     },
     "Niue": {
@@ -39,6 +41,7 @@ UNRECOGNISED_STATES = {
         "official religion": None,
         "nominal GDP": 18700000,
         "HDI": None,
+        "PwrIndx": .0,
         "ISO 3166-1": {"alpha-2": "NU", "alpha-3": "NIU", "numeric": "570"},
     },
     "Abkhazia": {
@@ -53,6 +56,7 @@ UNRECOGNISED_STATES = {
         "official religion": None,
         "nominal GDP": 270000000,
         "HDI": None,
+        "PwrIndx": .0,
         "ISO 3166-1": {"alpha-2": "XA", "alpha-3": None, "numeric": None}, # Used in Russia
     },
     "Northern Cyprus": {
@@ -67,6 +71,7 @@ UNRECOGNISED_STATES = {
         "official religion": None,
         "nominal GDP": 4234000000,
         "HDI": None,
+        "PwrIndx": .0,
         "ISO 3166-1": {"alpha-2": None, "alpha-3": None, "numeric": None},
     },
     "Western Sahara": {
@@ -81,6 +86,7 @@ UNRECOGNISED_STATES = {
         "official religion": "Islam",
         "nominal GDP": 0,
         "HDI": 0.5,
+        "PwrIndx": .0,
         "ISO 3166-1": {"alpha-2": "EH", "alpha-3": "ESH", "numeric": "732"},
     },
     "South Ossetia": {
@@ -95,6 +101,7 @@ UNRECOGNISED_STATES = {
         "official religion": None,
         "nominal GDP": 52000000,
         "HDI": None,
+        "PwrIndx": .0,
         "ISO 3166-1": {"alpha-2": "XO", "alpha-3": None, "numeric": None}, # Used in Russia
     },
     "Taiwan": {
@@ -109,6 +116,7 @@ UNRECOGNISED_STATES = {
         "official religion": None,
         "nominal GDP": 1966000000000,
         "HDI": 0.926,
+        "PwrIndx": .3927,
         "ISO 3166-1": {"alpha-2": "TW", "alpha-3": "TWN", "numeric": "158"},
     },
     "Transnistria": {
@@ -123,6 +131,7 @@ UNRECOGNISED_STATES = {
         "official religion": None,
         "nominal GDP": 1201000000,
         "HDI": None,
+        "PwrIndx": .0,
         "ISO 3166-1": {"alpha-2": None, "alpha-3": None, "numeric": None},
     },
     "Somaliland": {
@@ -137,9 +146,7 @@ UNRECOGNISED_STATES = {
         "official religion": "Islam",
         "nominal GDP": 3782000000,
         "HDI": None,
+        "PwrIndx": .0,
         "ISO 3166-1": {"alpha-2": None, "alpha-3": None, "numeric": None},
     },
 }
-"""A dictionary contains all partially recognised and unrecognised states and information about them (which is the same as it in the Countries dictionary)
-
-Note: the dictionary might contain inaccuracies"""

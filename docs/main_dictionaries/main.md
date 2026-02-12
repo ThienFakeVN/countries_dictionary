@@ -8,7 +8,7 @@ COUNTRIES = {
     "Afghanistan": {
         "formal name": "Islamic Emirate of Afghanistan",
         "motto": "There is no god but God; Muhammad is the messenger of God",
-        "continents": "Asia", 
+        "continents": "Asia",
         "landlocked": True,
         "area": 652864.0,
         "land area": 652230.0,
@@ -17,6 +17,7 @@ COUNTRIES = {
         "official religion": "Sunni Islam",
         "nominal GDP": 16417000000,
         "HDI": 0.496,
+        "PwrIndx": 2.7342,
         "ISO 3166-1": {"alpha-2": "AF", "alpha-3": "AFG", "numeric": "004"},
     },
     # ...
@@ -44,6 +45,8 @@ COUNTRIES = {
 - `"nominal GDP"`: Nominal gross domestic product of the country, type: `int`
 
 - `"HDI"`: Human Development Index of the country, type: `float`
+
+- `"PwrIndx"`: Power Index (acordding to Global Firepower) of the country, type: `float`
 
 - `"ISO 3166-1"`: ISO 3166-1 alpha-2, alpha-3 and numeric codes of the country, type: `dict`
 

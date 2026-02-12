@@ -801,15 +801,4 @@ RUSSIA = {
         "population": 1016707,
         "ISO 3166-2:RU": None,
     },
-    # Source: https://en.wikipedia.org/wiki/Federal_subjects_of_Russia
 }
-"""A dictionary contains all federal subjects of Russia and information about them:
-- Federal district
-- Economic region
-- Landlocked or not
-- Capital or administrative centre
-- Area (in square kilometre)
-- Population
-- ISO 3166-2:RU codes
-
-Note: the dictionary might contain inaccuracies"""

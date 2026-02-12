@@ -30,9 +30,3 @@ TRANSNISTRIA = {
         "population": 126306,
     },
 }
-"""A dictionary contains all raions and a municipality of Transnistria and information about them:
-- Administrative centre
-- Area (in square kilometre)
-- Population
-
-Note: the dictionary might contain inaccuracies"""
