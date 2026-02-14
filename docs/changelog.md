@@ -220,7 +220,7 @@ __Updated__
 ## [4.0.2] 2025.10.22
 __Updated__
 
-- updated some population information
+- Updated some population information
 
 ## [4.0.3] 2025.12.15
 __Updated__
@@ -400,9 +400,22 @@ __Added__
 
 - Added 1 type of countries' and unrecognised states' information: `"PwrIndx"`
 
-## [8.1.0] 2026.02.13
+## [8.1.0] 2026.02.14
 This version includes Global Firepower's Power Index and some dunder variables.
 
 __Added__
 
 - Added 3 dunder variables in the main `__init__.py`: `__author__`, `__email__`, `__version__`
+
+## [8.1.1] 2026.02.14
+__Updated__
+
+- Fixed [8.1.0]'s release date
+
+<!--
+## [8.2.0] 2026.02.
+This version adds the Vietnamese documentation for this module. Cảm ơn bất kì đồng chí nào đang sử dụng cái module này =)
+
+__Added__
+
+- Added the Vietnamese documentation-->
