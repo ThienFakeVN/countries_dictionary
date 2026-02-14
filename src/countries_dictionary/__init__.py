@@ -1,3 +1,9 @@
+"""A Python module for dictionaries of countries and related functions"""
+
+__author__ = "Ngô Trần Quang Thiện"
+__email__ = "quangthienngotran@gmail.com"
+__version__ = "8.1.0"
+
 from .countries import COUNTRIES
 from .russia import RUSSIA
 from .united_states import UNITED_STATES

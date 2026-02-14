@@ -1,6 +1,6 @@
 # Changelog
 ## [1.0.0] 2025.07.09
-The first release of Countries Dictionary.
+The first version of Countries Dictionary.
 
 __Added__
 
@@ -19,7 +19,7 @@ __Updated__
 - Fixed `README.md`'s grammar
 
 ## [2.0.0] 2025.07.30
-The second major release of Countries Dictionary, which includes new module files
+The second major version of Countries Dictionary, which includes new module files
 
 __Added__
 
@@ -45,14 +45,14 @@ __Updated__
 - Fixed how `quick_variables.py` imports `russia.py` and `vietnam.py`
 
 ## [2.1.0] 2025.07.31
-Since this release, you can publicly see the codes, licence, etc. of this module at https://github.com/ThienFakeVN/countries_dictionary (though, if you see this `CHANGELOG.md` then you have already known that)
+Since this version, you can publicly see the codes, licence, etc. of this module at https://github.com/ThienFakeVN/countries_dictionary (though, if you see this `CHANGELOG.md` then you have already known that)
 
 __Updated__
 
 - The module can now be maintained on GitHub
 
 ## [2.2.0] 2025.08.02
-The release which introduces `CHANGELOG.md` and various more things
+The version which introduces `CHANGELOG.md` and various more things
 
 __Added__
 
@@ -73,7 +73,7 @@ __Updated__
 
 - Removed the link to `CHANGELOG.md` in `README.md`
 
-- Added a reference of the adđition of the `CHANGELOG.md` file
+- Added a reference of the addition of the `CHANGELOG.md` file
 
 ## [2.2.2] 2025.08.02
 __Updated__
@@ -83,7 +83,7 @@ __Updated__
 - Altered the `countries`'s documentation
 
 ## [2.3.0] 2025.08.09
-A big release for `quick_variables.py` and British English (even though I've been using it since the first release), alongside adding some information for minor and major releases.
+A big version for `quick_variables.py` and British English (even though I've been using it since the first version), alongside adding some information for minor and major versions.
 
 __Added__
 
@@ -113,7 +113,7 @@ __Updated__
 - Renamed `countries`, `russia`, `vietnam` to `COUNTRIES`, `RUSSIA`, `VIETNAM` respectively in the module files
 
 ## [3.0.0] 2025.08.17
-The third major release of Countries Dictionary, which includes ISO codes (with related things) and the United States dictionary
+The third major version of Countries Dictionary, which includes ISO codes (with related things) and the United States dictionary
 
 __Added__
 
@@ -146,10 +146,10 @@ __Updated__
 ## [3.0.3] 2025.08.18
 __Updated__
 
-- Added information of [3.0.1] and [3.0.2] releases in `CHANGELOG.md`
+- Added information of [3.0.1] and [3.0.2] versions in `CHANGELOG.md`
 
 ## [3.1.0] 2025.08.20
-This release focuses on the `README.md` and `CHANGELOG.md`
+This version focuses on the `README.md` and `CHANGELOG.md`
 
 __Updated__
 
@@ -168,7 +168,7 @@ __Updated__
 ## [3.1.3] 2025.08.20
 __Updated__
 
-- Added information about [3.1.1] release
+- Added information about [3.1.1] version
 
 ## [3.1.4] 2025.08.22
 __Updated__
@@ -253,7 +253,7 @@ __Updated__
 ## [5.0.1] 2026.01.10
 __Updated__
 
-- Fixed the date of [5.0.0]'s release
+- Fixed the date of [5.0.0]'s version
 
 - Fixed `iso_ru_finder`'s `Exception`'s parameter
 
@@ -384,7 +384,7 @@ __Updated__
 
 - Altered `iso_finder.py` and `quick_functions.py`'s directory
 
-- Altered how `__init__.py` imports said module files
+- Altered how the main `__init__.py` imports said module files
 
 ## [8.0.0] 2026.02.03
 Another major version that has a previous development version and also altered the module structure.
@@ -393,9 +393,16 @@ __Updated__
 
 - Relabelled [8.0.0.dev1] as [8.0.0]
 
-## [8.1.0.dev1] 2026.02.12 <!--This version includes Global Firepower's Power Index.-->
+## [8.1.0.dev1] 2026.02.12
 __Added__
 
-- Altered how `__init__.py` imports other module files
+- Altered how the main `__init__.py` imports other module files
 
 - Added 1 type of countries' and unrecognised states' information: `"PwrIndx"`
+
+## [8.1.0] 2026.02.13
+This version includes Global Firepower's Power Index and some dunder variables.
+
+__Added__
+
+- Added 3 dunder variables in the main `__init__.py`: `__author__`, `__email__`, `__version__`
