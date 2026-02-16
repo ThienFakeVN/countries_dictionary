@@ -1,7 +1,8 @@
 # Transnistra dictionary
-The Pridnestrovian Moldavian Republic dictionary, which contains dictionaries of the country's raions, municipality and their information.
+Từ điển Cộng hòa Moldova Pridnestrovia, gồm các quận, thành phố của quốc gia này và thông tin của chúng.
 
 ## Structure
+Mỗi khóa trong biến `TRANSNISTRIA` có 3 cặp dữ liệu:
 Each key in the `TRANSNISTRIA` constant has 3 items:
 ```python
 TRANSNISTRIA = {
@@ -14,25 +15,25 @@ TRANSNISTRIA = {
 }
 ```
 
-- `"administrative centre"`: The administrative centre of the raion or municipality, type: `str`
+- `"administrative centre"`: Trung tâm hành chính của quận hoặc thành phố, type: `str`
 
-- `"area"`: Area (in square kilometre) of the raion or municipality, type: `float`
+- `"area"`: Diện tích (tính bằng kilômét vuông) của quận hoặc thành phố, type: `float`
 
-- `"population"`: Population of the province or municipality, type: `int`
+- `"population"`: Dân số của quận hoặc thành phố, type: `int`
 
 ## Usage example
 ```python
 from countries_dictionary import TRANSNISTRIA
 
-# Prints the area of a raion
+# In diện tích của một quận ra console
 print(TRANSNISTRIA["Rîbnița"]["area"])
 
-# Compares the population of two raions
+# So sánh dân số của hai quận
 print(TRANSNISTRIA["Camenca"]["population"] > TRANSNISTRIA["Tiraspol"]["population"])
 print(TRANSNISTRIA["Camenca"]["population"] == TRANSNISTRIA["Tiraspol"]["population"])
 print(TRANSNISTRIA["Camenca"]["population"] < TRANSNISTRIA["Tiraspol"]["population"])
 
-# Creates the list of all provinces
+# Tạo danh sách toàn bộ các quận và thành phố
 list_of_raions = list(TRANSNISTRIA.keys())
 print(list_of_raions)
 ```

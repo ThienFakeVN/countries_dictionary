@@ -1,5 +1,5 @@
 # United States dictionary
-The United States of America dictionary, which contains dictionaries of the country's states, federal district, inhabited territories and their information.
+The United States of America dictionary, consists of the country's states, federal district, inhabited territories and their information.
 
 ## Structure
 Each key in the `UNITED_STATES` constant has 7 items:
@@ -44,7 +44,7 @@ print(UNITED_STATES["California"]["Representatives"] > UNITED_STATES["Texas"]["R
 print(UNITED_STATES["California"]["Representatives"] == UNITED_STATES["Texas"]["Representatives"])
 print(UNITED_STATES["California"]["Representatives"] < UNITED_STATES["Texas"]["Representatives"])
 
-# Creates the list of all states
+# Creates the list of all states, federal district and inhabited territories
 list_of_states = list(UNITED_STATES.keys())
 print(list_of_states)
 ```

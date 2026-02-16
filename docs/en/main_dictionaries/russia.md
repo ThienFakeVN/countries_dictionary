@@ -1,5 +1,5 @@
 # Russia dictionary
-The Russian Federation dictionary, which contains dictionaries of the country's federal subjects and their information.
+The Russian Federation dictionary, consists of the country's federal subjects and their information.
 
 ## Structure
 Each key in the `RUSSIA` constant has 7 items:

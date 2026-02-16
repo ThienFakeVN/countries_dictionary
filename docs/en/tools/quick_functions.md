@@ -5,9 +5,9 @@ Some quick functions that may help you in your code.
 `quick_function()`, returns one of the dictionaries depends on the `dictionary` parameter and modify it depends on the `addition` parameter.
 
 ### Parameters
-- `dictionary`: Lets you choose the dictionary to work with, type: `str`, default: `"countries"`
+- `dictionary`: Let you choose the dictionary to work with, type: `str`, default: `"countries"`
 
-- `addition`: An additional information item for the dictionary, type: `str`, default `""`
+- `addition`: An additional information item for the dictionary, type: `str`, default: `""`
 
 ### Usage example
 ```python
@@ -35,9 +35,9 @@ print(full_dictionary)
 ### Parameters
 - `dictionary`: The dictionary to convert, type: `str`, default: `"countries"`
 
-- `addition`: An additional information item for the dictionary, type: `str`, default `""`
+- `addition`: An additional information item for the dictionary, type: `str`, default: `""`
 
-- `indent`: The indentation of the JSON string, type: `int`, `str`, `None`, default `None`
+- `indent`: The indentation of the JSON string, type: `int`, `str`, `None`, default: `None`
 
 ### Usage example
 ```python
@@ -47,8 +47,7 @@ from countries_dictionary import json_dictionary
 print(json_dictionary(indent=4))
 
 # Use an equivalent as "friendly_aid_to_our_little_moon_lua" through a JSON file
-with open("friendly_aid_to_our_little_moon_lua.json", "w") as f:
-    f.write(json_dictionary(indent=4))
+with open("friendly_aid_to_our_little_moon_lua.json", "w") as f: f.write(json_dictionary(indent=4))
 ```
 
 ## Sort dictionary
@@ -59,9 +58,9 @@ with open("friendly_aid_to_our_little_moon_lua.json", "w") as f:
 
 - `dictionary`: The dictionary to sort, type: `str`, default: `"countries"`
 
-- `addition`: An additional information item for the dictionary, type: `str`, default `""`
+- `addition`: An additional information item for the dictionary, type: `str`, default: `""`
 
-- `reverse`: Whether reverses the dictionary or not (the dictionary will be sorted from least to most by default), type: `bool`, default `True`
+- `reverse`: Whether reverses the dictionary or not (the dictionary will be sorted from most to least by default), type: `bool`, default: `True`
 
 ### Usage example
 ```python

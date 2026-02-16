@@ -29,7 +29,7 @@ __Added__
 
 - Added 6 variables in `quick_variables.py`: `json_countries`, `json_russia`, `json_vietnam`, `countries_france_censored`, `countries_area_sorted`, `countries_population_sorted`
 
-- Added 4 types of Russian subjects' information: `"federal district"`, `"economic region"`, `"area"`
+- Added 4 types of Russian subjects' information: `"federal district"`, `"economic region"`, `"area"`, `"population"`
 
 - Added 3 types of Vietnamese provinces' information: `"region"`, `"area"`, `"population"`
 
@@ -45,7 +45,7 @@ __Updated__
 - Fixed how `quick_variables.py` imports `russia.py` and `vietnam.py`
 
 ## [2.1.0] 2025.07.31
-Since this version, you can publicly see the codes, licence, etc. of this module at https://github.com/ThienFakeVN/countries_dictionary (though, if you see this `CHANGELOG.md` then you have already known that)
+Since this version, you can publicly see the codes, licence, etc. of this module at https://github.com/ThienFakeVN/countries_dictionary
 
 __Updated__
 
@@ -66,7 +66,7 @@ __Added__
 
 __Updated__
 
-- Replace `[None]`s in `official languages`s with `[]`, and `None`s in `federal district`s and `economic region`s with `""`
+- Replace `[None]`s in `official languages`s with `[]`, and `None`s in `federal district`s and `economic region`s in `russia.py` with `""`
 
 ## [2.2.1] 2025.08.02
 __Updated__
@@ -200,7 +200,7 @@ __Added__
 
 - Added 1 type of Vietnamese provinces' information: `ISO 3166-2:VN`
 
-- Added 1 module file: `transnistria.py`
+- Added 1 module file in unrecognised_states: `transnistria.py`
 
 - Added 3 types of Pridnestrovian raions: `"administrative centre"`, `"area"`, `"population"`
 
@@ -225,10 +225,10 @@ __Updated__
 ## [4.0.3] 2025.12.15
 __Updated__
 
-- Fixed information in README.md
+- Fixed information in `README.md`
 
 ## [5.0.0] 2026.01.08
-A major version, in which information such as `"population"` will now be updated regularly. Happy New Year by the way.
+Since this version, information such as `"population"` will now be updated regularly. Happy New Year by the way.
 
 __Added__
 
@@ -253,9 +253,9 @@ __Updated__
 ## [5.0.1] 2026.01.10
 __Updated__
 
-- Fixed the date of [5.0.0]'s version
+- Fixed [5.0.0]'s release date
 
-- Fixed `iso_ru_finder`'s `Exception`'s parameter
+- Fixed `iso_ru_finder()`'s `Exception`'s parameter
 
 ## [5.0.2] 2026.01.11
 __Updated__
@@ -274,7 +274,7 @@ __Updated__
 
 - Changed values that are empty (e.g. `""` in `"motto"`) into `None`
 
-- `sort_dictionary` in `quick_functions.py` now can filter out `None` values
+- `sort_dictionary()` in `quick_functions.py` now can filter out `None` values
 
 ## [5.1.1] 2026.01.11
 __Updated__
@@ -289,16 +289,14 @@ __Updated__
 ## [5.1.3] 2026.01.13
 __Updated__
 
-- Fixed Republic of the Congo's `HDI`
+- Fixed Republic of the Congo's `"HDI"`
 
 ## [6.0.0] 2026.01.24
-A very big version, where I added a documentation site for my module.
+A very big version, in which I added a documentation site for my module.
 
 __Added__
 
 - Added a documentation site for the Countries Dictionary <!-- thanks to mkdocs! -->
-
-- Added 1 module file: `mkdocs.yml`
 
 __Updated__
 
@@ -332,7 +330,7 @@ __Updated__
 ## [6.0.4] 2026.01.24
 __Updated__
 
-- Built the documentation site <!--i forgot to-->
+- Built the documentation site (I forgot to :v)
 
 ## [6.0.5] 2026.01.25
 __Updated__
@@ -412,10 +410,9 @@ __Updated__
 
 - Fixed [8.1.0]'s release date
 
-<!--
-## [8.2.0] 2026.02.
-This version adds the Vietnamese documentation for this module. Cảm ơn bất kì đồng chí nào đang sử dụng cái module này =)
+## [8.2.0] 2026.02.16
+This version adds the Vietnamese documentation for this module. Cảm ơn bất kì đồng chí nào đang sử dụng cái module này =) Chúc mừng Năm Bính Ngọ (sớm hơn 1 ngày) / Happy (early) New Year of the Fire Horse!
 
 __Added__
 
-- Added the Vietnamese documentation-->
+- Added the Vietnamese documentation

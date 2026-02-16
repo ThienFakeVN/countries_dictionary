@@ -1,5 +1,5 @@
 # Main Countries dictionary
-The main United Nations' members and observers dictionary, which contains dictionaries of countries and their information.
+The main United Nations' members and observers dictionary, consists of countries and their information.
 
 ## Structure
 Each key in the `COUNTRIES` constant has 12 items:
@@ -44,9 +44,9 @@ COUNTRIES = {
 
 - `"nominal GDP"`: Nominal gross domestic product of the country, type: `int`
 
-- `"HDI"`: Human Development Index of the country, type: `float`
+- `"HDI"`: Human Development Index of the country, type: `float`, `None` (if the country is not measured)
 
-- `"PwrIndx"`: Power Index (acordding to Global Firepower) of the country, type: `float`
+- `"PwrIndx"`: Power Index (acordding to Global Firepower) of the country, type: `float`, `None` (if the country is not measured)
 
 - `"ISO 3166-1"`: ISO 3166-1 alpha-2, alpha-3 and numeric codes of the country, type: `dict`
 

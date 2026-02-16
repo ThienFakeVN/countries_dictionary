@@ -1,22 +1,22 @@
 site_name: Countries Dictionary
 theme:
     name: material
-    language: en
+    language: en # This is the global UI fallback
     palette: 
         scheme: slate
         primary: indigo
 
 nav:
     - Home: index.md
-    - "Main dictionaries":
+    - Main dictionaries:
         - Main Countries dictionary: main_dictionaries/main.md
         - Russia dictionary: main_dictionaries/russia.md
         - United States dictionary: main_dictionaries/united_states.md
         - Vietnam dictionary: main_dictionaries/vietnam.md
-    - "Unrecognised dictionaries":
+    - Unrecognised dictionaries:
         - Main Unrecognised states dictionary: unrecognised_dictionaries/main.md
         - Transnistra dictionary: unrecognised_dictionaries/transnistria.md
-    - "Tools":
+    - Tools:
         - Quick functions: tools/quick_functions.md
         - ISO Finder: tools/iso_finder.md
     - Changelog: changelog.md
@@ -29,3 +29,31 @@ markdown_extensions:
     - pymdownx.inlinehilite
     - pymdownx.snippets
     - pymdownx.superfences
+
+plugins:
+    - i18n:
+        docs_structure: folder
+        fallback_to_default: true
+        languages:
+            - code: en
+              name: English
+              build: true
+              default: true
+              locale: en
+            - code: vi
+              name: Tiếng Việt
+              build: true
+              locale: vi
+              nav_translations:
+                Home: Trang chủ
+                Main dictionaries: Các từ điển chính
+                Main Countries dictionary: Từ điển Quốc gia chính
+                Russia dictionary: Từ điển Nga
+                United States dictionary: Từ điển Hoa Kỳ
+                Vietnam dictionary: Từ điển Việt Nam
+                Unrecognised dictionaries: Các từ điển Lãnh thổ không được công nhận
+                Main Unrecognised states dictionary: Từ điển Lãnh thổ không được công nhận chính
+                Transnistra dictionary: Từ điển Transnistra
+                Tools: Công cụ
+                Quick functions: Hàm nhanh
+                Changelog: Nhật kí cập nhật
