@@ -416,3 +416,8 @@ This version adds the Vietnamese documentation for this module. Cảm ơn bất 
 __Added__
 
 - Added the Vietnamese documentation
+
+## [8.2.1] 2026.02.16
+__Updated__
+
+- Added an `i18n` dependency in `pyproject.toml`

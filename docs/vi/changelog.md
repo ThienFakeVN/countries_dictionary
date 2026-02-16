@@ -416,3 +416,8 @@ Phiên bản này thêm vào bản tiếng Việt cho trang tài liệu của m�
 __Thêm__
 
 - Thêm vào bản bản tiếng Việt của trang tài liệu
+
+## [8.2.1] 2026.02.16
+__Chỉnh sửa__
+
+- Thêm dependency `i18n` vào `pyproject.toml`

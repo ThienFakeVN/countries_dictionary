@@ -8,6 +8,9 @@ version = "8.2.0"
 description = "Provides dictionaries contains countries and unrecognised states and information about them"
 readme = "README.md"
 requires-python = ">=3.7"
+dependencies = [
+    "i18n>=0.2",
+]
 
 authors = [
     { name = "Ngô Trần Quang Thiện", email = "quangthienngotran@gmail.com" }
