@@ -420,4 +420,4 @@ __Thêm__
 ## [8.2.1] 2026.02.16
 __Chỉnh sửa__
 
-- Thêm dependency `i18n` vào `pyproject.toml`
+- Sửa một lỗi nghiêm trọng
