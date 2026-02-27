@@ -371,7 +371,7 @@ __Chỉnh sửa__
 
 __Chỉnh sửa__
 
-- Áp dụng các thay đổi tính đến phiên bản [7.0.0.dev3] cho phiên bản này
+- Không có thay đổi
 
 ## [8.0.0.dev1] 2026.02.03
 __Chỉnh sửa__
@@ -389,7 +389,7 @@ Một phiên bản khác có các phiên bản phát triển, cũng như điều
 
 __Chỉnh sửa__
 
-- Áp dụng các thay đổi tính đến phiên bản [8.0.0.dev1] cho phiên bản này
+- Không có thay đổi
 
 ## [8.1.0.dev1] 2026.02.12
 __Thêm__
@@ -408,7 +408,7 @@ __Thêm__
 ## [8.1.1] 2026.02.14
 __Chỉnh sửa__
 
-- Sửa lại ngày phát hành phiên bản  [8.1.0]
+- Sửa lại ngày phát hành phiên bản [8.1.0]
 
 ## [8.2.0] 2026.02.16
 Phiên bản này thêm vào bản tiếng Việt cho trang tài liệu của mô đun này. Yep là cái thứ bạn đang đọc đấy. Chúc mừng Năm Bính Ngọ (sớm hơn 1 ngày)
@@ -421,3 +421,8 @@ __Thêm__
 __Chỉnh sửa__
 
 - Sửa một lỗi nghiêm trọng
+
+## [8.2.2] 2026.02.27
+__Chỉnh sửa__
+
+- Sửa một lỗi khiến cho nút chuyển ngôn ngữ không hoạt động chính xác

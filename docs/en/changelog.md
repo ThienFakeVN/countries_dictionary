@@ -371,7 +371,7 @@ The first version ever that has previous development versions.
 
 __Updated__
 
-- Relabelled [7.0.0.dev3] as [7.0.0]
+- No changes
 
 ## [8.0.0.dev1] 2026.02.03
 __Updated__
@@ -389,7 +389,7 @@ Another major version that has a previous development version and also altered t
 
 __Updated__
 
-- Relabelled [8.0.0.dev1] as [8.0.0]
+- No changes
 
 ## [8.1.0.dev1] 2026.02.12
 __Added__
@@ -421,3 +421,8 @@ __Added__
 __Updated__
 
 - Fixed a critical error
+
+## [8.2.2] 2026.02.27
+__Updated__
+
+- Fixed an error which made the change languages button wouldn't work correctly
