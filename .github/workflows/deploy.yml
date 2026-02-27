@@ -2,7 +2,7 @@ name: publish-docs
 on:
     push:
         branches:
-            - main    # Set this to your default branch name
+            - main
 permissions:
     contents: write
 jobs:

@@ -57,3 +57,6 @@ plugins:
                 Tools: Công cụ
                 Quick functions: Hàm nhanh
                 Changelog: Nhật kí cập nhật
+
+site_url: https://thienfakevn.github.io/countries_dictionary/
+use_directory_urls: false

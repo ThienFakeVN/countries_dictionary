@@ -3,7 +3,6 @@ Từ điển Cộng hòa Moldova Pridnestrovia, gồm các quận, thành phố 
 
 ## Structure
 Mỗi khóa trong biến `TRANSNISTRIA` có 3 cặp dữ liệu:
-Each key in the `TRANSNISTRIA` constant has 3 items:
 ```python
 TRANSNISTRIA = {
     "Camenca": {
