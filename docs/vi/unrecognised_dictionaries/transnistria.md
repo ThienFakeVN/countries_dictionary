@@ -14,11 +14,11 @@ TRANSNISTRIA = {
 }
 ```
 
-- `"administrative centre"`: Trung tâm hành chính của quận hoặc thành phố, type: `str`
+- `"administrative centre"`: Trung tâm hành chính của quận hoặc thành phố, loại dữ liệu: `str`
 
-- `"area"`: Diện tích (tính bằng kilômét vuông) của quận hoặc thành phố, type: `float`
+- `"area"`: Diện tích (tính bằng kilômét vuông) của quận hoặc thành phố, loại dữ liệu: `float`
 
-- `"population"`: Dân số của quận hoặc thành phố, type: `int`
+- `"population"`: Dân số của quận hoặc thành phố, loại dữ liệu: `int`
 
 ## Usage example
 ```python

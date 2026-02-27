@@ -426,3 +426,4 @@ __Updated__
 __Updated__
 
 - Fixed an error which made the change languages button wouldn't work correctly
+- Modified some lines in `changelog.md`s

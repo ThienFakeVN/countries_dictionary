@@ -426,3 +426,4 @@ __Chỉnh sửa__
 __Chỉnh sửa__
 
 - Sửa một lỗi khiến cho nút chuyển ngôn ngữ không hoạt động chính xác
+- Sửa một số dòng trong hai `changelog.md`
