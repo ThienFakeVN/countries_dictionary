@@ -427,3 +427,10 @@ __Updated__
 
 - Fixed an error which made the change languages button wouldn't work correctly
 - Modified some lines in `changelog.md`s
+
+## [8.2.3] 2026.03.13
+__Updated__
+
+- Monthly updated population information
+
+- Monthly updated Vatican City's GDP

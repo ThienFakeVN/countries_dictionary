@@ -364,7 +364,7 @@ __Chỉnh sửa__
 ## [7.0.0.dev3] 2026.02.02
 __Chỉnh sửa__
 
-- Altered how most module files import others Điều chỉnh cách các tệp mô đun nhập các tệp khác
+- Điều chỉnh cách các tệp mô đun nhập các tệp khác
 
 ## [7.0.0] 2026.02.02
 Đây là phiên bản đầu tiên có những bản cập nhật phát triển (development version).
@@ -427,3 +427,10 @@ __Chỉnh sửa__
 
 - Sửa một lỗi khiến cho nút chuyển ngôn ngữ không hoạt động chính xác
 - Sửa một số dòng trong hai `changelog.md`
+
+## [8.2.3] 2026.03.13
+__Chỉnh sửa__
+
+- Cập nhật thông tin dân số hàng tháng
+
+- Cập nhật GDP của Thành Vatican hàng tháng
