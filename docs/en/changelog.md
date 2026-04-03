@@ -45,7 +45,7 @@ __Updated__
 - Fixed how `quick_variables.py` imports `russia.py` and `vietnam.py`
 
 ## [2.1.0] 2025.07.31
-Since this version, you can publicly see the codes, licence, etc. of this module at https://github.com/ThienFakeVN/countries_dictionary
+Since This release, you can publicly see the codes, licence, etc. of this module at https://github.com/ThienFakeVN/countries_dictionary
 
 __Updated__
 
@@ -149,7 +149,7 @@ __Updated__
 - Added information of [3.0.1] and [3.0.2] versions in `CHANGELOG.md`
 
 ## [3.1.0] 2025.08.20
-This version focuses on the `README.md` and `CHANGELOG.md`
+This release focuses on the `README.md` and `CHANGELOG.md`
 
 __Updated__
 
@@ -228,7 +228,7 @@ __Updated__
 - Fixed information in `README.md`
 
 ## [5.0.0] 2026.01.08
-Since this version, information such as `"population"` will now be updated regularly. Happy New Year by the way.
+Since This release, information such as `"population"` will now be updated regularly. Happy New Year by the way.
 
 __Added__
 
@@ -399,7 +399,7 @@ __Added__
 - Added 1 type of countries' and unrecognised states' information: `"PwrIndx"`
 
 ## [8.1.0] 2026.02.14
-This version includes Global Firepower's Power Index and some dunder variables.
+This release includes Global Firepower's Power Index and some dunder variables.
 
 __Added__
 
@@ -411,7 +411,7 @@ __Updated__
 - Fixed [8.1.0]'s release date
 
 ## [8.2.0] 2026.02.16
-This version adds the Vietnamese documentation for this module. Cảm ơn bất kì đồng chí nào đang sử dụng cái module này =) Chúc mừng Năm Bính Ngọ (sớm hơn 1 ngày) / Happy (early) New Year of the Fire Horse!
+This release adds the Vietnamese documentation for this module. Cảm ơn bất kì đồng chí nào đang sử dụng cái module này =) Chúc mừng Năm Bính Ngọ (sớm hơn 1 ngày) / Happy (early) New Year of the Fire Horse!
 
 __Added__
 
@@ -434,3 +434,16 @@ __Updated__
 - Monthly updated population information
 
 - Monthly updated Vatican City's GDP
+
+## [8.3.0] 2026.04.03
+This release alters the Unrecognised Dictionaries' structure and removes the dunder variables.
+
+__Removed__
+
+- Removed 3 dunder variables in the main `__init__.py`: `__author__`, `__email__`, `__version__`
+
+__Updated__
+
+- Altered the Unrecognised Dictionaries' structure
+
+- Monthly updated population information

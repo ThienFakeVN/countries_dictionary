@@ -434,3 +434,16 @@ __Chỉnh sửa__
 - Cập nhật thông tin dân số hàng tháng
 
 - Cập nhật GDP của Thành Vatican hàng tháng
+
+## [8.3.0] 2026.04.03
+Phiên bản này thay đổi cấu trúc của các từ điển lãnh thổ không được công nhận và loại bỏ các biến trong tệp `__init__.py` chính.
+
+__Loại bỏ__
+
+- Loại bỏ 3 biến trong tệp `__init__.py` chính: `__author__`, `__email__`, `__version__`
+
+__Chỉnh sửa__
+
+- Chỉnh sửa cấu trúc các từ điển lãnh thổ không được công nhận
+
+- Cập nhật thông tin dân số hàng tháng
