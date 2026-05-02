@@ -1,7 +1,7 @@
 # Hàm nhanh
 Một số hàm được chuẩn bị sẵn có thể giúp ích cho bạn.
 
-## Quick function
+## Quick function <!--yep tôi cố tình ko dịch đấy-->
 `quick_function()`, trả về một từ điển dựa trên tham số `dictionary` và điều chỉnh nó dựa trên tham số `addition`.
 
 ### Tham số

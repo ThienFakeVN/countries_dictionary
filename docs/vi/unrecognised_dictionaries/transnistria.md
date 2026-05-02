@@ -1,7 +1,7 @@
-# Transnistra dictionary
+# Từ điển Transnistra
 Từ điển Cộng hòa Moldova Pridnestrovia, gồm các quận, thành phố của quốc gia này và thông tin của chúng.
 
-## Structure
+## Cấu trúc
 Mỗi khóa trong biến `TRANSNISTRIA` có 3 cặp dữ liệu:
 ```python
 TRANSNISTRIA = {
@@ -20,7 +20,7 @@ TRANSNISTRIA = {
 
 - `"population"`: Dân số của quận hoặc thành phố, loại dữ liệu: `int`
 
-## Usage example
+## Ví dụ sử dụng
 ```python
 from countries_dictionary import TRANSNISTRIA
 

@@ -1,7 +1,7 @@
-# United States dictionary
+# Từ điển Hoa Kỳ
 Từ điển Hợp chúng quốc Hoa Kỳ, gồm các bang, đặc khu liên bang, lãnh thổ của quốc gia này và thông tin của chúng.
 
-## Structure
+## Cấu trúc
 Mỗi khóa trong biến `UNITED_STATES` có 7 cặp dữ liệu:
 ```python
 UNITED_STATES = {

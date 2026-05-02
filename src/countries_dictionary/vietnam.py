@@ -24,7 +24,7 @@ VIETNAM = {
         "ISO 3166-2:VN": "VN-HP",
     },
     "Da Nang": { # Includes Hoàng Sa
-        "region": "South Central Coast",
+        "region": "South Central",
         "landlocked": False,
         "administrative centre": "Hải Châu ward",
         "area": 11859.59,
@@ -40,7 +40,7 @@ VIETNAM = {
         "ISO 3166-2:VN": "VN-CT",
     },
     "Huế": {
-        "region": "North Central Coast",
+        "region": "North Central",
         "landlocked": False,
         "administrative centre": "Thuận Hóa ward",
         "area": 4947.11,
@@ -152,7 +152,7 @@ VIETNAM = {
         "ISO 3166-2:VN": "VN-18",
     },
     "Thanh Hóa province": {
-        "region": "North Central Coast",
+        "region": "North Central",
         "landlocked": False,
         "administrative centre": "Hạc Thành ward",
         "area": 11114.71,
@@ -160,7 +160,7 @@ VIETNAM = {
         "ISO 3166-2:VN": "VN-21",
     },
     "Nghệ An province": {
-        "region": "North Central Coast",
+        "region": "North Central",
         "landlocked": False,
         "administrative centre": "Trường Vinh ward",
         "area": 16486.5,
@@ -168,7 +168,7 @@ VIETNAM = {
         "ISO 3166-2:VN": "VN-22",
     },
     "Hà Tĩnh province": {
-        "region": "North Central Coast",
+        "region": "North Central",
         "landlocked": False,
         "administrative centre": "Thành Sen ward",
         "area": 5994.45,
@@ -176,7 +176,7 @@ VIETNAM = {
         "ISO 3166-2:VN": "VN-23",
     },
     "Quảng Trị province": {
-        "region": "North Central Coast",
+        "region": "North Central",
         "landlocked": False,
         "administrative centre": "Đồng Hới ward",
         "area": 12700.0,
@@ -184,7 +184,7 @@ VIETNAM = {
         "ISO 3166-2:VN": "VN-25",
     },
     "Quảng Ngãi province": {
-        "region": "South Central Coast",
+        "region": "South Central",
         "landlocked": False,
         "administrative centre": "Cẩm Thành ward",
         "area": 14832.55,
@@ -192,7 +192,7 @@ VIETNAM = {
         "ISO 3166-2:VN": "VN-29",
     },
     "Gia Lai province": {
-        "region": "South Central Coast",
+        "region": "South Central",
         "landlocked": False,
         "administrative centre": "Quy Nhơn ward",
         "area": 21576.93,
@@ -200,7 +200,7 @@ VIETNAM = {
         "ISO 3166-2:VN": "VN-30",
     },
     "Đắk Lắk province": {
-        "region": "South Central Coast",
+        "region": "South Central",
         "landlocked": False,
         "administrative centre": "Buôn Ma Thuột ward",
         "area": 18096.4,
@@ -208,7 +208,7 @@ VIETNAM = {
         "ISO 3166-2:VN": "VN-33",
     },
     "Khánh Hòa province": { # Includes Trường Sa
-        "region": "South Central Coast",
+        "region": "South Central",
         "landlocked": False,
         "administrative centre": "Nha Trang ward",
         "area": 8555.86,
@@ -216,7 +216,7 @@ VIETNAM = {
         "ISO 3166-2:VN": "VN-34",
     },
     "Lâm Đồng province": {
-        "region": "South Central Coast",
+        "region": "South Central",
         "landlocked": False,
         "administrative centre": "Xuân Hương – Đà Lạt ward",
         "area": 24233.07,

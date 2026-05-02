@@ -45,7 +45,7 @@ __Updated__
 - Fixed how `quick_variables.py` imports `russia.py` and `vietnam.py`
 
 ## [2.1.0] 2025.07.31
-Since This release, you can publicly see the codes, licence, etc. of this module at https://github.com/ThienFakeVN/countries_dictionary
+Since this release, you can publicly see the codes, licence, etc. of this module at https://github.com/ThienFakeVN/countries_dictionary
 
 __Updated__
 
@@ -411,7 +411,7 @@ __Updated__
 - Fixed [8.1.0]'s release date
 
 ## [8.2.0] 2026.02.16
-This release adds the Vietnamese documentation for this module. Cảm ơn bất kì đồng chí nào đang sử dụng cái module này =) Chúc mừng Năm Bính Ngọ (sớm hơn 1 ngày) / Happy (early) New Year of the Fire Horse!
+This release adds the Vietnamese documentation for this module. Cảm ơn bất kì đồng chí nào đang sử dụng cái module này :) Chúc mừng Năm Bính Ngọ (sớm hơn 1 ngày) / Happy (early) New Year of the Fire Horse!
 
 __Added__
 
@@ -436,7 +436,7 @@ __Updated__
 - Monthly updated Vatican City's GDP
 
 ## [8.3.0] 2026.04.03
-This release alters the Unrecognised Dictionaries' structure and removes the dunder variables.
+This release alters the Unrecognised states dictionary's structure and removes the dunder variables.
 
 __Removed__
 
@@ -444,6 +444,15 @@ __Removed__
 
 __Updated__
 
-- Altered the Unrecognised Dictionaries' structure
+- Monthly updated population information
+
+- Altered the Unrecognised states dictionary's structure
+
+## [8.3.1] 2026.05.02
+__Updated__
 
 - Monthly updated population information
+
+- Altered values in `"region"`s of `vietnam.py`
+
+- Translated several lines in the Vietnamese documentation

@@ -436,7 +436,7 @@ __Chỉnh sửa__
 - Cập nhật GDP của Thành Vatican hàng tháng
 
 ## [8.3.0] 2026.04.03
-Phiên bản này thay đổi cấu trúc của các từ điển lãnh thổ không được công nhận và loại bỏ các biến trong tệp `__init__.py` chính.
+Phiên bản này thay đổi cấu trúc của từ điển các vùng lãnh thổ không được công nhận và loại bỏ các biến trong tệp `__init__.py` chính.
 
 __Loại bỏ__
 
@@ -444,6 +444,15 @@ __Loại bỏ__
 
 __Chỉnh sửa__
 
-- Chỉnh sửa cấu trúc các từ điển lãnh thổ không được công nhận
+- Cập nhật thông tin dân số hàng tháng
+
+- Chỉnh sửa cấu trúc từ điển các vùng lãnh thổ không được công nhận
+
+## [8.3.1] 2026.05.02
+__Chỉnh sửa__
 
 - Cập nhật thông tin dân số hàng tháng
+
+- Điều chỉnh giá trị của các khóa `"region"` trong `vietnam.py`
+
+- Dịch những dòng chưa được dịch trong tài liệu hướng dẫn tiếng Việt
