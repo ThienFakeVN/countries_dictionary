@@ -456,3 +456,9 @@ __Updated__
 - Altered values in `"region"`s of `vietnam.py`
 
 - Translated several lines in the Vietnamese documentation
+
+## [8.3.2] 2026.06.03
+
+__Updated__
+
+- Monthly updated population information

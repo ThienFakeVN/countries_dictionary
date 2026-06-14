@@ -111,7 +111,7 @@ UNRECOGNISED_STATES = {
         "landlocked": False,
         "area": 35980.0,
         "land area": 32260.0,
-        "population": 23270568,
+        "population": 23262544,
         "official languages": "Standard Chinese",
         "official religion": None,
         "nominal GDP": 1966000000000,

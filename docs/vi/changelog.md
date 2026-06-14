@@ -456,3 +456,8 @@ __Chỉnh sửa__
 - Điều chỉnh giá trị của các khóa `"region"` trong `vietnam.py`
 
 - Dịch những dòng chưa được dịch trong tài liệu hướng dẫn tiếng Việt
+
+## [8.3.2] 2026.06.03
+__Chỉnh sửa__
+
+- Cập nhật thông tin dân số hàng tháng
