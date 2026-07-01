@@ -426,6 +426,7 @@ __Chỉnh sửa__
 __Chỉnh sửa__
 
 - Sửa một lỗi khiến cho nút chuyển ngôn ngữ không hoạt động chính xác
+
 - Sửa một số dòng trong hai `changelog.md`
 
 ## [8.2.3] 2026.03.13
@@ -461,3 +462,12 @@ __Chỉnh sửa__
 __Chỉnh sửa__
 
 - Cập nhật thông tin dân số hàng tháng
+
+## [8.3.3] 2026.07.01
+__Updated__
+
+- Monthly updated population information
+
+- Added how to install the module in both documentation
+
+- Fixed various spots in the Vietnamese documentation

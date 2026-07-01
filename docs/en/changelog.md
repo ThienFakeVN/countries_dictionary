@@ -462,3 +462,12 @@ __Updated__
 __Updated__
 
 - Monthly updated population information
+
+## [8.3.3] 2026.07.01
+__Updated__
+
+- Monthly updated population information
+
+- Added how to install the module in both documentation
+
+- Fixed various spots in the Vietnamese documentation
