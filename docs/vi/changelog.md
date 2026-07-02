@@ -464,10 +464,15 @@ __Chỉnh sửa__
 - Cập nhật thông tin dân số hàng tháng
 
 ## [8.3.3] 2026.07.01
-__Updated__
+__Chỉnh sửa__
 
-- Monthly updated population information
+- Cập nhật thông tin dân số hàng tháng
 
-- Added how to install the module in both documentation
+- Thêm vào cách cài đặt module trong cả 2 tài liệu hướng dẫn
 
-- Fixed various spots in the Vietnamese documentation
+- Chỉnh sửa vài chỗ trong tài liệu hưỡng dẫn tiếng Việt
+
+## [8.3.4] 2026.07.01
+__Chỉnh sửa__
+
+- Sửa thông tin về phiên bản [8.3.3] trên tài liệu hướng dẫn tiếng Việt

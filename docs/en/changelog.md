@@ -471,3 +471,8 @@ __Updated__
 - Added how to install the module in both documentation
 
 - Fixed various spots in the Vietnamese documentation
+
+## [8.3.4] 2026.07.01
+__Chỉnh sửa__
+
+- Fixed information about the [8.3.3] version in the Vietnamese documentation
