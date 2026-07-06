@@ -23,7 +23,7 @@ VIETNAM = {
         "population": 4664124,
         "ISO 3166-2:VN": "VN-HP",
     },
-    "Da Nang": { # Includes Hoàng Sa
+    "Da Nang": { # Including Hoàng Sa
         "region": "South Central",
         "landlocked": False,
         "administrative centre": "Hải Châu ward",
@@ -207,7 +207,7 @@ VIETNAM = {
         "population": 3346853,
         "ISO 3166-2:VN": "VN-33",
     },
-    "Khánh Hòa province": { # Includes Trường Sa
+    "Khánh Hòa province": { # Including Trường Sa
         "region": "South Central",
         "landlocked": False,
         "administrative centre": "Nha Trang ward",

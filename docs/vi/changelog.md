@@ -475,4 +475,4 @@ __Chỉnh sửa__
 ## [8.3.4] 2026.07.01
 __Chỉnh sửa__
 
-- Sửa thông tin về phiên bản [8.3.3] trên tài liệu hướng dẫn tiếng Việt
+- Sửa lại thông tin về phiên bản [8.3.3] trên tài liệu hướng dẫn tiếng Việt

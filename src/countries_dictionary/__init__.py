@@ -8,5 +8,7 @@ from .vietnam import VIETNAM
 from .unrecognised_states import UNRECOGNISED_STATES
 from .unrecognised_states.transnistria import TRANSNISTRIA
 
+from .themed.communist_states import COMMUNIST_STATES
+
 from .tools.quick_functions import quick_function, json_dictionary, sort_dictionary
 from .tools.iso_finder import iso_finder, iso_ru_finder, iso_us_finder, iso_vn_finder

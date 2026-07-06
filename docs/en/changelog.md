@@ -186,7 +186,7 @@ __Added__
 
 - Added a submodule for unrecognised states
 
-- Added 1 module file in unrecognised_states: `__init__.py`
+- Added 2 module files in `unrecognised_states`: `__init__.py`, `transnistria.py`
 
 - Added 11 types of unrecognised states' information: `"formal name"`, `"motto"`, `"continents"`, `"landlocked"`, `"area"`, `"land area"`, `"population"`, `"official languages"`, `"nominal GDP"`, `"HDI"`, `"ISO 3166-1"`
 
@@ -200,9 +200,7 @@ __Added__
 
 - Added 1 type of Vietnamese provinces' information: `ISO 3166-2:VN`
 
-- Added 1 module file in unrecognised_states: `transnistria.py`
-
-- Added 3 types of Pridnestrovian raions: `"administrative centre"`, `"area"`, `"population"`
+- Added 3 types of Pridnestrovian raions' information: `"administrative centre"`, `"area"`, `"population"`
 
 __Updated__
 
@@ -476,3 +474,14 @@ __Updated__
 __Chỉnh sửa__
 
 - Fixed information about the [8.3.3] version in the Vietnamese documentation
+
+## [9.0.0.dev1] 2026.07.06
+__Added__
+
+- Introduced the official module's logo
+
+- Added a submodule for dictionaries with a specific theme (`themed`)
+
+- Added 1 module file in `themed`: `communist_states.py`
+
+- Added 10 types of communist states' information: `"party"`, `"politburo seats"`, `"politburo's term"`, `"central committee's members"`, `"central committee's alternates"`, `"central committee's term"`, `"SSOP"`, `"SSOP seats"`, `"party's SSOP seats"`, `"SSOP's term"`
