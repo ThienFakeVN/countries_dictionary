@@ -1,4 +1,4 @@
-<div align="center"><img src="image\countries_dictionary_logo.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/ThienFakeVN/thienfakevn.github.io/refs/heads/main/assets/countries_dictionary_logo_web.png"></div>
 
 Countries Dictionary is a data-oriented module which provides dictionaries of countries and states, from members of UN to unrecognised ones.
 

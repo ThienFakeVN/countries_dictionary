@@ -476,3 +476,25 @@ __Chỉnh sửa__
 __Chỉnh sửa__
 
 - Sửa lại thông tin về phiên bản [8.3.3] trên tài liệu hướng dẫn tiếng Việt
+
+## [9.0.0.dev1] 2026.07.06
+__Added__
+
+- Introduced the official module's logo
+
+- Added a submodule for dictionaries with a specific theme (`themed`)
+
+- Added 1 module file in `themed`: `communist_states.py`
+
+- Added 10 types of communist states' information: `"party"`, `"politburo seats"`, `"politburo's term"`, `"central committee's members"`, `"central committee's alternates"`, `"central committee's term"`, `"SSOP"`, `"SSOP seats"`, `"party's SSOP seats"`, `"SSOP's term"`
+
+## [9.0.0.dev2] 2026.07.07
+__Added__
+
+- Added 2 module files in `themed`: `__init__.py`, `european_union.py`
+
+- Added 2 types of EU members' information: `"date of accession"`, `"eurozone"`
+
+__Updated__
+
+- Fixed how `README.md` displays the module's logo
