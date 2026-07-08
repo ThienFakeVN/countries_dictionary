@@ -496,3 +496,8 @@ __Added__
 __Updated__
 
 - Fixed how `README.md` displays the module's logo
+
+## [9.0.0.dev3] 2026.07.08
+__Updated__
+
+- `quick_functions()` now accepts dictionaries from `themed`

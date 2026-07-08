@@ -1,32 +1,36 @@
-from countries_dictionary import COUNTRIES, RUSSIA, UNITED_STATES, VIETNAM, UNRECOGNISED_STATES, TRANSNISTRIA
+from countries_dictionary import COUNTRIES, RUSSIA, UNITED_STATES, VIETNAM, UNRECOGNISED_STATES, TRANSNISTRIA, COMMUNIST_STATES, EUROPEAN_UNION
 
 from json import dumps
 from copy import deepcopy
 
 def quick_function(dictionary: str = "countries", addition: str = ""):
     """Returns one of the dictionaries depends on the `dictionary` parameter and modify it depends on the `addition` parameter."""
+    themed = ("communist_states", "communist_state", "communist states", "communist state", "communist", "eu", "europe", "european_union", "european union")
     match dictionary.casefold():
         case "countries": thanhbinh = deepcopy(COUNTRIES)
         case "russia": thanhbinh = deepcopy(RUSSIA)
         case "united states" | "america": thanhbinh = deepcopy(UNITED_STATES)
         case "vietnam": thanhbinh = deepcopy(VIETNAM)
-        case "unrecognised_states" | "unrecognized_states" | "unrecognised" | "unrecognized": thanhbinh = deepcopy(UNRECOGNISED_STATES)
+        case "unrecognised_states" | "unrecognized_states" | "unrecognised states" | "unrecognized states" | "unrecognised" | "unrecognized": thanhbinh = deepcopy(UNRECOGNISED_STATES)
         case "transnistria" | "pridnestrovie": thanhbinh = deepcopy(TRANSNISTRIA)
+        case "communist_states" | "communist_state" | "communist states" | "communist state" | "communist": thanhbinh = deepcopy(COMMUNIST_STATES)
+        case "eu" | "europe" | "european_union" | "european union": thanhbinh = deepcopy(EUROPEAN_UNION)
         case _: raise Exception("This dictionary does not exist (yet)")
     match addition.casefold():
-        case "population density":
+        case "population density" if dictionary.casefold() not in themed:
             if dictionary.casefold() in ("countries", "unrecognised_states", "unrecognized_states", "unrecognised", "unrecognized"):
                 for x in thanhbinh: thanhbinh[x]["population density"] = thanhbinh[x]["population"] / thanhbinh[x]["land area"]
             else:
                 for x in thanhbinh: thanhbinh[x]["population density"] = thanhbinh[x]["population"] / thanhbinh[x]["area"]
-        case "gdp per capita":
+        case "gdp per capita" if dictionary.casefold() not in themed:
             if dictionary.casefold() in ("countries", "unrecognised_states", "unrecognized_states", "unrecognised", "unrecognized"):
                 for x in thanhbinh: thanhbinh[x]["GDP per capita"] = thanhbinh[x]["nominal GDP"] / thanhbinh[x]["population"]
             else: raise Exception("Only works with the Countries and Unrecognised states dictionary")
-        case "iso 3166-2":
+        case "iso 3166-2" if dictionary.casefold() not in themed:
             if dictionary.casefold() == "countries":
                 for x in thanhbinh: thanhbinh[x]["ISO 3166-2"] = "ISO 3166-2:" + thanhbinh[x]["ISO 3166-1"]["alpha-2"]
             else: raise Exception("Only works with the Countries dictionary")
+        case _ if dictionary.casefold() in themed: raise Exception("You can not modify a themed dictionary.")
     return thanhbinh
 
 def json_dictionary(dictionary: str = "countries", addition: str = "", indent: int | str | None = None):
