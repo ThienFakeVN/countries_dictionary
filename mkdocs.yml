@@ -18,6 +18,9 @@ nav:
     - Unrecognised dictionaries:
         - Main Unrecognised states dictionary: unrecognised_dictionaries/main.md
         - Transnistra dictionary: unrecognised_dictionaries/transnistria.md
+    - Themed dictionaries:
+        - Communist states dictionary: themed_dictionaries/communist_states.md
+        - European Union dictionary: themed_dictionaries/european_union.md
     - Tools:
         - Quick functions: tools/quick_functions.md
         - ISO Finder: tools/iso_finder.md
@@ -59,3 +62,6 @@ plugins:
                 Tools: Công cụ
                 Quick functions: Hàm nhanh
                 Changelog: Nhật kí cập nhật
+                Themed dictionaries: Từ điển theo chủ đề
+                Communist states dictionary: Từ điển Nhà nước cộng sản
+                European Union dictionary: Từ điển Liên minh châu Âu

@@ -468,7 +468,7 @@ __Chỉnh sửa__
 
 - Cập nhật thông tin dân số hàng tháng
 
-- Thêm vào cách cài đặt module trong cả 2 tài liệu hướng dẫn
+- Thêm vào cách cài đặt mô đun trong cả 2 tài liệu hướng dẫn
 
 - Chỉnh sửa vài chỗ trong tài liệu hưỡng dẫn tiếng Việt
 
@@ -478,28 +478,35 @@ __Chỉnh sửa__
 - Sửa lại thông tin về phiên bản [8.3.3] trên tài liệu hướng dẫn tiếng Việt
 
 ## [9.0.0.dev1] 2026.07.06
-__Added__
+__Thêm__
 
-- Introduced the official module's logo
+- Công bố logo chính thức của mô đun
 
-- Added a submodule for dictionaries with a specific theme (`themed`)
+- Thêm vào một mô đun phụ cho từ điển dựa trên một chủ đề nhất định (`themed`)
 
-- Added 1 module file in `themed`: `communist_states.py`
+- Thêm vào 1 tệp mô đun trong `themed`: `communist_states.py`
 
-- Added 10 types of communist states' information: `"party"`, `"politburo seats"`, `"politburo's term"`, `"central committee's members"`, `"central committee's alternates"`, `"central committee's term"`, `"SSOP"`, `"SSOP seats"`, `"party's SSOP seats"`, `"SSOP's term"`
+- Thêm vào 10 loại thông tin các nhà nước cộng sản: `"party"`, `"politburo seats"`, `"politburo's term"`, `"central committee's members"`, `"central committee's alternates"`, `"central committee's term"`, `"SSOP"`, `"SSOP seats"`, `"party's SSOP seats"`, `"SSOP's term"`
 
 ## [9.0.0.dev2] 2026.07.07
-__Added__
+__Thêm__
 
-- Added 2 module files in `themed`: `__init__.py`, `european_union.py`
+- Thêm vào 2 tệp mô đun trong `themed`: `__init__.py`, `european_union.py`
 
-- Added 2 types of EU members' information: `"date of accession"`, `"eurozone"`
+- Thêm vào 2 loại thông tin thành viên EU: `"date of accession"`, `"eurozone"`
 
-__Updated__
+__Chỉnh sửa__
 
-- Fixed how `README.md` displays the module's logo
+- Fixed how `README.md` displays the mô đun's logo
 
 ## [9.0.0.dev3] 2026.07.08
-__Updated__
+__Chỉnh sửa__
 
-- `quick_functions()` now accepts dictionaries from `themed`
+- `quick_functions()` bây giờ chấp nhận từ điển từ `themed`
+
+## [9.0.0] 2026.07.09
+Update ăn mừng 1 năm tạo module.
+
+__Chỉnh sửa__
+
+- Thêm thông tin cho mô đun phụ `themed` trong tài liệu hướng dẫn

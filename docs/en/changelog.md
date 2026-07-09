@@ -493,11 +493,14 @@ __Added__
 
 - Added 2 types of EU members' information: `"date of accession"`, `"eurozone"`
 
-__Updated__
-
-- Fixed how `README.md` displays the module's logo
-
 ## [9.0.0.dev3] 2026.07.08
 __Updated__
 
 - `quick_functions()` now accepts dictionaries from `themed`
+
+## [9.0.0] 2026.07.09
+The very release as the module's 1-year anniversary!
+
+__Updated__
+
+- Added information for the `themed` submodule in the documentation website
