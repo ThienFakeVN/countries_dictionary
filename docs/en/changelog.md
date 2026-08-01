@@ -504,3 +504,10 @@ The very release as the module's 1-year anniversary!
 __Updated__
 
 - Added information for the `themed` submodule in the documentation website
+
+## [9.0.1] 2026.08.01
+__Updated__
+
+- Monthly updated population information
+
+- Anually updated GDP information

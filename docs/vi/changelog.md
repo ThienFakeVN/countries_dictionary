@@ -510,3 +510,10 @@ Update ăn mừng 1 năm tạo module.
 __Chỉnh sửa__
 
 - Thêm thông tin cho mô đun phụ `themed` trong tài liệu hướng dẫn
+
+## [9.0.1] 2026.08.01
+__Updated__
+
+- Cập nhật thông tin dân số hàng tháng
+
+- Cập nhật thông tin GDP hàng năm
