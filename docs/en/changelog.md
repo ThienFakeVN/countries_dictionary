@@ -511,3 +511,8 @@ __Updated__
 - Monthly updated population information
 
 - Anually updated GDP information
+
+## [9.0.2] 2026.09.01
+__Updated__
+
+- Monthly updated population information

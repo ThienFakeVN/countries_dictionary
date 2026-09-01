@@ -512,8 +512,13 @@ __Chỉnh sửa__
 - Thêm thông tin cho mô đun phụ `themed` trong tài liệu hướng dẫn
 
 ## [9.0.1] 2026.08.01
-__Updated__
+__Chỉnh sửa__
 
 - Cập nhật thông tin dân số hàng tháng
 
 - Cập nhật thông tin GDP hàng năm
+
+## [9.0.2] 2026.09.01
+__Chỉnh sửa__
+
+- Cập nhật thông tin dân số hàng tháng
