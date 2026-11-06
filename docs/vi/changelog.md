@@ -527,3 +527,8 @@ __Chỉnh sửa__
 __Chỉnh sửa__
 
 - Cập nhật thông tin dân số hàng tháng
+
+## [9.0.4] 2026.11.06
+__Chỉnh sửa__
+
+- Cập nhật thông tin dân số hàng tháng

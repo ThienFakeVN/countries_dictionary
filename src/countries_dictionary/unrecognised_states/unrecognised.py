@@ -79,9 +79,9 @@ UNRECOGNISED_STATES = {
         "motto": "Freedom, Democracy, Unity",
         "continents": "Africa",
         "landlocked": False,
-        "area": 266000.0, # Claimed zone, controlled zone is 90000.0
-        "land area": 266000.0, # Claimed zone, controlled zone is 90000.0
-        "population": 200000, # In claimed zone, in the controlled zone is 40000
+        "area": 266000.0, # Claimed area, controlled area is 90000.0
+        "land area": 266000.0, # Claimed area, controlled area is 90000.0
+        "population": 200000, # In claimed area, in the controlled area is 40000
         "official languages": ["Arabic", "Spanish"],
         "official religion": "Islam",
         "nominal GDP": 0,
